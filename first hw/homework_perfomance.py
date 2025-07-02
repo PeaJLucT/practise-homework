@@ -3,7 +3,6 @@ import time
 import tracemalloc
 tracemalloc.start()
 
-
 '''
 # Создайте большие матрицы размеров:
 # - 64 x 1024 x 1024
