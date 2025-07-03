@@ -62,7 +62,7 @@ class ClassificationDataset(Dataset):
         self.y = y
 
     def __len__(self):
-        return len(self.X)
+        return (self.X)
 
     def __getitem__(self, idx):
         return self.X[idx], self.y[idx]
@@ -155,7 +155,6 @@ class LinearRegressionManualWithReg:
         state = torch.load(path)
         self.w = state['w']
         self.b = state['b']
-
 
 # - Добавьте early stopping
 class EarlyStopper:

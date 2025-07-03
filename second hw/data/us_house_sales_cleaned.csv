@@ -1,0 +1,3001 @@
+Price,City,State,Bedrooms,Bathrooms,Area_Sqft,Lot Size,Year Built,Days on Market,Property Type
+554217.0,San Diego,CA,1,3,772,4757,1959,101,Townhouse
+164454.0,Fresno,IL,1,1,2348,3615,1969,46,Apartment
+1249331.0,Sacramento,TX,6,1,3630,9369,1990,59,Townhouse
+189267.0,Fresno,TX,2,1,605,8804,1958,119,Apartment
+465778.0,Los Angeles,CA,3,2,1711,9260,2020,26,Townhouse
+738357.0,Sacramento,NY,5,3,1177,8317,2015,35,Multi-Family
+1325395.0,Sacramento,NY,6,1,1990,5592,2012,94,Townhouse
+1158003.0,San Diego,IL,2,2,1008,6010,1975,75,Townhouse
+240095.0,San Francisco,FL,6,2,929,5449,1975,79,Townhouse
+1356448.0,San Diego,NY,2,3,2094,2179,1970,111,Multi-Family
+678604.0,San Diego,FL,3,3,2350,3341,2013,25,Multi-Family
+1264926.0,Fresno,CA,3,1,2407,2609,1989,79,Apartment
+645962.0,Los Angeles,CA,4,3,2746,8256,2008,11,Condo
+575637.0,Sacramento,NY,1,4,3387,1740,1966,97,Condo
+507793.0,Fresno,CA,5,4,3480,2022,2007,66,Multi-Family
+1171629.0,Sacramento,TX,2,4,2351,2275,2007,46,Condo
+698570.0,Sacramento,CA,3,2,722,6443,1953,72,Apartment
+534688.0,San Francisco,TX,3,1,2356,3883,1958,114,Townhouse
+1108288.0,Los Angeles,NY,6,3,1156,1218,1958,28,Condo
+1173697.0,Los Angeles,TX,2,4,1554,9408,1982,1,Multi-Family
+980716.0,Los Angeles,IL,2,2,982,7527,1983,58,Multi-Family
+527238.0,Los Angeles,NY,4,4,3164,9694,1955,33,Condo
+1469257.0,Fresno,IL,5,3,635,1130,1990,42,Multi-Family
+1381949.0,San Francisco,TX,4,4,2966,2421,1997,38,Single Family
+898597.0,Sacramento,FL,6,3,3814,2093,1957,71,Condo
+1335481.0,Los Angeles,IL,2,4,1583,6306,1979,30,Apartment
+1444036.0,San Diego,CA,6,3,743,8853,2018,50,Townhouse
+831525.0,Sacramento,CA,4,3,1165,3128,1954,57,Townhouse
+911317.0,Los Angeles,NY,3,2,908,1492,1963,42,Apartment
+858386.0,San Francisco,FL,2,2,1475,1926,1983,102,Multi-Family
+705506.0,Sacramento,CA,6,1,3892,4133,1985,113,Townhouse
+1461297.0,San Diego,NY,1,3,3156,2935,1961,61,Apartment
+630339.0,San Diego,IL,1,4,1752,3040,1993,61,Single Family
+268142.0,Los Angeles,CA,6,4,3778,3988,2012,8,Single Family
+1250016.0,San Francisco,NY,3,4,3551,1230,1961,58,Multi-Family
+1231600.0,San Diego,CA,1,3,3640,9593,2008,108,Single Family
+1073723.0,San Diego,NY,6,1,1396,7815,1989,88,Apartment
+1353530.0,Los Angeles,FL,2,4,3442,3651,1952,108,Multi-Family
+272592.0,San Diego,CA,3,3,3641,9671,1988,115,Townhouse
+1401287.0,Los Angeles,NY,5,4,824,5426,2008,64,Apartment
+255138.0,San Diego,FL,4,4,3704,2027,1960,84,Condo
+235690.0,San Francisco,FL,4,2,3150,8121,1968,60,Townhouse
+1286157.0,San Diego,CA,2,1,1130,9652,2008,15,Apartment
+1197675.0,Sacramento,CA,4,1,2418,4843,1978,103,Apartment
+130113.0,San Diego,IL,6,1,641,6571,1998,23,Multi-Family
+327247.0,San Francisco,FL,6,4,692,8938,1996,90,Condo
+1253172.0,Sacramento,NY,2,2,1718,4766,1993,95,Townhouse
+947261.0,San Diego,CA,3,1,1515,1817,2013,3,Condo
+928085.0,Sacramento,FL,2,3,3201,6981,2014,63,Multi-Family
+1075059.0,Fresno,CA,4,2,806,5870,1990,22,Apartment
+704012.0,San Francisco,TX,2,2,2192,2491,2022,82,Multi-Family
+894851.0,Los Angeles,NY,1,1,2983,6389,1975,89,Single Family
+1062706.0,San Diego,FL,2,4,1143,3561,2006,28,Multi-Family
+1293272.0,San Diego,TX,1,3,1004,4822,1982,28,Apartment
+121941.0,San Diego,IL,4,1,1266,6554,1961,45,Townhouse
+1054157.0,Los Angeles,CA,3,2,3080,2905,1981,2,Apartment
+1064596.0,San Francisco,FL,5,1,2383,7954,1995,73,Condo
+1301207.0,Sacramento,TX,5,4,659,9317,1985,46,Single Family
+1429718.0,San Francisco,FL,1,4,3082,4211,1974,55,Single Family
+570284.0,Sacramento,CA,1,1,2654,1426,1990,57,Condo
+136498.0,Los Angeles,CA,5,4,3410,4595,1988,71,Townhouse
+1118129.0,San Diego,CA,4,1,3593,8559,2006,51,Single Family
+348881.0,Los Angeles,NY,5,1,3368,1942,1954,81,Multi-Family
+1224280.0,San Diego,CA,3,3,1071,3640,1965,95,Condo
+435555.0,Los Angeles,FL,2,2,2403,8914,1955,18,Condo
+1142134.0,Los Angeles,NY,2,3,3515,6385,2018,49,Multi-Family
+929862.0,Sacramento,NY,3,1,1640,2571,1950,58,Multi-Family
+557894.0,Fresno,IL,5,1,2551,3014,2006,76,Townhouse
+282593.0,San Francisco,TX,6,2,2153,6999,1977,31,Single Family
+390371.0,Sacramento,NY,5,4,3539,9313,1985,47,Multi-Family
+1103898.0,Sacramento,TX,2,1,1088,4186,1983,58,Multi-Family
+324492.0,Fresno,FL,2,1,3618,4317,1998,116,Apartment
+442170.0,San Francisco,CA,6,4,1647,6299,2008,52,Apartment
+1081035.0,Los Angeles,NY,5,4,2892,8833,2002,52,Multi-Family
+249975.0,Fresno,TX,5,1,2625,5667,1968,96,Townhouse
+754480.0,San Diego,IL,1,4,2042,4863,1958,120,Multi-Family
+362957.0,Los Angeles,IL,5,2,3482,1702,2011,92,Apartment
+1387573.0,San Diego,IL,3,4,1949,5913,1975,84,Single Family
+1257567.0,Fresno,IL,2,1,3887,8829,1957,43,Condo
+1217931.0,San Diego,IL,1,3,2977,3400,2004,62,Multi-Family
+1369617.0,San Diego,FL,4,3,2199,3140,1974,64,Apartment
+1367380.0,Los Angeles,FL,6,2,2960,8344,2011,33,Multi-Family
+653513.0,San Francisco,CA,3,2,862,6303,1972,64,Multi-Family
+1052313.0,Sacramento,IL,1,4,2552,4272,1998,81,Single Family
+1402065.0,Fresno,NY,6,1,3504,3470,1952,45,Townhouse
+258025.0,Sacramento,TX,2,2,2930,9853,1993,8,Multi-Family
+1346411.0,San Francisco,FL,1,1,2849,8155,1952,104,Condo
+765276.0,Fresno,TX,5,2,2415,6387,1950,50,Single Family
+1478929.0,Los Angeles,NY,1,2,3351,1858,1962,102,Condo
+616741.0,Fresno,FL,2,1,1258,2818,1966,73,Apartment
+1089190.0,San Francisco,CA,4,1,787,5227,1999,119,Single Family
+733862.0,Sacramento,IL,6,1,2342,5419,1984,46,Apartment
+367764.0,San Diego,NY,3,1,2761,9262,1960,99,Townhouse
+890978.0,Sacramento,IL,1,4,3887,3596,2000,119,Multi-Family
+139928.0,San Francisco,CA,1,3,2093,1094,1977,34,Apartment
+574704.0,Los Angeles,NY,1,1,903,6122,2006,43,Apartment
+454473.0,Fresno,IL,5,2,3693,9896,1951,87,Apartment
+548614.0,Sacramento,IL,3,1,3527,3201,2008,108,Condo
+741710.0,Sacramento,CA,1,4,1224,3876,2001,27,Townhouse
+1300809.0,San Francisco,CA,5,4,2543,7979,2001,108,Multi-Family
+347172.0,Los Angeles,CA,5,1,3638,2063,2017,43,Condo
+843750.0,Fresno,CA,1,3,1069,3385,2010,43,Apartment
+833347.0,San Diego,TX,4,4,2669,3606,1958,40,Multi-Family
+1440759.0,San Diego,TX,5,3,1012,6279,1954,94,Condo
+1100894.0,San Diego,NY,6,4,1741,5632,1970,86,Apartment
+671356.0,San Francisco,IL,5,4,734,1972,2006,1,Multi-Family
+1194026.0,Los Angeles,IL,4,2,3407,3199,2009,96,Apartment
+258887.0,Los Angeles,IL,5,3,1232,3758,1976,57,Condo
+204548.0,San Francisco,NY,3,4,2665,4095,2020,61,Apartment
+1167370.0,Fresno,IL,5,1,823,4310,2021,88,Townhouse
+1009558.0,Sacramento,NY,4,2,3944,7637,1983,27,Townhouse
+1256611.0,Sacramento,CA,2,4,3037,9989,1956,25,Townhouse
+439407.0,San Francisco,IL,2,4,2796,7855,1969,15,Apartment
+115004.0,San Francisco,FL,4,3,2671,8290,1967,11,Condo
+204351.0,Los Angeles,NY,4,3,1540,4699,1962,34,Multi-Family
+231952.0,San Francisco,CA,5,3,3428,3914,2015,43,Condo
+1451974.0,Sacramento,CA,6,3,2284,4615,1964,55,Multi-Family
+970820.0,Sacramento,CA,5,3,1506,3116,2004,117,Townhouse
+327979.0,San Francisco,TX,4,2,2154,9985,1971,71,Single Family
+1277005.0,Fresno,IL,5,3,3518,5620,2002,12,Townhouse
+1411376.0,San Diego,NY,5,3,2666,5243,1995,16,Condo
+603748.0,San Diego,IL,3,1,3411,6632,1956,88,Condo
+1388656.0,Sacramento,NY,5,3,1628,2454,2002,76,Apartment
+190705.0,Fresno,NY,6,2,3167,9130,1957,120,Townhouse
+878059.0,Sacramento,NY,1,3,3060,4666,1974,46,Multi-Family
+581015.0,San Diego,CA,5,2,1800,8145,1987,49,Single Family
+1129910.0,San Francisco,CA,2,3,1809,2168,1988,26,Condo
+1122084.0,San Diego,NY,6,2,3061,8290,2000,78,Townhouse
+903726.0,Los Angeles,FL,3,1,2988,7286,2017,36,Apartment
+242071.0,Los Angeles,IL,3,1,2897,9444,1997,90,Single Family
+208486.0,Los Angeles,CA,4,2,3524,3925,1955,115,Apartment
+860219.0,San Francisco,NY,6,1,963,5769,2008,78,Condo
+215904.0,San Diego,TX,6,4,2701,9476,1995,47,Multi-Family
+1355937.0,Sacramento,CA,5,2,904,9151,1956,75,Apartment
+100866.0,Fresno,NY,1,1,2107,6485,2012,10,Apartment
+1131957.0,San Francisco,IL,1,4,2573,6461,2022,22,Apartment
+441645.0,San Diego,CA,2,1,3733,1332,1960,114,Condo
+1296346.0,Los Angeles,FL,5,1,3232,2119,2019,43,Multi-Family
+162697.0,Sacramento,IL,6,3,1624,1726,1972,18,Townhouse
+233832.0,Los Angeles,IL,3,4,2722,8216,1998,14,Condo
+946472.0,Fresno,CA,2,3,1009,8969,2022,58,Condo
+339864.0,Fresno,FL,3,1,3584,1287,1968,109,Townhouse
+996664.0,San Diego,CA,5,3,939,9095,1982,66,Single Family
+891575.0,Sacramento,FL,2,4,1845,3851,1998,91,Multi-Family
+725711.0,San Francisco,CA,6,1,803,6903,2010,27,Apartment
+644055.0,Fresno,NY,1,3,2972,5735,1955,81,Townhouse
+493145.0,Fresno,TX,5,2,2880,2593,1981,82,Condo
+204309.0,San Francisco,NY,4,3,3377,6022,2010,38,Condo
+517031.0,San Francisco,IL,3,1,2633,4383,1972,49,Single Family
+1204990.0,San Francisco,CA,3,1,2785,6544,2009,47,Apartment
+1001011.0,San Diego,IL,6,1,1905,4957,1975,12,Apartment
+1021673.0,San Francisco,FL,4,2,3019,8469,1969,57,Condo
+1289770.0,Los Angeles,IL,3,2,3728,4055,1980,50,Condo
+1107344.0,San Diego,CA,6,2,1448,8937,1990,87,Multi-Family
+369317.0,San Francisco,IL,5,4,2607,3593,2010,91,Townhouse
+895834.0,Sacramento,NY,1,2,1418,9398,1975,47,Multi-Family
+1229258.0,Fresno,NY,2,1,2690,3636,1955,56,Condo
+598034.0,Fresno,CA,4,3,2174,3623,1970,65,Townhouse
+1425415.0,San Diego,CA,3,4,3225,7924,1972,22,Townhouse
+998214.0,Sacramento,NY,3,2,1102,7579,2010,6,Apartment
+978002.0,Fresno,CA,3,3,2310,2680,1968,108,Apartment
+417290.0,Fresno,FL,3,3,2374,9265,1950,46,Townhouse
+1400298.0,Los Angeles,FL,6,2,2943,4739,1975,3,Multi-Family
+633891.0,San Francisco,NY,4,4,3481,8346,1967,14,Townhouse
+365175.0,San Francisco,CA,1,2,3651,7482,1954,18,Multi-Family
+1137506.0,Sacramento,CA,2,1,1385,3062,2009,42,Single Family
+506158.0,Fresno,CA,5,4,2306,1972,1985,8,Multi-Family
+518222.0,Fresno,NY,4,2,1462,2320,2000,114,Single Family
+321323.0,San Francisco,IL,6,1,1053,7863,2012,30,Condo
+130843.0,Los Angeles,IL,3,2,1430,5008,2008,54,Single Family
+466691.0,San Francisco,CA,1,2,1741,2238,2014,18,Condo
+430345.0,San Francisco,CA,2,1,3871,8875,1990,44,Apartment
+179767.0,Sacramento,NY,3,2,2531,9649,1987,47,Single Family
+1321540.0,Fresno,FL,1,4,1697,3282,1964,108,Single Family
+814097.0,San Francisco,FL,4,3,1874,3262,2006,74,Condo
+305871.0,San Diego,NY,2,1,1084,6213,1982,20,Multi-Family
+511660.0,Los Angeles,FL,6,4,1268,6416,1988,45,Apartment
+100366.0,Los Angeles,IL,5,3,1383,1172,1966,102,Condo
+482895.0,San Francisco,IL,2,3,1942,6402,1967,103,Single Family
+1205338.0,Sacramento,FL,6,4,3763,5643,1990,68,Townhouse
+991560.0,Fresno,CA,3,1,3594,8781,2004,32,Condo
+1399592.0,San Francisco,FL,3,3,2107,3647,1974,41,Single Family
+257927.0,San Diego,NY,6,2,3845,2577,2019,108,Apartment
+632033.0,Los Angeles,IL,4,2,2424,9094,1964,97,Condo
+328592.0,Los Angeles,TX,5,2,782,7738,1981,60,Condo
+1491526.0,Fresno,NY,1,1,1372,7782,2001,82,Apartment
+241995.0,Los Angeles,FL,4,4,2842,4737,1987,24,Single Family
+183679.0,San Francisco,FL,5,1,3566,2593,1968,32,Townhouse
+803730.0,San Diego,IL,2,3,2648,4097,1962,83,Townhouse
+707137.0,San Diego,IL,6,4,1102,1279,1954,48,Apartment
+121284.0,Fresno,FL,6,3,3267,8097,1998,116,Single Family
+430954.0,Los Angeles,FL,6,4,764,3879,1975,3,Single Family
+890970.0,Sacramento,IL,2,2,3929,6154,1991,108,Townhouse
+459948.0,Los Angeles,IL,5,1,1287,5152,2000,114,Townhouse
+1060149.0,Sacramento,FL,5,3,1000,4951,1982,40,Townhouse
+556583.0,San Francisco,TX,1,2,2585,3762,1982,44,Condo
+200783.0,San Diego,IL,4,1,2784,1944,1983,102,Apartment
+243533.0,San Diego,NY,4,3,2702,3639,1969,79,Condo
+408518.0,Fresno,FL,1,3,1152,4219,2012,49,Single Family
+1371610.0,Fresno,NY,4,2,2668,5454,1968,89,Condo
+1436618.0,Fresno,TX,4,2,1979,2167,1956,53,Multi-Family
+1359152.0,Fresno,TX,2,2,3125,2175,2001,25,Townhouse
+589245.0,Fresno,CA,1,1,794,1177,1987,39,Townhouse
+1427494.0,Los Angeles,NY,4,4,2514,7593,1994,100,Townhouse
+1230642.0,San Francisco,FL,5,4,2342,6874,2021,61,Condo
+1304385.0,Los Angeles,NY,4,3,878,4083,2004,41,Condo
+747218.0,San Diego,CA,3,4,2623,1356,2020,44,Condo
+414153.0,San Diego,FL,1,4,1065,3682,1956,113,Condo
+1471246.0,San Francisco,FL,4,4,3930,3160,1992,71,Multi-Family
+233461.0,San Diego,TX,2,4,2715,2504,1987,41,Condo
+415590.0,Sacramento,FL,2,4,820,8355,1958,43,Apartment
+628913.0,San Francisco,CA,1,2,3131,6904,1980,9,Condo
+1161136.0,Fresno,TX,5,4,1576,3947,1983,4,Townhouse
+1187629.0,Los Angeles,FL,4,4,1977,7601,1981,73,Condo
+1411862.0,Fresno,NY,3,2,650,2491,1976,56,Condo
+631172.0,San Francisco,IL,6,3,3655,8072,1983,18,Apartment
+1453453.0,San Francisco,FL,6,1,1300,3142,2004,29,Apartment
+157884.0,Los Angeles,TX,3,4,1577,6868,1965,39,Multi-Family
+1193460.0,Fresno,IL,6,2,1775,3631,1952,93,Multi-Family
+566443.0,Los Angeles,NY,2,2,665,2481,1988,53,Condo
+540820.0,Sacramento,TX,5,3,3824,1336,1973,29,Single Family
+148463.0,San Francisco,TX,3,2,3549,4940,1962,16,Apartment
+922164.0,Los Angeles,IL,4,3,2329,2940,2019,69,Apartment
+925438.0,Sacramento,CA,2,3,2307,7339,2019,37,Apartment
+421606.0,Sacramento,NY,6,1,2345,7348,2009,22,Apartment
+913878.0,Sacramento,FL,2,1,3288,1472,1984,38,Multi-Family
+1258728.0,San Francisco,IL,3,4,2128,1335,1992,100,Single Family
+672952.0,San Diego,NY,3,4,1166,6068,2002,34,Single Family
+1254323.0,Los Angeles,CA,4,3,1051,6205,2019,72,Multi-Family
+157609.0,Los Angeles,CA,3,2,1100,8618,2019,11,Multi-Family
+1319677.0,Los Angeles,TX,6,3,1310,6670,1967,120,Townhouse
+144964.0,Sacramento,IL,5,3,1141,8933,1994,62,Apartment
+1246074.0,San Francisco,IL,4,3,1907,6531,2007,52,Single Family
+339783.0,Sacramento,FL,1,4,3346,6926,1953,100,Single Family
+1069438.0,Los Angeles,IL,1,3,1684,6802,1992,82,Multi-Family
+391685.0,Los Angeles,NY,5,2,1816,7277,1983,36,Condo
+1273944.0,Los Angeles,CA,3,3,2465,8960,1993,31,Apartment
+832115.0,Sacramento,TX,3,1,3103,7144,2016,75,Single Family
+738248.0,Los Angeles,CA,1,3,1081,6201,1960,98,Condo
+190155.0,Los Angeles,NY,6,3,1668,9748,1970,68,Single Family
+603539.0,Los Angeles,NY,2,3,1086,3929,1976,50,Multi-Family
+578510.0,San Diego,TX,5,3,2581,2355,1954,20,Single Family
+1103122.0,Sacramento,CA,2,2,2931,2144,1970,98,Multi-Family
+615962.0,Los Angeles,CA,2,3,3176,7268,1953,40,Multi-Family
+1012565.0,Fresno,FL,6,4,965,1073,1970,95,Multi-Family
+1246322.0,Los Angeles,FL,6,4,912,1399,1961,41,Townhouse
+128445.0,San Francisco,TX,1,1,2206,5397,1982,111,Apartment
+1399813.0,Los Angeles,FL,1,2,726,3438,1957,38,Multi-Family
+246724.0,Sacramento,IL,3,2,3255,5242,1970,95,Single Family
+1445108.0,Fresno,NY,2,4,2395,9573,2000,31,Townhouse
+489643.0,San Diego,IL,6,1,3166,8056,1960,25,Apartment
+183352.0,San Diego,CA,6,2,2241,1726,1961,70,Multi-Family
+490661.0,San Francisco,IL,4,4,2584,2927,1962,34,Single Family
+730647.0,San Francisco,IL,5,1,2075,4257,2013,55,Apartment
+1123836.0,San Francisco,NY,1,2,919,6556,1989,78,Townhouse
+800312.0,San Diego,NY,2,2,2014,2859,1960,111,Multi-Family
+247619.0,Fresno,FL,4,1,1697,2200,1997,119,Apartment
+879038.0,Los Angeles,FL,2,1,1801,1484,1998,1,Townhouse
+735604.0,Fresno,NY,2,3,3951,3078,1983,9,Single Family
+1315315.0,San Francisco,FL,1,1,1895,4224,2002,39,Multi-Family
+703493.0,Los Angeles,NY,6,3,2228,5244,1964,91,Apartment
+1449651.0,Los Angeles,TX,5,3,2332,4235,1953,113,Multi-Family
+429050.0,San Diego,CA,1,2,2089,5162,2015,66,Apartment
+436227.0,Los Angeles,TX,5,2,881,1670,1974,46,Townhouse
+1043402.0,San Francisco,NY,6,3,2741,6549,1968,47,Single Family
+1472476.0,San Francisco,FL,2,2,2997,4716,1957,111,Single Family
+101342.0,Sacramento,NY,3,1,1658,9733,2021,34,Apartment
+1144956.0,Fresno,CA,6,1,1783,6138,1966,78,Apartment
+257758.0,San Diego,TX,3,1,2700,9067,1989,44,Condo
+159682.0,Sacramento,CA,3,1,3421,2996,1992,39,Multi-Family
+1368906.0,San Diego,TX,2,2,692,2137,2003,57,Townhouse
+226311.0,Fresno,CA,6,2,2021,8163,1951,88,Multi-Family
+242280.0,San Diego,NY,2,3,3560,5320,1972,71,Multi-Family
+1371316.0,Sacramento,TX,1,4,1173,7073,2012,98,Single Family
+987853.0,San Francisco,FL,6,2,1380,3778,1964,85,Townhouse
+461357.0,San Diego,NY,1,3,3427,6943,1980,59,Apartment
+349197.0,Sacramento,NY,6,1,3026,7118,2020,67,Townhouse
+294826.0,Fresno,NY,1,4,1690,9112,1963,40,Multi-Family
+1271947.0,San Diego,FL,6,1,2786,1793,1955,25,Townhouse
+830918.0,Los Angeles,NY,3,3,1392,3648,1997,68,Townhouse
+671864.0,Los Angeles,NY,1,2,3679,2956,1984,5,Apartment
+302419.0,Fresno,CA,4,4,1265,9461,1989,25,Single Family
+388660.0,Fresno,TX,3,1,1983,4741,2017,93,Townhouse
+1338663.0,San Diego,CA,6,2,1334,1444,1967,45,Townhouse
+1433049.0,Fresno,CA,4,2,1496,6335,1961,55,Multi-Family
+646444.0,San Francisco,CA,2,2,1647,6325,2004,73,Multi-Family
+1413534.0,San Francisco,CA,6,2,2609,6952,1967,38,Condo
+878844.0,Sacramento,NY,2,3,2480,4589,1980,51,Apartment
+190823.0,Los Angeles,NY,3,3,3946,1509,2003,48,Apartment
+248712.0,Los Angeles,TX,4,1,903,6778,1995,16,Townhouse
+274794.0,San Diego,CA,1,1,1360,6947,1953,36,Single Family
+249833.0,San Diego,CA,5,2,975,3978,1977,43,Apartment
+1025908.0,Sacramento,NY,6,2,3658,7281,1985,43,Multi-Family
+274061.0,San Francisco,TX,1,3,899,8551,1978,34,Condo
+1092223.0,San Francisco,NY,1,4,705,6698,2012,99,Multi-Family
+1249985.0,Sacramento,FL,3,2,1298,9755,1997,44,Condo
+1052096.0,Fresno,IL,4,4,2604,1813,2019,51,Multi-Family
+825149.0,Sacramento,NY,6,3,1482,1355,1952,63,Townhouse
+1411144.0,San Diego,IL,3,1,838,7283,1963,103,Condo
+860572.0,Sacramento,NY,2,3,3059,4115,1974,12,Single Family
+727584.0,Los Angeles,IL,5,1,620,3573,2008,23,Townhouse
+795435.0,Fresno,IL,6,1,620,6199,1991,62,Townhouse
+849860.0,San Diego,IL,3,1,3777,3451,2008,63,Condo
+798115.0,Sacramento,TX,1,3,644,6797,1979,17,Townhouse
+773067.0,San Francisco,IL,4,3,2789,7794,2001,48,Multi-Family
+260417.0,San Francisco,CA,3,1,3003,3326,2015,95,Condo
+1047769.0,San Diego,CA,4,2,3207,3074,1965,118,Single Family
+563528.0,Fresno,TX,2,4,1319,2031,2007,72,Townhouse
+493415.0,San Francisco,NY,3,3,3905,6897,1994,40,Single Family
+1367995.0,Fresno,FL,1,1,3929,8333,1981,64,Multi-Family
+1085094.0,San Francisco,TX,5,3,2199,3138,2017,62,Condo
+892569.0,San Diego,TX,1,4,2258,4950,1963,82,Single Family
+1238734.0,San Diego,FL,2,4,2594,3799,1960,46,Single Family
+1386947.0,Sacramento,CA,4,4,745,6797,1969,24,Condo
+236746.0,Sacramento,CA,6,4,656,3070,1985,21,Multi-Family
+486791.0,Fresno,FL,1,1,2840,8535,2023,118,Condo
+482165.0,San Diego,CA,5,4,2110,5859,1980,109,Single Family
+1187392.0,Fresno,NY,2,2,949,1361,2004,76,Single Family
+950150.0,Los Angeles,TX,5,3,3116,6462,1997,98,Apartment
+465036.0,San Francisco,TX,2,3,1727,5285,1986,119,Condo
+746966.0,Fresno,TX,4,2,1714,9446,2022,102,Condo
+368960.0,Los Angeles,NY,3,1,1447,3020,2009,30,Single Family
+1182854.0,San Francisco,CA,2,1,887,3584,1970,17,Single Family
+516722.0,San Diego,NY,1,4,3242,9096,1955,40,Single Family
+410680.0,Sacramento,CA,1,1,1597,3907,2021,111,Condo
+579380.0,San Diego,TX,1,2,3165,7690,1995,2,Multi-Family
+1474045.0,Los Angeles,FL,2,4,3031,7696,1982,89,Single Family
+1441227.0,San Diego,CA,1,1,1445,8418,1971,15,Single Family
+1110787.0,San Diego,FL,1,1,3736,4361,2017,27,Townhouse
+894755.0,Sacramento,TX,5,1,3242,4500,2021,3,Townhouse
+1340985.0,Los Angeles,FL,4,3,1618,9277,1970,42,Single Family
+1118325.0,Los Angeles,TX,5,3,2004,5824,1995,42,Single Family
+1148708.0,Sacramento,NY,1,2,2255,8405,2006,80,Multi-Family
+286476.0,Los Angeles,IL,2,1,3663,8176,2017,47,Condo
+948322.0,Los Angeles,TX,2,1,769,7909,1974,110,Single Family
+973256.0,Fresno,FL,1,4,1393,7622,1982,89,Condo
+1154506.0,Sacramento,TX,3,2,2342,2659,2009,74,Apartment
+323674.0,San Diego,NY,3,3,3826,2310,2016,50,Condo
+512841.0,San Francisco,NY,6,1,2735,9513,2012,76,Condo
+1280680.0,San Diego,CA,1,4,1800,2769,1969,117,Single Family
+888840.0,San Francisco,FL,5,2,796,3561,2000,85,Apartment
+930535.0,San Diego,IL,6,1,2476,7792,1962,116,Townhouse
+571179.0,Los Angeles,CA,3,3,3745,8006,1959,96,Townhouse
+1026442.0,Sacramento,TX,2,2,2333,3991,1999,74,Single Family
+572510.0,San Francisco,NY,5,4,3199,1413,2006,77,Apartment
+1472070.0,San Diego,CA,2,4,1548,3141,1984,71,Condo
+772817.0,Los Angeles,IL,1,2,2603,4509,1960,45,Single Family
+1387582.0,San Diego,NY,2,1,602,6137,1994,51,Townhouse
+1046192.0,Sacramento,NY,2,4,1636,3931,2005,97,Townhouse
+1300827.0,Sacramento,FL,1,3,2500,4567,1950,94,Apartment
+1363548.0,Fresno,FL,5,3,1918,5955,2023,24,Multi-Family
+388769.0,San Francisco,IL,5,2,993,6247,2011,8,Apartment
+1261138.0,Los Angeles,NY,1,4,1999,1148,2006,87,Single Family
+1101329.0,Sacramento,CA,2,1,1269,4597,2006,41,Multi-Family
+1265663.0,San Diego,CA,6,4,1944,1360,1951,51,Multi-Family
+750711.0,Los Angeles,NY,2,4,714,9529,1959,98,Condo
+565021.0,Sacramento,FL,2,1,1862,7714,2010,65,Condo
+849581.0,Los Angeles,IL,2,1,2560,6991,1963,50,Condo
+1242207.0,Los Angeles,CA,5,2,2623,2847,1954,120,Apartment
+201977.0,Sacramento,FL,4,4,3967,1610,1989,38,Apartment
+370684.0,Sacramento,NY,2,2,3601,4874,2022,116,Condo
+658392.0,Fresno,NY,3,3,3652,2429,2012,107,Apartment
+588503.0,Sacramento,IL,2,2,1164,7843,1985,14,Condo
+974380.0,Sacramento,IL,3,3,2311,1758,2002,43,Apartment
+917965.0,San Diego,NY,3,1,2683,7074,1983,59,Townhouse
+1148502.0,Sacramento,FL,2,1,1439,4876,1964,119,Apartment
+788528.0,San Francisco,CA,6,3,3041,4101,1998,57,Single Family
+818315.0,San Francisco,CA,6,1,2055,1305,2005,83,Condo
+1092879.0,Los Angeles,NY,1,4,2506,9567,1973,104,Condo
+1320556.0,Los Angeles,TX,6,1,1743,3182,2008,82,Condo
+516119.0,San Francisco,NY,2,2,2902,1395,2013,58,Townhouse
+480363.0,Los Angeles,IL,3,3,953,6404,2000,40,Condo
+496535.0,San Francisco,IL,3,3,3590,2197,2013,30,Multi-Family
+1251066.0,San Diego,TX,2,4,3990,3339,2020,14,Apartment
+1399032.0,Fresno,IL,4,3,1641,4515,2020,52,Apartment
+1121373.0,Sacramento,CA,2,1,922,8638,2002,115,Single Family
+738847.0,Fresno,CA,4,4,2318,8727,1977,26,Apartment
+374385.0,Sacramento,CA,1,3,1237,2493,1995,17,Single Family
+943403.0,Fresno,NY,2,3,2514,8687,2000,118,Apartment
+788640.0,Los Angeles,IL,6,3,2895,6814,1975,111,Apartment
+848296.0,Sacramento,CA,4,2,2050,2341,2004,104,Townhouse
+864975.0,Sacramento,CA,5,4,1548,2494,2010,63,Condo
+914722.0,Los Angeles,CA,5,4,2707,9964,1953,85,Single Family
+571756.0,San Diego,IL,2,2,3053,3780,1989,40,Multi-Family
+580818.0,Fresno,IL,1,3,2164,9409,1956,44,Condo
+1239119.0,San Diego,CA,4,4,758,1634,1997,43,Apartment
+204505.0,Los Angeles,TX,6,4,2770,5520,1966,27,Apartment
+644764.0,Fresno,TX,3,3,2213,4506,1964,32,Condo
+992364.0,Sacramento,TX,3,3,815,7485,1988,93,Townhouse
+1140029.0,Fresno,NY,2,3,1487,9438,2023,5,Townhouse
+605861.0,Los Angeles,CA,5,4,1534,6020,1971,63,Condo
+1472458.0,Fresno,IL,4,1,2135,7168,1981,119,Townhouse
+427572.0,San Francisco,TX,3,1,3940,9098,1986,9,Townhouse
+1161421.0,Sacramento,CA,2,3,3313,9610,2005,49,Condo
+314414.0,Los Angeles,FL,5,2,2128,3292,1994,79,Townhouse
+1265777.0,San Francisco,NY,1,4,1659,9996,1988,25,Multi-Family
+789955.0,San Diego,NY,5,3,2036,8558,2022,114,Multi-Family
+480974.0,Fresno,NY,2,4,2901,4820,1973,53,Townhouse
+686842.0,Fresno,CA,1,4,1977,3530,2002,9,Apartment
+944010.0,Fresno,TX,6,3,1657,5619,1979,5,Condo
+1325154.0,San Francisco,CA,6,2,1086,5861,1981,99,Condo
+1136243.0,San Francisco,NY,3,4,2010,2931,1959,15,Multi-Family
+624612.0,San Francisco,CA,3,3,2367,6792,1995,13,Townhouse
+409090.0,Fresno,NY,4,2,2997,9647,2000,71,Multi-Family
+1410781.0,San Francisco,NY,4,4,2662,3141,1968,19,Multi-Family
+900400.0,Los Angeles,NY,4,2,689,1215,2015,110,Multi-Family
+770905.0,Los Angeles,IL,2,4,2898,6768,2017,82,Apartment
+1283223.0,Fresno,IL,1,2,724,2456,1961,106,Multi-Family
+499747.0,San Diego,NY,2,1,1978,4716,2015,48,Townhouse
+712555.0,Sacramento,IL,1,3,1268,9258,1984,68,Condo
+619571.0,Sacramento,CA,2,4,3527,3709,1976,77,Apartment
+1409033.0,Fresno,CA,3,2,1952,6085,1964,15,Multi-Family
+389699.0,Los Angeles,NY,6,3,1769,8386,1991,115,Townhouse
+1045885.0,Sacramento,CA,3,3,3923,7449,1978,95,Condo
+1377069.0,Fresno,IL,4,4,3859,7651,1979,107,Townhouse
+1112286.0,San Diego,CA,1,4,3232,6832,2000,48,Townhouse
+1477628.0,Los Angeles,CA,1,1,2062,4344,1956,69,Single Family
+353344.0,Sacramento,FL,5,1,1447,1695,1991,72,Single Family
+299777.0,San Francisco,IL,2,3,2909,5883,1985,103,Apartment
+1200545.0,San Diego,CA,6,2,609,6010,1976,107,Single Family
+453846.0,San Francisco,CA,4,1,3562,1356,1998,106,Multi-Family
+1309279.0,San Diego,FL,5,2,2744,9418,1962,54,Single Family
+294270.0,Sacramento,FL,6,1,3177,2119,1966,92,Townhouse
+227369.0,San Francisco,NY,3,2,1445,9511,1955,50,Condo
+1079451.0,San Francisco,TX,1,2,2935,8912,1971,64,Condo
+811641.0,Sacramento,CA,6,3,3136,6378,1959,105,Apartment
+1206970.0,Sacramento,IL,4,2,3322,4428,2011,26,Multi-Family
+359738.0,San Francisco,TX,3,1,874,5835,1975,49,Townhouse
+667232.0,Fresno,CA,6,3,3922,1257,2012,48,Townhouse
+1496467.0,Los Angeles,NY,2,4,1160,5936,1987,27,Apartment
+1243614.0,Sacramento,CA,6,3,2438,9159,1980,10,Condo
+1350028.0,Fresno,CA,6,4,2276,3297,2003,75,Single Family
+142558.0,Fresno,NY,5,2,3454,1432,1997,35,Townhouse
+842454.0,San Diego,NY,6,1,2295,1487,1995,60,Apartment
+960407.0,Fresno,FL,4,2,2467,2779,1995,120,Townhouse
+510123.0,Sacramento,FL,2,3,2033,3029,1987,53,Multi-Family
+1336927.0,Sacramento,NY,6,2,1534,8903,2011,84,Townhouse
+1377802.0,San Francisco,CA,4,4,1883,6966,1986,10,Townhouse
+287677.0,San Diego,IL,6,1,3361,8603,1992,27,Single Family
+1409098.0,Los Angeles,IL,6,4,3041,9468,2000,90,Condo
+1236695.0,Sacramento,IL,4,4,2879,8525,1999,30,Apartment
+850519.0,Sacramento,IL,6,1,2431,1752,2001,15,Multi-Family
+406535.0,Fresno,IL,1,2,886,2168,1965,33,Condo
+393811.0,Sacramento,TX,6,3,1252,3959,2008,100,Single Family
+1211963.0,San Francisco,FL,4,3,2456,6870,1997,69,Multi-Family
+467298.0,Los Angeles,TX,6,4,1209,8910,1963,58,Condo
+546329.0,San Diego,IL,4,4,2377,3899,1994,80,Townhouse
+1263497.0,Fresno,TX,2,1,1430,3729,1992,111,Condo
+854770.0,Sacramento,CA,3,4,885,1898,2001,83,Single Family
+1159956.0,Los Angeles,NY,2,4,1265,5891,1982,16,Condo
+1447743.0,Fresno,NY,1,4,2085,7296,1998,26,Multi-Family
+138025.0,Fresno,TX,1,1,2080,9860,1999,44,Apartment
+543804.0,San Diego,CA,2,2,3732,8156,2019,30,Multi-Family
+563864.0,Fresno,FL,4,3,3158,3949,1960,76,Townhouse
+146864.0,Sacramento,NY,1,4,1351,1117,1976,42,Single Family
+1217073.0,Fresno,IL,4,3,3217,8739,1976,49,Multi-Family
+273704.0,Sacramento,FL,6,4,3431,1449,1958,87,Condo
+732277.0,San Diego,NY,2,3,3759,3625,1991,115,Townhouse
+1139836.0,Los Angeles,TX,6,3,2794,9423,1993,34,Single Family
+840528.0,Los Angeles,FL,2,3,2346,6734,1966,102,Townhouse
+719382.0,Fresno,FL,4,1,3654,9907,2013,3,Apartment
+155283.0,Fresno,FL,6,1,2452,2886,2016,87,Townhouse
+423783.0,Los Angeles,IL,2,3,2610,8780,1977,34,Apartment
+554124.0,Los Angeles,CA,2,3,2652,5338,1952,71,Townhouse
+729055.0,San Diego,FL,1,4,3549,4792,1973,43,Single Family
+1280219.0,San Francisco,TX,1,3,1831,4659,1990,7,Multi-Family
+743014.0,Los Angeles,NY,5,4,1507,8044,1983,112,Multi-Family
+1122707.0,Los Angeles,CA,6,1,3226,4493,2004,58,Multi-Family
+113084.0,San Diego,NY,2,2,2148,9539,2015,94,Townhouse
+206332.0,Los Angeles,FL,5,2,3235,3939,1960,94,Townhouse
+685711.0,Fresno,FL,5,1,2253,6488,1972,96,Condo
+938789.0,Fresno,TX,6,2,2454,5887,1989,50,Multi-Family
+1009530.0,San Francisco,IL,5,1,3083,8448,1966,67,Multi-Family
+545380.0,Los Angeles,CA,1,3,2037,6805,1972,64,Apartment
+357273.0,San Diego,TX,5,4,2723,6968,1957,57,Condo
+537598.0,San Francisco,IL,5,2,3694,9944,1973,16,Single Family
+263351.0,Los Angeles,FL,2,4,1746,9811,2013,97,Multi-Family
+883643.0,Los Angeles,TX,2,4,841,5960,1991,28,Apartment
+654277.0,San Francisco,IL,3,1,741,8032,2018,70,Single Family
+855844.0,San Diego,NY,1,3,3404,6596,1979,27,Condo
+286416.0,Los Angeles,NY,4,4,2294,5246,2015,116,Condo
+1471386.0,Los Angeles,IL,2,4,622,4625,1992,84,Single Family
+843704.0,Los Angeles,TX,4,1,3816,7652,1963,114,Townhouse
+558267.0,San Francisco,NY,1,3,1502,7040,1975,106,Townhouse
+575209.0,San Diego,IL,3,4,3771,2665,1982,112,Single Family
+788343.0,San Francisco,FL,5,4,718,1624,1964,104,Apartment
+1175985.0,Sacramento,IL,4,2,1725,5053,1978,40,Single Family
+389748.0,Sacramento,NY,5,3,1188,7429,1966,55,Condo
+297796.0,San Francisco,FL,5,3,1748,7189,1956,10,Apartment
+117540.0,Los Angeles,TX,6,4,2415,7240,1953,36,Townhouse
+320520.0,San Diego,TX,3,2,3290,3111,2007,81,Multi-Family
+319961.0,Sacramento,TX,2,3,894,6877,1968,11,Apartment
+563715.0,Los Angeles,FL,5,4,2143,3548,1988,28,Condo
+842075.0,San Francisco,TX,4,3,3563,2581,1954,54,Condo
+1394343.0,San Diego,NY,2,2,1464,7843,1992,70,Condo
+1219513.0,San Diego,FL,5,4,1116,4430,1956,91,Single Family
+805615.0,Los Angeles,NY,4,1,3481,2514,1961,111,Townhouse
+330245.0,Fresno,CA,5,3,960,7153,1993,113,Condo
+948645.0,Fresno,IL,2,1,2113,3700,2006,54,Apartment
+983080.0,Sacramento,NY,4,4,3764,3690,1995,28,Condo
+1001958.0,San Francisco,NY,5,1,1975,9535,1981,60,Townhouse
+1465899.0,San Diego,CA,3,1,2413,7910,2013,100,Single Family
+875089.0,San Diego,FL,3,4,1557,9804,1976,69,Multi-Family
+672952.0,Sacramento,NY,2,1,2702,9320,1961,12,Multi-Family
+630401.0,Sacramento,FL,2,1,3931,8662,1951,41,Multi-Family
+541228.0,San Francisco,FL,5,1,3000,2295,1966,87,Condo
+900860.0,Los Angeles,TX,2,4,3999,3447,1972,21,Condo
+197773.0,Sacramento,TX,5,1,1788,5300,2001,24,Condo
+975227.0,Los Angeles,FL,4,4,3301,2937,1985,42,Apartment
+1113507.0,Sacramento,NY,1,3,2129,7102,1958,38,Apartment
+1024884.0,Fresno,IL,6,2,1671,3628,1955,60,Townhouse
+1055684.0,San Diego,IL,1,1,3393,9986,1981,80,Condo
+396731.0,San Diego,IL,3,3,1443,9102,1963,113,Condo
+869597.0,San Francisco,CA,4,3,752,9574,1969,86,Townhouse
+860503.0,San Diego,TX,1,2,1169,3329,1991,32,Condo
+1408977.0,Los Angeles,TX,3,3,1476,3691,1986,99,Townhouse
+151541.0,San Diego,CA,5,1,1665,5891,2010,33,Apartment
+1406366.0,Los Angeles,IL,2,2,1456,8429,1978,70,Townhouse
+683535.0,Fresno,IL,2,4,1402,4653,1959,97,Apartment
+1077238.0,San Francisco,TX,2,4,2161,5742,2008,34,Multi-Family
+708347.0,Los Angeles,CA,2,2,1852,7550,1955,58,Multi-Family
+933014.0,Fresno,TX,3,4,2410,3470,2002,73,Apartment
+1274393.0,San Diego,IL,3,4,3023,5852,1983,85,Townhouse
+1314599.0,Los Angeles,CA,2,4,2784,7766,1980,40,Apartment
+1186759.0,Sacramento,CA,4,1,2669,7376,1961,25,Condo
+1425500.0,Fresno,CA,3,1,2845,9457,1962,107,Apartment
+631278.0,Fresno,CA,3,4,3866,4373,1982,110,Townhouse
+1256875.0,Sacramento,IL,5,2,1823,2773,1993,70,Apartment
+230146.0,San Francisco,TX,4,4,794,1927,2002,110,Apartment
+757948.0,Los Angeles,IL,3,1,1116,7054,1959,52,Townhouse
+446258.0,Los Angeles,NY,5,1,1034,4346,1973,43,Single Family
+183860.0,Fresno,FL,3,1,2616,1461,1952,27,Multi-Family
+395747.0,San Diego,NY,4,3,3454,7379,1996,13,Condo
+757183.0,San Diego,TX,6,2,2081,4775,2017,74,Townhouse
+1131618.0,Fresno,TX,3,4,2415,6096,2011,106,Condo
+208579.0,Fresno,NY,1,2,1832,7081,1952,106,Condo
+1228020.0,Los Angeles,IL,2,2,3597,3730,1958,24,Single Family
+1055904.0,San Francisco,IL,6,2,2630,9873,2003,110,Condo
+850524.0,Los Angeles,IL,1,2,3783,6706,1984,102,Single Family
+374194.0,Los Angeles,NY,1,3,2866,3036,1964,87,Multi-Family
+277923.0,San Diego,FL,5,2,807,5944,2021,68,Apartment
+930934.0,San Francisco,IL,1,1,3219,8079,1966,70,Single Family
+628592.0,Fresno,TX,3,2,3573,3110,1990,49,Apartment
+499090.0,Sacramento,NY,6,3,3614,4546,1996,51,Single Family
+1107473.0,Los Angeles,IL,6,1,795,3674,2009,43,Apartment
+859034.0,Sacramento,TX,6,3,2088,1515,1958,6,Condo
+1082651.0,Sacramento,NY,2,2,3042,4692,2023,61,Multi-Family
+208387.0,San Francisco,CA,4,4,2807,5586,1976,99,Apartment
+564122.0,San Francisco,IL,5,2,1590,8525,2015,21,Single Family
+987975.0,San Diego,TX,3,2,1416,1584,1978,90,Apartment
+491022.0,San Diego,NY,1,4,3645,4509,2020,92,Apartment
+305465.0,San Diego,TX,6,2,927,2474,1990,20,Multi-Family
+334971.0,Sacramento,TX,5,2,1948,4784,1970,44,Multi-Family
+1396414.0,Fresno,IL,5,4,862,4199,1968,41,Multi-Family
+586833.0,Sacramento,CA,6,4,1507,1556,1985,107,Multi-Family
+1458637.0,San Diego,IL,5,4,1617,6677,2023,58,Multi-Family
+375021.0,Sacramento,IL,1,1,2257,5257,2018,93,Single Family
+1250673.0,Sacramento,NY,3,1,3881,9959,1979,111,Condo
+668183.0,Sacramento,IL,2,2,665,6566,1984,42,Single Family
+1258068.0,Fresno,FL,4,3,3350,5339,1993,23,Apartment
+478198.0,San Diego,CA,2,3,2971,1846,1997,1,Townhouse
+421154.0,Fresno,FL,2,3,1440,4971,2009,20,Multi-Family
+1434930.0,San Diego,CA,4,1,1365,1898,1967,9,Condo
+1312715.0,San Diego,NY,4,4,1601,2079,1955,90,Multi-Family
+1361982.0,San Francisco,NY,1,4,2820,5745,1967,111,Apartment
+1376159.0,San Francisco,NY,5,4,2168,2738,1978,68,Multi-Family
+119222.0,San Diego,NY,1,2,2894,3214,1953,8,Townhouse
+976821.0,San Diego,FL,4,2,1072,2832,1965,92,Single Family
+530400.0,San Francisco,NY,6,4,2739,2813,1972,58,Apartment
+524279.0,Los Angeles,CA,4,1,2371,4972,1979,86,Townhouse
+1333867.0,Los Angeles,FL,6,2,3440,5975,1999,113,Apartment
+368896.0,San Diego,FL,6,4,1781,8066,2011,120,Apartment
+380565.0,San Diego,NY,4,3,3509,5120,2017,71,Single Family
+1197421.0,San Francisco,TX,2,4,3406,6569,1988,70,Multi-Family
+329837.0,Fresno,CA,1,1,2939,1346,2013,101,Apartment
+1040215.0,Los Angeles,FL,5,4,2130,6097,2008,43,Apartment
+503182.0,Sacramento,CA,3,4,2362,8743,1998,38,Multi-Family
+607972.0,Fresno,CA,4,3,2109,4791,2017,31,Multi-Family
+1410074.0,Los Angeles,IL,1,1,860,2838,1998,43,Condo
+535463.0,Fresno,CA,5,4,903,2533,1962,37,Multi-Family
+1047205.0,San Diego,NY,5,1,2651,1927,2003,63,Condo
+1115773.0,San Diego,IL,1,3,1880,6833,2017,59,Condo
+1470452.0,Los Angeles,FL,4,4,2367,2891,2021,18,Townhouse
+1058406.0,Fresno,IL,3,3,2180,2279,1967,24,Multi-Family
+1482612.0,San Diego,FL,5,3,3996,1151,1975,86,Multi-Family
+195826.0,Los Angeles,FL,5,4,1965,8146,1974,18,Condo
+984633.0,Los Angeles,CA,2,1,1014,1919,1989,105,Single Family
+1280680.0,Sacramento,TX,1,3,2852,5704,2015,5,Condo
+722912.0,San Diego,FL,5,1,3402,8965,1988,72,Condo
+1442863.0,Los Angeles,CA,4,2,2278,8180,1966,103,Apartment
+481322.0,Fresno,NY,4,2,1121,4261,1975,50,Townhouse
+1375641.0,San Diego,CA,2,2,1948,6670,2009,48,Single Family
+547298.0,Los Angeles,IL,5,4,3217,3835,2007,76,Condo
+1168200.0,San Francisco,NY,3,4,1072,7750,1971,114,Single Family
+728249.0,Sacramento,IL,5,4,3398,7233,1956,78,Single Family
+998871.0,San Francisco,FL,6,1,2133,3328,1981,114,Apartment
+1122337.0,San Francisco,IL,4,1,1947,3995,1996,40,Condo
+190329.0,Los Angeles,TX,4,2,3215,8651,2021,58,Multi-Family
+1093409.0,Fresno,IL,2,1,2144,6434,1996,102,Multi-Family
+1489699.0,San Diego,FL,3,1,2228,1657,1992,51,Townhouse
+1382451.0,San Francisco,CA,6,2,2003,3192,1962,9,Townhouse
+258490.0,Sacramento,NY,6,2,1024,9065,1960,95,Single Family
+161267.0,Sacramento,IL,5,2,3136,6476,1997,50,Single Family
+1411656.0,San Diego,NY,4,1,3650,6748,1983,2,Multi-Family
+980741.0,Sacramento,CA,4,1,1403,6539,1989,82,Townhouse
+309134.0,Los Angeles,FL,6,3,3111,6149,1952,13,Apartment
+586196.0,San Diego,FL,3,3,1949,2789,2020,33,Apartment
+596947.0,San Diego,TX,1,1,3540,8256,1960,86,Condo
+193325.0,Sacramento,CA,6,1,1917,9358,1955,40,Apartment
+1178393.0,Los Angeles,TX,1,2,2473,5451,1956,75,Condo
+243343.0,San Diego,TX,2,2,3958,1936,2012,116,Condo
+906038.0,Fresno,IL,2,4,1516,4527,1951,101,Multi-Family
+668833.0,Los Angeles,FL,5,1,1894,5146,1989,120,Apartment
+732202.0,Sacramento,TX,2,1,2072,2578,1981,66,Apartment
+275759.0,Fresno,NY,1,1,1338,8697,2011,5,Apartment
+537863.0,San Diego,CA,4,3,3616,7784,1990,83,Condo
+827893.0,Sacramento,TX,1,4,2813,9576,2022,15,Single Family
+1418370.0,Los Angeles,NY,4,4,2006,2091,2023,15,Single Family
+996528.0,San Diego,NY,5,4,764,1016,1988,54,Multi-Family
+697087.0,Sacramento,IL,4,1,3295,8749,2007,82,Single Family
+667300.0,Fresno,CA,1,2,3699,8492,2005,70,Apartment
+1321679.0,San Diego,CA,5,1,1446,8068,1985,83,Multi-Family
+812527.0,Los Angeles,TX,6,3,2820,9357,1966,70,Condo
+534310.0,San Francisco,CA,6,1,2329,4291,1962,32,Multi-Family
+402672.0,San Diego,NY,4,2,2890,1444,1989,64,Condo
+697945.0,San Diego,FL,6,3,2400,7325,1996,110,Single Family
+1387098.0,Los Angeles,TX,5,3,1231,4038,2016,81,Apartment
+451247.0,San Francisco,TX,1,2,1023,1621,2019,63,Single Family
+825806.0,Sacramento,CA,3,1,2713,7477,1985,15,Apartment
+104306.0,San Francisco,CA,6,2,3476,5287,1984,34,Apartment
+579576.0,Sacramento,IL,1,2,2249,2604,1967,51,Apartment
+982001.0,San Diego,TX,1,2,2708,1145,1979,26,Condo
+565244.0,Fresno,FL,2,2,3288,8511,2008,70,Townhouse
+1261938.0,San Francisco,FL,5,3,3765,9118,2002,65,Condo
+453129.0,Los Angeles,FL,6,4,2468,2090,1950,117,Multi-Family
+347890.0,San Francisco,FL,4,4,1659,9835,2000,75,Condo
+825324.0,Sacramento,IL,3,3,1983,7846,1992,92,Condo
+1131077.0,Los Angeles,NY,2,1,1988,5101,1996,3,Condo
+1433969.0,Los Angeles,NY,1,3,3876,8917,1993,63,Apartment
+1440490.0,San Diego,CA,3,4,2937,2061,1963,111,Multi-Family
+539037.0,San Diego,FL,1,2,2161,7030,1975,45,Apartment
+1465615.0,Los Angeles,FL,4,3,3051,6869,1955,64,Single Family
+1448976.0,Sacramento,TX,2,2,2749,1346,2001,71,Apartment
+224903.0,Fresno,IL,6,4,2064,4491,2022,44,Townhouse
+704660.0,Los Angeles,TX,4,3,1224,3952,2022,49,Single Family
+508759.0,San Diego,NY,3,2,3942,4881,1973,110,Townhouse
+198100.0,Los Angeles,FL,5,2,857,2046,1951,4,Apartment
+1171593.0,San Francisco,CA,6,1,1840,1811,2016,10,Townhouse
+868311.0,Fresno,TX,3,4,2231,1667,1991,90,Multi-Family
+1046834.0,Los Angeles,CA,1,3,2420,1592,1978,76,Multi-Family
+353101.0,Fresno,FL,1,4,2451,9741,1961,49,Townhouse
+1114155.0,Los Angeles,NY,5,2,2339,8974,2015,53,Condo
+980574.0,San Francisco,IL,6,2,1083,2372,1957,81,Apartment
+1036583.0,Sacramento,IL,3,4,3752,5731,2003,27,Apartment
+398021.0,San Diego,CA,3,2,726,1292,1962,35,Multi-Family
+735817.0,Sacramento,CA,6,3,3740,4980,2017,104,Townhouse
+1154452.0,Fresno,CA,5,3,3509,7396,2014,73,Single Family
+1397853.0,Los Angeles,IL,1,2,1286,2668,1993,4,Single Family
+1324583.0,Fresno,IL,5,2,3818,5126,1992,33,Apartment
+922155.0,San Francisco,TX,5,1,743,6787,2016,64,Townhouse
+1304944.0,Los Angeles,CA,4,3,2329,7908,1965,50,Townhouse
+910408.0,Sacramento,CA,3,2,1418,4817,2021,69,Condo
+1428849.0,Fresno,IL,3,3,3683,5089,1991,92,Condo
+706540.0,Los Angeles,IL,6,2,1924,3685,1966,83,Single Family
+798896.0,Sacramento,IL,3,1,2100,3409,1971,58,Condo
+539722.0,Fresno,FL,6,4,2702,4501,1972,50,Townhouse
+1076134.0,San Francisco,IL,1,4,1462,4169,1998,27,Townhouse
+213805.0,Sacramento,CA,5,1,1543,8855,1957,38,Townhouse
+1152978.0,Sacramento,CA,3,3,2535,2153,2011,13,Apartment
+976078.0,Fresno,IL,2,3,605,3398,1950,49,Apartment
+440689.0,San Francisco,CA,1,1,1532,7838,1981,32,Condo
+638010.0,Sacramento,NY,5,2,1639,7177,1954,68,Apartment
+883012.0,San Francisco,TX,3,4,2177,3011,1969,84,Multi-Family
+546284.0,San Diego,TX,4,4,2040,9298,2011,113,Condo
+392126.0,Los Angeles,IL,3,1,1545,7035,1997,33,Apartment
+1105600.0,San Francisco,CA,3,4,3888,4824,1961,56,Condo
+936991.0,Sacramento,TX,1,2,3975,3716,1967,108,Multi-Family
+1203446.0,Sacramento,FL,4,1,1493,6406,2015,91,Single Family
+1456198.0,San Diego,IL,2,3,3913,8178,2012,4,Single Family
+422981.0,San Diego,TX,4,3,1375,8044,1983,9,Single Family
+390844.0,Fresno,FL,3,4,3770,5185,1986,39,Multi-Family
+562937.0,Sacramento,TX,2,4,3915,2748,2010,43,Apartment
+1222304.0,San Francisco,IL,3,3,3640,5324,2009,99,Condo
+560234.0,Sacramento,TX,1,4,1613,1303,1958,116,Single Family
+166868.0,Sacramento,IL,1,2,2586,9278,2014,115,Multi-Family
+524109.0,Sacramento,CA,6,4,2044,4940,2012,117,Multi-Family
+434921.0,Los Angeles,CA,2,3,2479,5067,1986,38,Single Family
+1083361.0,Sacramento,FL,5,1,1249,9828,1961,82,Condo
+1167836.0,Los Angeles,TX,6,2,2283,4038,1953,70,Condo
+837398.0,Fresno,FL,3,1,2100,9768,1971,7,Multi-Family
+1281515.0,San Francisco,FL,5,4,3018,7330,1983,1,Condo
+1080061.0,San Francisco,IL,2,1,2214,3028,2017,111,Condo
+1303467.0,Sacramento,CA,1,2,3367,9381,1969,6,Apartment
+925872.0,Sacramento,TX,6,2,1471,9507,2020,46,Condo
+979559.0,Sacramento,NY,3,3,1573,4233,1985,37,Townhouse
+451830.0,San Diego,CA,6,2,3420,5505,1990,86,Apartment
+1428613.0,San Francisco,IL,4,3,2091,9753,1986,96,Multi-Family
+645454.0,Fresno,IL,4,3,2101,8736,1975,87,Single Family
+793777.0,Sacramento,NY,4,1,1616,8476,1996,91,Multi-Family
+1372428.0,San Diego,TX,4,1,1729,7379,1954,64,Townhouse
+596612.0,San Francisco,CA,2,4,1056,2543,2014,93,Apartment
+1307358.0,Sacramento,FL,3,3,1216,8572,2011,87,Multi-Family
+1352612.0,Sacramento,NY,3,3,2036,2219,1961,21,Multi-Family
+642419.0,San Francisco,NY,4,2,1175,2281,1985,48,Single Family
+961607.0,Sacramento,IL,2,2,3528,9102,1993,109,Multi-Family
+292055.0,San Diego,IL,3,1,1577,2961,2013,15,Multi-Family
+591446.0,Sacramento,NY,1,4,1744,1254,1977,77,Apartment
+1064262.0,Sacramento,CA,4,1,2057,5106,1981,106,Condo
+846494.0,San Diego,IL,2,2,618,5905,1999,105,Multi-Family
+1414445.0,San Francisco,FL,6,2,1976,1775,1964,70,Apartment
+1248043.0,Los Angeles,IL,4,4,2192,1203,1982,56,Single Family
+1067540.0,Los Angeles,CA,3,2,2578,6302,1958,88,Apartment
+857797.0,San Diego,TX,5,1,3694,8820,1955,92,Single Family
+396831.0,San Francisco,IL,3,4,3135,9158,1951,114,Apartment
+329187.0,Fresno,NY,4,1,3778,4516,2000,13,Townhouse
+1257643.0,San Francisco,IL,5,4,709,5357,1950,88,Multi-Family
+358119.0,Fresno,NY,3,4,2456,6941,1972,5,Townhouse
+1360246.0,Sacramento,IL,1,1,2296,3109,1959,66,Townhouse
+1452143.0,San Diego,IL,5,2,2797,2687,1965,17,Condo
+113001.0,San Francisco,CA,1,4,2282,4554,1994,77,Townhouse
+936069.0,San Diego,NY,2,2,2199,5597,1952,90,Multi-Family
+1206928.0,Sacramento,TX,4,1,1906,3379,1995,96,Townhouse
+835493.0,Sacramento,IL,6,2,3787,6045,2008,106,Townhouse
+1001135.0,San Diego,IL,2,2,3621,3770,1978,118,Single Family
+500037.0,Fresno,CA,1,2,1072,3335,1979,14,Townhouse
+1178128.0,Los Angeles,CA,1,4,642,4223,1967,70,Single Family
+468367.0,Fresno,TX,4,2,3953,3330,1964,104,Multi-Family
+543847.0,Los Angeles,IL,5,2,3813,4624,1962,114,Townhouse
+308811.0,Los Angeles,CA,3,4,3689,9518,2002,33,Multi-Family
+915237.0,Sacramento,CA,2,4,2469,2860,2007,7,Single Family
+1427605.0,Sacramento,IL,3,3,1655,1185,1986,12,Single Family
+1213359.0,Fresno,IL,2,4,2936,6369,1987,47,Apartment
+1314753.0,Los Angeles,CA,5,1,3060,1630,1992,98,Single Family
+909232.0,Fresno,TX,2,4,1044,8331,1954,58,Apartment
+1025348.0,Sacramento,IL,3,2,2672,6391,2014,114,Single Family
+1229367.0,Sacramento,TX,5,1,1256,9446,1963,80,Single Family
+651790.0,San Francisco,CA,2,2,881,7350,2022,18,Single Family
+1359843.0,San Francisco,TX,1,4,2630,2470,1960,30,Single Family
+564035.0,San Diego,TX,2,4,1712,8311,1965,19,Condo
+1181346.0,San Diego,IL,3,3,3247,6455,1957,47,Townhouse
+698712.0,Los Angeles,CA,2,3,1880,2575,2017,106,Townhouse
+1331935.0,Los Angeles,NY,2,2,2011,4759,1998,115,Single Family
+221942.0,San Francisco,CA,2,3,3191,5459,2001,6,Apartment
+237627.0,San Diego,TX,2,2,2197,8424,2016,112,Single Family
+936123.0,San Diego,NY,5,1,1516,4785,1987,113,Townhouse
+891266.0,San Diego,CA,2,4,690,2510,2011,11,Single Family
+564030.0,Sacramento,FL,6,4,2608,8536,1983,73,Townhouse
+1220906.0,Los Angeles,FL,6,2,3648,9786,2011,20,Townhouse
+751425.0,Fresno,TX,4,4,2346,2711,2015,53,Single Family
+1249075.0,San Diego,FL,4,3,1444,5827,2002,46,Condo
+463854.0,Los Angeles,IL,4,4,734,2587,2015,9,Condo
+1250374.0,San Diego,TX,5,2,1555,1662,1969,15,Condo
+321307.0,Fresno,IL,4,2,688,5098,2018,48,Multi-Family
+1014410.0,Sacramento,CA,6,4,2500,4258,1987,28,Townhouse
+236666.0,Sacramento,TX,2,2,2884,3523,2009,66,Condo
+1321463.0,San Diego,FL,2,1,3857,8715,2016,86,Single Family
+1416409.0,San Francisco,FL,2,3,3600,8054,1983,5,Townhouse
+229675.0,San Diego,FL,1,3,798,2972,1967,76,Condo
+414018.0,Sacramento,CA,1,3,2292,5579,2001,103,Apartment
+434016.0,San Diego,CA,1,3,3157,8457,2010,4,Condo
+411851.0,Los Angeles,IL,3,1,863,3598,2015,83,Multi-Family
+1062025.0,Los Angeles,CA,1,2,1333,3640,1998,105,Condo
+717498.0,San Francisco,TX,1,2,3379,1670,2013,70,Condo
+1112100.0,San Diego,FL,2,3,1378,8884,2022,92,Multi-Family
+890769.0,San Francisco,IL,2,1,2731,4407,2023,2,Multi-Family
+617617.0,San Diego,IL,2,2,1184,3972,2010,88,Single Family
+475989.0,Los Angeles,TX,2,2,3102,6488,2002,120,Apartment
+482156.0,San Diego,NY,1,4,3948,4253,1995,55,Townhouse
+455797.0,San Diego,IL,6,1,786,5942,2002,103,Condo
+1090941.0,San Diego,FL,3,4,890,6226,1999,29,Condo
+699839.0,Sacramento,CA,6,4,1851,6489,2015,22,Apartment
+975466.0,San Diego,TX,4,1,2991,1778,1965,74,Townhouse
+161264.0,San Francisco,IL,2,1,2828,7470,1986,118,Apartment
+1342267.0,Los Angeles,IL,1,4,1791,1988,1978,73,Condo
+235502.0,Los Angeles,NY,5,2,2434,6501,1981,119,Townhouse
+1382618.0,Sacramento,TX,5,1,3721,7132,1955,65,Multi-Family
+1016919.0,Sacramento,FL,1,3,2696,8955,1957,7,Apartment
+373698.0,Los Angeles,IL,5,3,3579,2532,1955,118,Apartment
+1345391.0,Fresno,IL,5,3,646,4846,1980,45,Apartment
+677597.0,Fresno,IL,1,4,3485,9074,1989,101,Multi-Family
+923080.0,Los Angeles,IL,3,2,2742,2878,1951,67,Condo
+1411902.0,Sacramento,FL,2,1,1008,7656,1982,30,Condo
+1464732.0,San Francisco,TX,4,1,3163,1052,1958,113,Condo
+284784.0,Fresno,TX,3,4,1588,4126,2008,55,Townhouse
+1096197.0,San Diego,FL,5,3,1993,5581,1951,77,Condo
+152511.0,Los Angeles,IL,5,3,3460,3225,2014,40,Single Family
+941690.0,San Diego,IL,6,4,661,2846,2003,10,Condo
+1400044.0,Sacramento,TX,5,1,2160,2181,1953,57,Condo
+474461.0,San Francisco,IL,6,1,2743,8980,2016,119,Single Family
+1414669.0,Fresno,NY,2,2,1346,5540,1990,3,Condo
+399142.0,Fresno,IL,3,1,1815,9641,1966,109,Apartment
+108787.0,Fresno,NY,4,1,3249,4366,1954,10,Apartment
+1266372.0,Los Angeles,FL,1,3,3321,9019,1997,9,Single Family
+1436634.0,San Francisco,NY,2,3,2915,7934,2018,100,Apartment
+1135748.0,San Diego,TX,6,3,3126,4046,2009,72,Condo
+1445315.0,Los Angeles,IL,2,3,1897,4300,1952,10,Apartment
+710158.0,San Francisco,NY,5,2,2609,8200,2005,76,Condo
+426442.0,Fresno,IL,5,2,1741,4338,1986,112,Apartment
+474005.0,San Francisco,IL,1,4,3102,8039,2015,73,Multi-Family
+102028.0,Sacramento,TX,3,1,650,2740,1955,4,Townhouse
+1171830.0,San Diego,IL,1,4,2322,2476,1957,3,Townhouse
+660843.0,Los Angeles,NY,6,2,3890,2155,1961,43,Condo
+1071749.0,San Diego,CA,3,3,3391,7953,2008,52,Multi-Family
+470645.0,San Diego,FL,5,4,2998,1309,1999,47,Condo
+1015628.0,San Francisco,IL,4,3,3677,3304,1955,88,Apartment
+962971.0,Sacramento,NY,2,4,3352,9760,2022,118,Apartment
+589012.0,Fresno,TX,1,2,690,7936,2019,31,Townhouse
+907603.0,Fresno,IL,6,3,969,7373,1988,110,Apartment
+406159.0,Sacramento,TX,1,1,2533,6096,1971,40,Apartment
+1129152.0,Sacramento,CA,6,3,1311,5889,2021,100,Multi-Family
+280337.0,Sacramento,IL,6,3,3145,4528,2005,38,Multi-Family
+328074.0,Fresno,CA,6,2,1462,5688,2009,110,Condo
+351462.0,Sacramento,TX,5,3,2271,6190,2021,36,Apartment
+210113.0,Sacramento,IL,4,4,3866,1796,1973,10,Townhouse
+1255047.0,San Francisco,NY,6,3,1894,9879,1961,68,Single Family
+699231.0,San Diego,IL,3,2,3009,2641,1984,72,Multi-Family
+772910.0,San Francisco,TX,5,3,1393,4054,1957,81,Townhouse
+417718.0,Fresno,CA,5,4,1837,4892,1965,110,Townhouse
+1138482.0,Sacramento,FL,6,2,3174,2912,1956,22,Single Family
+948743.0,San Francisco,FL,2,1,1829,5193,1969,27,Apartment
+279426.0,San Diego,IL,6,1,3904,9647,1971,86,Townhouse
+285969.0,Los Angeles,NY,4,3,3611,3117,1990,78,Condo
+1127463.0,Los Angeles,FL,5,3,2940,7112,1986,59,Single Family
+723852.0,San Francisco,CA,6,2,2459,9743,1994,117,Condo
+1074925.0,San Diego,CA,6,1,994,7071,1995,36,Townhouse
+450784.0,Los Angeles,CA,4,2,2907,5822,1992,54,Multi-Family
+887115.0,Fresno,CA,1,4,3669,1043,1964,108,Single Family
+825178.0,Los Angeles,TX,5,4,1317,5647,1976,31,Apartment
+245952.0,San Francisco,IL,3,2,2046,2495,1961,24,Multi-Family
+433253.0,San Diego,TX,3,4,3855,1361,1967,115,Multi-Family
+745190.0,Los Angeles,TX,2,4,2572,9938,1959,91,Apartment
+933171.0,Fresno,CA,5,4,2458,9760,1999,2,Townhouse
+1008831.0,San Francisco,TX,3,1,3975,1119,1963,24,Condo
+227204.0,San Diego,NY,1,2,1647,9202,1950,34,Single Family
+745289.0,San Diego,CA,4,2,1050,3723,1975,64,Townhouse
+1483987.0,San Francisco,FL,2,3,1186,7670,1990,16,Single Family
+128853.0,Los Angeles,IL,6,2,725,9263,1957,1,Condo
+856260.0,Fresno,IL,3,4,2212,5551,2016,71,Townhouse
+478498.0,Los Angeles,TX,4,4,2606,4920,2021,118,Townhouse
+779579.0,San Francisco,CA,2,3,762,3462,1992,115,Multi-Family
+459607.0,Los Angeles,NY,5,3,2352,8601,1952,30,Townhouse
+1325699.0,Los Angeles,IL,5,3,2241,8877,1991,118,Multi-Family
+1219024.0,Fresno,IL,1,4,1580,1047,1998,69,Single Family
+1017616.0,Sacramento,FL,2,2,1619,6627,1990,2,Apartment
+905273.0,San Francisco,CA,1,3,2704,7502,2022,28,Condo
+929598.0,Sacramento,IL,1,4,3446,3758,1963,96,Apartment
+1472375.0,Fresno,CA,1,1,1418,5105,1962,110,Townhouse
+1246523.0,San Francisco,IL,4,4,2585,9925,1972,62,Multi-Family
+779712.0,San Diego,FL,5,4,3051,6115,2017,17,Single Family
+113372.0,San Francisco,NY,3,1,3084,2899,1955,29,Apartment
+207544.0,Fresno,FL,6,2,2428,8339,1987,13,Single Family
+803646.0,Los Angeles,FL,3,4,2623,8836,1961,106,Single Family
+299347.0,Sacramento,NY,6,3,2211,3656,2022,119,Single Family
+751719.0,San Francisco,IL,6,3,760,1199,1987,40,Apartment
+114286.0,Fresno,TX,3,4,1970,7313,2007,18,Single Family
+442260.0,Los Angeles,TX,1,2,1761,9362,1976,74,Townhouse
+467871.0,Sacramento,FL,3,4,3114,9717,1961,77,Apartment
+1246389.0,Sacramento,IL,3,3,1724,1272,2003,100,Townhouse
+1454268.0,San Francisco,IL,2,4,2028,7650,2020,54,Multi-Family
+201436.0,San Diego,CA,5,3,2837,7362,2009,62,Single Family
+1286048.0,Los Angeles,TX,4,4,3918,3960,1965,23,Apartment
+1415825.0,Fresno,IL,4,4,3909,6001,1966,94,Single Family
+1189972.0,San Francisco,IL,3,2,2943,7607,2008,54,Apartment
+1363612.0,San Francisco,IL,1,1,679,6239,1990,115,Multi-Family
+996190.0,Los Angeles,NY,4,3,3870,4259,2023,56,Multi-Family
+1228208.0,Fresno,NY,6,1,3370,4176,1981,87,Multi-Family
+1426721.0,San Francisco,FL,4,1,2687,3184,2000,21,Townhouse
+1193769.0,San Francisco,CA,1,4,1795,2512,1984,40,Condo
+1458463.0,Los Angeles,NY,2,2,2244,6626,1960,6,Multi-Family
+1496151.0,Sacramento,FL,5,3,3445,7944,1962,12,Multi-Family
+900797.0,Fresno,TX,2,4,3842,5839,1957,98,Single Family
+431967.0,San Francisco,FL,5,3,2861,2320,2002,101,Multi-Family
+1192923.0,San Diego,CA,6,2,2726,5814,1996,5,Apartment
+650763.0,Fresno,TX,3,3,3684,5852,1982,82,Townhouse
+1478203.0,San Diego,FL,2,4,3581,9668,1992,2,Multi-Family
+1259364.0,Sacramento,TX,5,2,1487,9110,2005,33,Multi-Family
+1420500.0,Fresno,TX,3,2,1565,8864,1960,89,Multi-Family
+953983.0,San Diego,FL,4,2,1708,9989,1971,3,Multi-Family
+392778.0,San Francisco,NY,5,3,2392,7622,1995,57,Townhouse
+1208849.0,Fresno,FL,6,3,3270,1074,1953,52,Multi-Family
+394824.0,Los Angeles,FL,5,3,3790,6394,1971,8,Multi-Family
+132626.0,Los Angeles,IL,2,3,923,5412,1977,118,Condo
+529982.0,Fresno,CA,5,2,3686,3527,2007,54,Condo
+171018.0,San Francisco,FL,5,2,616,2338,1986,17,Multi-Family
+1428670.0,Los Angeles,IL,6,4,3316,5657,1996,114,Apartment
+516901.0,San Francisco,IL,2,4,1004,6101,1967,33,Townhouse
+401072.0,Los Angeles,CA,4,3,1246,1518,1956,24,Single Family
+813788.0,Fresno,TX,3,2,2716,6312,2020,120,Apartment
+1456318.0,Sacramento,FL,3,4,2204,6968,1959,87,Multi-Family
+552551.0,Fresno,CA,3,4,1117,2991,2010,33,Condo
+619389.0,San Francisco,FL,5,4,3289,9451,2001,22,Single Family
+869419.0,San Diego,TX,3,1,1231,5733,1953,38,Multi-Family
+384317.0,Los Angeles,FL,1,2,2867,2794,2020,34,Townhouse
+850010.0,Sacramento,FL,5,1,2419,8423,1991,78,Single Family
+1466927.0,Sacramento,IL,1,3,1280,8684,1964,81,Single Family
+463990.0,Sacramento,NY,3,1,3069,8766,1968,44,Single Family
+1237293.0,Sacramento,CA,2,2,2488,6525,1961,79,Single Family
+208954.0,San Francisco,FL,5,1,1485,9478,2022,84,Single Family
+414961.0,Fresno,IL,4,4,1832,9594,1987,6,Multi-Family
+868534.0,San Diego,NY,5,4,683,4670,1998,79,Multi-Family
+1133100.0,Sacramento,FL,6,3,942,6946,2023,110,Apartment
+1396517.0,Sacramento,NY,3,2,2365,6983,1992,59,Townhouse
+1159677.0,Los Angeles,TX,5,2,3728,3997,2019,22,Single Family
+1484620.0,Fresno,IL,1,2,3066,9371,1957,102,Multi-Family
+911278.0,Sacramento,TX,6,1,3908,2348,2013,3,Condo
+1171839.0,Sacramento,TX,2,3,862,5533,1955,95,Multi-Family
+754257.0,Sacramento,CA,3,3,3957,7534,1957,70,Single Family
+632651.0,Sacramento,FL,2,4,1069,9220,2004,98,Apartment
+903375.0,Fresno,IL,4,3,928,9313,1963,87,Apartment
+1102363.0,San Francisco,FL,1,3,1405,8885,2001,85,Apartment
+800196.0,San Francisco,CA,2,2,2082,7035,2006,10,Apartment
+249358.0,Los Angeles,CA,1,2,1763,6974,1953,18,Condo
+302114.0,Los Angeles,FL,5,1,3187,5076,1950,20,Condo
+742536.0,San Francisco,FL,3,4,695,5342,1971,58,Townhouse
+191048.0,San Francisco,NY,1,4,2605,7019,1954,49,Multi-Family
+1123358.0,Los Angeles,TX,1,2,3084,5030,1978,96,Multi-Family
+800072.0,San Francisco,FL,2,2,3220,8971,2001,15,Multi-Family
+762346.0,Los Angeles,TX,5,4,1149,1446,1957,51,Condo
+862718.0,Sacramento,IL,5,4,1298,6640,2004,29,Condo
+573942.0,San Francisco,IL,3,2,984,2308,1972,2,Townhouse
+241211.0,Sacramento,CA,1,1,1779,3156,2019,10,Townhouse
+1153825.0,San Diego,CA,6,2,2619,5135,1966,118,Apartment
+369281.0,San Diego,TX,2,2,2831,7086,1979,41,Single Family
+570529.0,Sacramento,NY,1,2,2925,8592,2016,54,Multi-Family
+224348.0,Los Angeles,NY,4,4,1431,3673,2014,86,Apartment
+664416.0,Fresno,CA,3,4,735,8347,1999,36,Townhouse
+592454.0,Los Angeles,IL,4,3,2478,5501,1980,16,Single Family
+905860.0,Sacramento,CA,3,4,748,6224,2017,16,Single Family
+601508.0,Fresno,FL,1,3,2993,7553,2004,113,Condo
+890786.0,San Francisco,FL,3,2,2457,5569,2008,30,Multi-Family
+437511.0,San Diego,TX,3,3,3156,9554,1963,9,Townhouse
+1436174.0,Fresno,CA,3,3,3599,4888,1977,4,Single Family
+1003604.0,San Francisco,CA,2,1,3633,4691,1953,108,Single Family
+764241.0,San Francisco,CA,2,2,2153,2782,2015,53,Condo
+121708.0,Fresno,NY,3,3,3978,2483,1978,112,Multi-Family
+491796.0,San Diego,IL,4,3,2586,9732,1976,102,Apartment
+107634.0,Los Angeles,TX,5,3,2223,8024,2006,53,Multi-Family
+780966.0,Fresno,IL,1,4,2893,9681,2013,65,Single Family
+724110.0,San Diego,NY,6,2,623,3053,1998,50,Apartment
+1453664.0,Fresno,TX,1,1,1020,7572,2023,25,Single Family
+655953.0,Sacramento,FL,2,4,2799,7811,1982,57,Townhouse
+837749.0,San Francisco,TX,5,1,1323,4978,1966,108,Townhouse
+498606.0,Sacramento,FL,4,3,1437,3459,1955,55,Townhouse
+688959.0,San Diego,IL,1,1,2352,3608,1978,102,Single Family
+1005631.0,San Francisco,IL,2,3,3736,5382,2007,57,Apartment
+985654.0,Los Angeles,FL,6,2,3776,8176,2018,100,Multi-Family
+1200264.0,San Francisco,CA,6,3,2500,7280,2021,90,Multi-Family
+266057.0,Fresno,TX,5,3,1213,9786,1951,48,Single Family
+658283.0,Sacramento,FL,3,1,2487,9439,2013,27,Multi-Family
+980749.0,Los Angeles,CA,2,2,834,3839,1959,28,Townhouse
+590836.0,Los Angeles,TX,4,1,983,9401,1998,3,Condo
+1124902.0,San Francisco,TX,1,3,2685,1181,1955,73,Condo
+1055664.0,San Francisco,CA,1,2,1984,2398,1983,7,Single Family
+1228378.0,Sacramento,CA,5,3,2761,7538,1972,46,Townhouse
+269487.0,Fresno,FL,6,3,3040,4778,1987,2,Single Family
+1080304.0,Fresno,IL,6,2,1808,2762,2023,80,Multi-Family
+526134.0,Fresno,IL,3,4,1409,6433,1959,119,Condo
+874245.0,Sacramento,CA,2,2,2442,9869,1994,18,Multi-Family
+1417766.0,San Francisco,TX,5,1,2236,7873,1994,5,Single Family
+1460654.0,Los Angeles,CA,1,2,1320,8708,1956,31,Single Family
+1455417.0,San Diego,FL,1,4,2720,1777,2003,101,Apartment
+1253458.0,San Diego,TX,2,3,2660,3105,2002,48,Townhouse
+484967.0,Sacramento,FL,6,2,1087,6914,1953,40,Single Family
+1257749.0,Fresno,IL,6,2,2824,5114,1988,42,Townhouse
+387069.0,Fresno,FL,4,1,3390,2425,2008,4,Single Family
+688763.0,San Diego,IL,3,3,1358,5525,2019,19,Condo
+848451.0,San Diego,CA,3,2,2168,2019,1958,91,Townhouse
+437080.0,Los Angeles,NY,5,1,740,7577,1969,63,Multi-Family
+1227751.0,San Francisco,NY,6,1,1382,1046,1974,72,Multi-Family
+533645.0,San Francisco,NY,3,2,2513,7358,1982,68,Single Family
+790073.0,San Diego,TX,5,1,3417,8797,1976,29,Townhouse
+1283155.0,Los Angeles,FL,2,1,1825,1853,1969,62,Townhouse
+971258.0,Fresno,TX,4,3,1041,1479,2009,29,Condo
+923083.0,San Francisco,NY,1,3,1199,2333,2000,18,Apartment
+151810.0,San Diego,IL,2,1,1458,1047,1964,47,Townhouse
+318897.0,Sacramento,TX,2,2,2995,2028,2008,102,Apartment
+563082.0,San Diego,IL,6,4,1020,6331,2020,20,Single Family
+1481779.0,Sacramento,NY,1,1,1371,3672,2012,86,Condo
+1116179.0,Sacramento,IL,1,1,968,1465,1985,42,Townhouse
+1469707.0,Fresno,NY,6,1,1450,3222,2020,91,Apartment
+798012.0,Fresno,CA,4,2,2079,1138,2017,110,Single Family
+244695.0,Fresno,TX,4,1,3119,6742,1969,83,Townhouse
+344950.0,Los Angeles,FL,6,4,1560,1691,2021,2,Townhouse
+433189.0,San Francisco,TX,6,4,1179,8430,1966,43,Single Family
+942804.0,Fresno,FL,2,1,3079,5512,2004,25,Single Family
+795699.0,Los Angeles,TX,4,3,2079,4284,2016,41,Single Family
+530184.0,San Diego,NY,2,3,794,2136,1964,60,Townhouse
+1449697.0,Fresno,CA,6,4,2801,7000,1972,28,Apartment
+496223.0,San Francisco,FL,6,2,1343,9534,2015,99,Single Family
+142832.0,Sacramento,FL,5,1,3265,3212,2018,105,Condo
+526359.0,San Francisco,NY,1,1,3882,8121,1983,18,Condo
+176255.0,Sacramento,FL,3,3,2969,5769,1952,97,Townhouse
+906658.0,San Diego,CA,3,3,3531,5012,1956,100,Single Family
+390894.0,San Francisco,FL,3,3,1772,7124,1951,71,Condo
+676318.0,Sacramento,NY,1,1,3944,5783,1957,79,Apartment
+423257.0,San Francisco,FL,6,1,3862,9816,1982,95,Apartment
+1026238.0,San Diego,IL,1,1,3333,5761,1966,90,Single Family
+1289517.0,San Diego,NY,1,4,710,3639,1976,7,Multi-Family
+803057.0,Los Angeles,FL,2,2,1551,9626,2014,59,Multi-Family
+785531.0,Los Angeles,TX,5,1,1035,4165,1970,106,Multi-Family
+320312.0,Sacramento,FL,4,1,3795,1632,1984,106,Multi-Family
+417279.0,Sacramento,CA,3,3,1133,9672,1994,69,Multi-Family
+473195.0,San Francisco,FL,4,2,2063,4193,1983,96,Multi-Family
+810765.0,Fresno,FL,3,4,3847,3841,2019,118,Condo
+947510.0,Fresno,TX,1,3,1657,6400,1950,48,Multi-Family
+872311.0,Sacramento,TX,4,4,1534,6971,2014,67,Single Family
+1123484.0,San Diego,NY,1,2,1361,5247,2011,33,Single Family
+908029.0,Los Angeles,IL,2,4,646,4393,2004,58,Condo
+858758.0,Los Angeles,CA,1,4,3827,1256,1994,45,Condo
+130430.0,San Francisco,CA,5,3,2989,8110,2017,5,Townhouse
+1152868.0,Sacramento,CA,6,3,3121,3243,1990,55,Multi-Family
+951210.0,Los Angeles,NY,3,4,3769,7943,2004,16,Townhouse
+799710.0,San Diego,TX,2,2,1238,4966,1968,92,Condo
+1197720.0,Fresno,FL,6,3,1287,8517,1990,109,Multi-Family
+1181226.0,San Francisco,CA,1,2,830,1630,1969,21,Single Family
+1141219.0,Sacramento,NY,2,3,989,9282,2012,24,Apartment
+455913.0,Sacramento,IL,4,1,1786,1424,1983,95,Condo
+683573.0,Fresno,TX,5,1,2534,1734,2014,20,Apartment
+282695.0,San Diego,IL,6,4,1582,4037,1982,74,Townhouse
+551665.0,Fresno,TX,4,3,2284,2136,1991,62,Condo
+940609.0,Fresno,TX,5,2,1374,1646,1984,91,Multi-Family
+1359155.0,Fresno,TX,2,4,3946,6859,2019,22,Apartment
+1313735.0,San Francisco,FL,1,3,1405,5427,2006,105,Townhouse
+1033041.0,Fresno,CA,4,1,2301,8617,1981,65,Multi-Family
+1419240.0,Fresno,TX,4,2,1664,7656,1969,92,Apartment
+957223.0,Fresno,IL,3,2,940,5885,1987,35,Single Family
+1120934.0,Fresno,FL,3,3,3922,2239,2012,36,Multi-Family
+680198.0,San Diego,CA,4,2,2641,3327,1958,81,Single Family
+379538.0,San Francisco,NY,4,3,1974,4275,1988,64,Townhouse
+761390.0,Fresno,NY,5,2,3312,1681,1984,17,Condo
+469414.0,San Francisco,NY,1,1,3125,2061,1986,4,Single Family
+853353.0,San Francisco,TX,1,2,3752,8566,1973,77,Multi-Family
+1276290.0,Los Angeles,FL,1,2,1382,2112,1981,42,Multi-Family
+395657.0,Sacramento,CA,1,1,2322,7592,2011,104,Condo
+867570.0,Fresno,TX,4,2,3140,9012,1999,16,Apartment
+1312306.0,San Diego,FL,3,1,2584,5196,1952,30,Apartment
+772408.0,Los Angeles,NY,6,2,1030,2017,2008,87,Multi-Family
+221390.0,Sacramento,NY,6,3,2266,4448,1963,106,Condo
+380336.0,Los Angeles,FL,6,1,947,4928,1989,56,Multi-Family
+686236.0,San Diego,NY,3,1,3054,6628,1956,58,Townhouse
+842483.0,San Francisco,IL,3,1,2213,6162,1980,58,Single Family
+176130.0,San Francisco,TX,2,4,810,3859,1985,59,Single Family
+1001401.0,San Francisco,TX,2,1,3810,9866,1967,29,Multi-Family
+765739.0,Sacramento,CA,6,1,3818,6476,2001,14,Condo
+562297.0,Fresno,TX,2,1,3399,8678,2008,8,Apartment
+173054.0,San Diego,FL,1,3,3340,9797,1986,68,Apartment
+836369.0,San Francisco,FL,3,2,2137,5945,1967,91,Condo
+1214653.0,Los Angeles,IL,2,2,609,9127,1973,25,Multi-Family
+1142398.0,Fresno,FL,6,4,2139,1266,2011,22,Single Family
+1287048.0,San Diego,FL,5,2,2474,3110,1989,57,Single Family
+1140261.0,San Diego,IL,2,3,3140,4951,1961,46,Single Family
+166017.0,San Francisco,TX,3,2,2827,3640,2007,11,Apartment
+1175358.0,Sacramento,TX,2,3,2872,7449,2006,110,Apartment
+1134124.0,San Diego,FL,3,1,2076,3784,1968,43,Apartment
+983337.0,San Diego,IL,5,1,3233,8192,2007,89,Multi-Family
+557489.0,San Francisco,IL,5,1,1549,9759,1998,107,Townhouse
+1453148.0,Sacramento,NY,1,2,1340,9464,1969,94,Apartment
+556554.0,San Francisco,TX,4,1,1460,3678,2007,80,Condo
+1273603.0,Sacramento,FL,1,4,1534,5943,1981,47,Multi-Family
+1214336.0,San Diego,TX,2,1,1886,4102,1972,61,Townhouse
+1056509.0,Fresno,IL,1,4,1887,3822,2014,78,Condo
+854669.0,Los Angeles,FL,5,4,1950,8973,1996,105,Single Family
+698107.0,San Diego,NY,6,3,2549,3939,1955,10,Single Family
+208299.0,Sacramento,CA,4,4,3794,5661,1995,109,Apartment
+802037.0,San Diego,TX,3,1,1556,3510,1976,105,Condo
+242635.0,Los Angeles,TX,3,1,970,7044,1964,7,Single Family
+164337.0,San Francisco,IL,3,1,992,7775,1992,88,Multi-Family
+100764.0,San Diego,CA,3,2,1687,6031,1962,32,Condo
+756933.0,Los Angeles,TX,4,3,3266,9727,1977,27,Townhouse
+209720.0,San Francisco,CA,6,1,2480,6884,2013,115,Condo
+246361.0,San Diego,NY,6,4,2926,9813,1983,61,Condo
+1103488.0,San Francisco,FL,1,2,2493,2625,1984,79,Multi-Family
+276902.0,Sacramento,IL,3,2,2643,1253,1954,103,Condo
+777133.0,Los Angeles,FL,5,3,1558,4251,1956,68,Condo
+588396.0,San Diego,TX,6,2,3055,3564,2001,100,Apartment
+1390353.0,Fresno,IL,2,3,2265,4858,2009,39,Townhouse
+1097319.0,Sacramento,FL,4,2,3933,5364,1976,58,Condo
+1060026.0,Fresno,CA,3,3,1106,6813,1952,79,Apartment
+1133236.0,Los Angeles,CA,1,1,3591,3911,2018,81,Apartment
+912802.0,San Diego,FL,4,2,3062,4342,2022,53,Multi-Family
+583291.0,San Francisco,FL,5,4,3609,1978,1957,8,Multi-Family
+320388.0,Sacramento,NY,1,3,1502,3083,1963,63,Single Family
+174689.0,Los Angeles,IL,4,4,3129,5359,1988,17,Apartment
+211758.0,Sacramento,NY,1,4,3624,2602,1951,80,Condo
+1202747.0,San Diego,NY,2,3,846,6962,1957,38,Single Family
+706435.0,Sacramento,NY,4,2,1266,7785,1984,78,Townhouse
+151954.0,Sacramento,TX,5,3,2074,6680,1995,13,Apartment
+1250763.0,San Francisco,CA,2,4,1531,3371,1977,112,Multi-Family
+985809.0,San Diego,IL,4,4,1958,5198,1979,19,Apartment
+780930.0,San Francisco,CA,3,3,3767,8547,1969,44,Townhouse
+1395740.0,San Diego,CA,5,3,3602,7982,2005,92,Single Family
+942683.0,Fresno,CA,5,1,2795,2712,1995,6,Townhouse
+130879.0,Los Angeles,FL,3,2,2422,6875,2002,107,Condo
+586629.0,Los Angeles,CA,1,2,1873,1293,1963,84,Single Family
+848988.0,Sacramento,NY,3,3,2099,6716,1970,115,Townhouse
+1092098.0,San Diego,NY,5,4,1976,8980,1996,111,Townhouse
+193142.0,San Francisco,FL,6,1,2665,6800,2011,96,Apartment
+715251.0,Sacramento,FL,2,4,1285,7229,1959,15,Apartment
+1070802.0,San Francisco,NY,4,3,1480,7730,1999,99,Townhouse
+911772.0,Sacramento,CA,3,1,3811,1523,1981,84,Multi-Family
+1095500.0,San Francisco,TX,2,3,1130,1234,2018,118,Multi-Family
+868293.0,San Francisco,TX,5,4,624,7729,2004,30,Townhouse
+535024.0,Fresno,FL,4,4,3953,3173,2013,11,Townhouse
+906684.0,San Diego,TX,2,4,3172,2369,2019,28,Condo
+811801.0,San Francisco,CA,6,3,636,3670,1952,29,Apartment
+422369.0,Fresno,NY,5,4,2789,1515,1991,82,Condo
+980757.0,San Francisco,TX,2,3,3231,6517,1991,61,Townhouse
+327249.0,San Diego,CA,6,2,2634,3986,2003,119,Single Family
+941729.0,Los Angeles,CA,3,3,2159,2528,2023,42,Condo
+1333634.0,San Francisco,NY,4,2,1299,6075,2018,27,Condo
+132181.0,San Diego,FL,5,2,2457,8629,2010,72,Multi-Family
+259927.0,Fresno,IL,4,4,3189,4457,2013,38,Multi-Family
+761820.0,Fresno,NY,5,1,3059,9234,1975,15,Multi-Family
+1333651.0,Los Angeles,NY,5,2,792,6054,2004,35,Multi-Family
+1160990.0,Fresno,TX,2,3,3824,1780,1981,26,Apartment
+1415873.0,Sacramento,IL,5,4,3207,1922,1975,109,Single Family
+730201.0,Fresno,TX,4,1,1507,9093,1964,24,Single Family
+940838.0,San Francisco,NY,4,4,3029,2243,2022,112,Single Family
+792689.0,Los Angeles,TX,6,2,2783,4544,1984,63,Apartment
+285698.0,Los Angeles,IL,1,1,913,2784,1999,68,Multi-Family
+361783.0,Los Angeles,CA,1,1,1246,7932,1950,60,Single Family
+545103.0,San Francisco,TX,2,1,915,8989,2012,78,Multi-Family
+1050912.0,San Francisco,CA,1,3,1288,5845,1984,10,Townhouse
+1315813.0,San Diego,IL,3,2,3513,1515,2007,113,Multi-Family
+1091643.0,San Diego,FL,1,4,1888,1621,2004,40,Townhouse
+301429.0,San Francisco,FL,6,4,1668,6973,1968,70,Single Family
+105850.0,San Francisco,IL,6,2,3444,5114,1950,68,Apartment
+1152184.0,Sacramento,FL,2,3,1415,2690,2000,38,Condo
+387863.0,San Francisco,CA,6,1,1905,5806,1974,12,Single Family
+713451.0,Los Angeles,NY,3,2,3561,4316,2023,35,Multi-Family
+697104.0,Sacramento,NY,1,1,660,8861,1964,101,Apartment
+107584.0,Los Angeles,FL,3,1,3542,3233,2004,13,Multi-Family
+539489.0,San Francisco,NY,1,2,2419,6115,2013,78,Apartment
+741663.0,Los Angeles,FL,1,2,2483,8029,1998,70,Condo
+558631.0,Sacramento,IL,1,2,1913,1242,2017,94,Condo
+1382669.0,Fresno,CA,4,2,1312,5453,1973,54,Condo
+566038.0,Sacramento,CA,1,2,2602,1820,1956,116,Single Family
+1026003.0,San Francisco,NY,2,4,3832,2008,1986,66,Condo
+256879.0,Fresno,FL,5,4,3779,8805,1977,22,Multi-Family
+1101864.0,San Diego,CA,2,1,1481,8967,1998,109,Townhouse
+450730.0,Los Angeles,FL,6,2,2794,6521,1996,72,Multi-Family
+232780.0,Los Angeles,TX,3,3,1737,4621,1976,3,Condo
+816152.0,San Francisco,TX,5,2,3743,7752,2005,106,Multi-Family
+1003420.0,Fresno,IL,6,3,2183,2733,1975,102,Multi-Family
+1360828.0,Sacramento,IL,4,1,3628,6485,1995,5,Multi-Family
+937063.0,San Francisco,CA,2,2,3862,6496,2022,118,Apartment
+340574.0,Sacramento,TX,4,3,1510,7017,1970,69,Apartment
+957604.0,Fresno,NY,3,2,1236,8805,1969,67,Multi-Family
+661201.0,Sacramento,CA,1,3,2764,5413,1970,102,Multi-Family
+424500.0,San Francisco,IL,5,2,1861,2318,2021,103,Condo
+1216751.0,Fresno,FL,6,1,2288,9197,1974,110,Multi-Family
+503097.0,Sacramento,NY,6,2,2784,7446,1975,13,Apartment
+1147486.0,Los Angeles,CA,2,4,1492,3301,1959,68,Townhouse
+325165.0,San Francisco,IL,3,3,941,7511,1954,120,Condo
+952328.0,San Diego,CA,2,2,920,1631,2002,39,Apartment
+838113.0,San Diego,NY,4,4,3658,8027,1962,67,Apartment
+415528.0,Sacramento,NY,2,2,1946,9660,1998,21,Townhouse
+643087.0,Fresno,FL,6,1,1972,9515,1963,110,Single Family
+1306432.0,Sacramento,FL,6,4,615,4278,2014,100,Multi-Family
+1061447.0,Fresno,TX,2,4,1629,9020,1977,52,Condo
+745730.0,Fresno,TX,1,1,2998,8133,1992,38,Condo
+258042.0,Los Angeles,FL,6,1,3004,9978,1997,28,Apartment
+326070.0,San Diego,CA,4,1,3544,4770,1967,113,Condo
+1203382.0,Sacramento,CA,2,3,1171,3252,2010,53,Condo
+1415195.0,Fresno,IL,5,4,2656,1191,2014,22,Apartment
+426197.0,Sacramento,IL,4,4,895,1537,2006,55,Townhouse
+1364756.0,Fresno,NY,6,2,1115,6778,1998,112,Multi-Family
+611986.0,San Francisco,FL,6,2,918,1741,2015,120,Single Family
+1354118.0,Sacramento,NY,3,1,1782,2088,1997,65,Multi-Family
+242973.0,San Diego,NY,1,1,2510,7496,1974,81,Townhouse
+727472.0,Los Angeles,CA,3,4,3492,8833,2011,93,Townhouse
+640552.0,San Diego,TX,1,3,2830,2471,1986,63,Multi-Family
+420055.0,Fresno,IL,3,1,2877,8340,1999,25,Single Family
+851444.0,Fresno,TX,5,3,1439,8488,1952,23,Single Family
+504384.0,San Francisco,CA,3,2,1410,2913,2018,1,Condo
+474491.0,Fresno,FL,2,2,2827,3158,1998,84,Multi-Family
+130840.0,Fresno,NY,3,3,3594,6692,1989,65,Single Family
+116136.0,San Diego,CA,1,2,2778,3588,2005,81,Condo
+1346277.0,San Diego,TX,3,2,1384,8523,2015,33,Multi-Family
+384545.0,San Diego,NY,4,4,1446,8246,2017,6,Single Family
+1251781.0,Fresno,TX,6,4,1419,3954,1985,32,Apartment
+1098610.0,Los Angeles,IL,6,1,983,4932,1979,98,Condo
+835582.0,San Francisco,FL,4,2,2131,3104,2015,106,Condo
+994818.0,Los Angeles,IL,3,2,2985,4183,1973,40,Apartment
+848850.0,Fresno,CA,1,2,3798,5049,1966,73,Apartment
+741445.0,San Francisco,IL,3,3,2165,3160,2013,112,Single Family
+1208371.0,Fresno,IL,3,1,875,8738,1996,46,Townhouse
+1391650.0,San Francisco,IL,1,1,897,9021,2010,28,Apartment
+1394784.0,Fresno,FL,4,3,724,1505,1977,94,Single Family
+812674.0,Sacramento,IL,3,4,3650,1018,1975,93,Multi-Family
+1464001.0,San Francisco,FL,1,3,3354,4155,1952,99,Apartment
+602563.0,Sacramento,NY,5,4,3265,3274,1990,8,Townhouse
+325763.0,Sacramento,IL,3,4,1094,8491,1968,87,Condo
+575934.0,Sacramento,NY,1,3,1323,9864,1990,6,Multi-Family
+397028.0,Fresno,TX,1,3,2013,6611,2015,10,Multi-Family
+274902.0,Fresno,CA,3,4,2115,7911,1970,59,Apartment
+512195.0,San Diego,NY,2,3,1599,2831,1956,43,Single Family
+721273.0,Sacramento,TX,3,4,1785,7084,1990,103,Single Family
+1433695.0,Los Angeles,FL,4,4,3244,2818,1978,84,Single Family
+1310805.0,San Diego,CA,3,1,1573,8523,2014,96,Single Family
+203965.0,San Francisco,IL,4,2,1533,5939,1952,118,Single Family
+635048.0,San Francisco,CA,2,4,3627,5301,1953,85,Condo
+1254859.0,San Francisco,CA,4,1,3017,7470,2005,58,Townhouse
+1186869.0,San Francisco,CA,5,3,1592,2812,2021,36,Multi-Family
+1460250.0,Sacramento,CA,6,3,3214,3142,1989,42,Apartment
+1224116.0,San Francisco,TX,2,2,827,1289,2003,108,Apartment
+115744.0,Los Angeles,TX,6,3,3774,8702,2017,29,Condo
+1469258.0,San Francisco,FL,4,4,3211,9532,1979,25,Apartment
+1314524.0,Sacramento,FL,6,2,707,5131,1950,43,Condo
+687426.0,San Francisco,IL,2,1,3789,1605,1967,98,Condo
+1499218.0,San Diego,CA,2,3,1892,1464,2006,4,Single Family
+1212223.0,Sacramento,FL,5,4,883,9073,1971,82,Townhouse
+765341.0,San Diego,IL,2,2,970,1668,1969,62,Townhouse
+941784.0,Fresno,CA,5,1,2131,8115,1959,6,Townhouse
+1408110.0,Fresno,CA,4,3,3664,6607,1974,110,Townhouse
+403704.0,Fresno,CA,4,1,3129,7471,1979,28,Townhouse
+337362.0,San Francisco,CA,5,1,2678,4246,1965,19,Multi-Family
+740701.0,San Francisco,FL,2,2,3366,8539,1988,41,Apartment
+1181779.0,Sacramento,FL,4,1,2651,8912,1999,110,Apartment
+1052477.0,Sacramento,IL,2,1,3649,7355,1982,90,Apartment
+823571.0,San Francisco,FL,2,2,3946,4570,1997,48,Single Family
+1427202.0,San Francisco,IL,6,1,1396,8997,2009,95,Townhouse
+628568.0,Sacramento,IL,1,3,1008,2981,1968,41,Townhouse
+696092.0,San Francisco,IL,1,4,922,8400,1979,114,Single Family
+127321.0,Los Angeles,NY,3,3,3353,6168,1972,57,Townhouse
+417293.0,Los Angeles,IL,5,1,1842,9866,1995,117,Condo
+445101.0,Los Angeles,CA,6,3,1624,5436,1975,117,Apartment
+238951.0,Sacramento,NY,4,4,1921,6959,1951,15,Multi-Family
+323309.0,Sacramento,CA,1,1,3589,9337,1968,120,Apartment
+583154.0,Sacramento,CA,1,2,2402,4756,1981,96,Townhouse
+948012.0,San Francisco,FL,1,4,1689,4018,1971,20,Single Family
+334932.0,San Francisco,NY,3,4,3975,2039,1978,59,Multi-Family
+731180.0,Sacramento,IL,3,3,3339,7418,1953,1,Condo
+335042.0,Sacramento,CA,2,2,2566,5501,1967,42,Condo
+264127.0,Sacramento,TX,1,1,2883,7502,2004,43,Single Family
+1157381.0,Los Angeles,NY,1,4,3825,7031,2006,58,Townhouse
+619431.0,San Diego,IL,5,2,1638,6676,1973,24,Townhouse
+362754.0,San Diego,IL,6,3,3281,6890,1974,35,Apartment
+1264833.0,Fresno,TX,5,1,2570,1038,1981,96,Condo
+1169718.0,Sacramento,CA,3,3,3529,5643,1959,86,Townhouse
+945815.0,Fresno,TX,2,1,3137,9053,2008,1,Apartment
+552759.0,Fresno,NY,3,1,3726,2319,2012,61,Single Family
+1283669.0,San Diego,CA,5,4,1374,7163,1993,38,Multi-Family
+377819.0,Sacramento,TX,4,3,1914,8404,1953,93,Multi-Family
+188207.0,Fresno,IL,2,3,2347,8668,1963,28,Apartment
+828082.0,San Diego,TX,4,1,1752,7434,2007,78,Apartment
+915791.0,Los Angeles,NY,2,1,2092,4960,2023,37,Multi-Family
+754651.0,Fresno,CA,1,3,1270,7033,2002,118,Condo
+1054702.0,San Francisco,IL,2,4,1671,8672,1969,87,Condo
+474319.0,Sacramento,NY,6,3,2153,1720,1979,41,Single Family
+501890.0,Sacramento,CA,3,1,1214,6685,2018,18,Condo
+677428.0,San Diego,NY,4,3,955,6659,1965,58,Apartment
+378181.0,San Francisco,IL,2,1,962,8717,1962,12,Condo
+410698.0,Los Angeles,NY,2,4,3150,8002,1982,77,Townhouse
+727665.0,Fresno,CA,6,4,3329,9314,1971,72,Condo
+918160.0,San Francisco,TX,3,1,2034,4406,1996,65,Single Family
+371380.0,Fresno,CA,2,2,3376,4682,1965,72,Multi-Family
+417545.0,San Francisco,FL,4,4,2004,7617,2014,66,Apartment
+834757.0,San Francisco,NY,2,4,3031,8285,1974,102,Condo
+1057374.0,San Diego,IL,3,4,2479,8559,1994,37,Condo
+315634.0,Los Angeles,IL,2,4,2580,3464,1976,101,Single Family
+1053211.0,San Francisco,FL,4,4,1386,6357,1980,97,Apartment
+179797.0,San Francisco,TX,2,3,3326,7653,2006,87,Single Family
+1381948.0,Los Angeles,IL,2,3,1678,6412,2016,47,Condo
+1221223.0,Los Angeles,FL,6,1,2298,4008,1989,41,Condo
+174659.0,San Francisco,TX,6,4,1085,9715,1952,99,Condo
+315073.0,Fresno,CA,3,1,2616,7426,1951,60,Single Family
+1090823.0,Los Angeles,TX,4,4,1669,3579,2014,114,Single Family
+1195037.0,Fresno,IL,3,1,3999,1037,1991,81,Townhouse
+1217532.0,Los Angeles,NY,3,3,987,1295,2019,25,Single Family
+1258730.0,Sacramento,FL,1,1,3027,8287,1976,21,Single Family
+1401606.0,Fresno,NY,3,4,3595,7896,2002,111,Condo
+1366314.0,San Francisco,NY,2,1,3429,4250,2007,17,Single Family
+104493.0,Los Angeles,TX,6,1,722,2374,2010,45,Apartment
+1451100.0,Los Angeles,TX,4,4,1038,4292,1961,49,Apartment
+691218.0,San Francisco,FL,2,1,2316,1892,1959,59,Townhouse
+705960.0,San Diego,FL,3,3,1929,1396,1971,18,Apartment
+1357857.0,Los Angeles,FL,5,3,3750,9239,2015,53,Apartment
+935362.0,Fresno,TX,4,1,2989,2188,1965,113,Apartment
+963039.0,San Francisco,NY,1,3,2661,3171,1981,87,Townhouse
+183360.0,Sacramento,NY,5,4,1147,7857,1986,26,Multi-Family
+1059126.0,Los Angeles,NY,5,1,1089,6412,1985,48,Condo
+1454344.0,Fresno,TX,3,4,888,6132,1979,120,Apartment
+876296.0,San Diego,NY,2,4,1062,1605,1974,38,Townhouse
+1414762.0,Sacramento,TX,5,4,2195,1688,1982,88,Single Family
+878723.0,Los Angeles,FL,3,3,864,5419,1982,35,Condo
+679584.0,Los Angeles,IL,6,2,2582,2240,1956,92,Condo
+1117712.0,Sacramento,IL,2,4,2851,5486,1996,4,Apartment
+1358422.0,Los Angeles,IL,2,2,2713,7623,2011,109,Townhouse
+262520.0,San Francisco,CA,2,4,2004,6301,2006,42,Apartment
+705333.0,Fresno,FL,1,3,1868,7761,2016,120,Condo
+1280348.0,San Diego,CA,3,1,1854,4742,1958,12,Apartment
+1020459.0,Sacramento,NY,3,2,3848,9495,1986,24,Apartment
+503512.0,San Francisco,NY,1,3,2445,9036,1950,4,Apartment
+952028.0,Fresno,TX,3,3,3758,9938,1982,96,Multi-Family
+1209761.0,Los Angeles,IL,3,2,3857,7562,1981,71,Apartment
+1379446.0,San Francisco,IL,1,2,1477,9667,1983,48,Townhouse
+842927.0,Fresno,TX,2,1,2862,1524,2018,55,Apartment
+288565.0,Fresno,FL,2,2,752,6856,1963,83,Condo
+1179701.0,San Francisco,IL,5,2,1558,4276,1969,98,Condo
+1426326.0,San Francisco,NY,3,4,3449,4147,1959,59,Apartment
+211750.0,Sacramento,NY,2,4,3489,8552,2019,109,Multi-Family
+437818.0,Fresno,TX,2,4,3047,4867,1980,29,Condo
+937185.0,Los Angeles,IL,6,1,3726,9658,1979,18,Multi-Family
+191426.0,Los Angeles,IL,1,4,615,6583,2003,106,Apartment
+706620.0,Los Angeles,TX,2,1,3782,3790,2011,105,Apartment
+361658.0,Fresno,IL,3,3,2701,7568,1986,11,Condo
+929559.0,San Diego,NY,1,1,3646,1948,1978,58,Condo
+914842.0,Fresno,FL,1,1,1690,3441,1995,42,Townhouse
+1407926.0,Los Angeles,TX,4,1,774,1924,1951,107,Multi-Family
+1066056.0,Sacramento,NY,5,4,702,3901,2001,44,Condo
+1126603.0,Los Angeles,TX,5,4,2289,2793,1957,22,Apartment
+465265.0,San Francisco,NY,4,2,1461,2453,2001,62,Condo
+110097.0,Fresno,IL,5,2,1398,8381,1962,47,Condo
+1218168.0,San Francisco,IL,3,2,2764,6951,2013,20,Townhouse
+715976.0,Los Angeles,IL,5,4,3979,3457,1971,75,Single Family
+344668.0,San Francisco,NY,4,1,1751,5062,1956,71,Single Family
+400744.0,San Francisco,TX,6,1,885,2365,2010,119,Apartment
+972477.0,Sacramento,NY,3,4,3665,8926,2001,12,Single Family
+1089772.0,Sacramento,FL,1,4,2358,6575,1967,52,Townhouse
+681817.0,Sacramento,TX,5,4,927,1536,2019,109,Multi-Family
+945467.0,San Francisco,IL,1,4,1812,8167,1955,2,Townhouse
+310781.0,Sacramento,CA,2,1,3860,2508,1984,27,Single Family
+1392133.0,San Francisco,NY,4,1,2416,9064,2018,16,Condo
+1226168.0,Sacramento,NY,6,3,2933,7195,1967,84,Townhouse
+151730.0,San Diego,FL,3,1,684,6466,1985,72,Townhouse
+1323474.0,San Francisco,TX,4,2,3874,3384,1956,13,Single Family
+171171.0,Sacramento,TX,3,2,1859,3075,1988,104,Apartment
+576963.0,Los Angeles,CA,4,3,1237,2093,1961,76,Multi-Family
+680603.0,Fresno,CA,3,2,729,9826,1951,57,Single Family
+775005.0,San Francisco,TX,2,3,3118,8098,1951,116,Single Family
+314574.0,Los Angeles,NY,6,3,1466,9951,1967,44,Single Family
+1043558.0,Los Angeles,IL,6,3,1707,5474,2005,82,Apartment
+1463056.0,Fresno,CA,6,4,1633,5971,1950,117,Townhouse
+423192.0,San Francisco,CA,1,2,891,9249,1982,36,Apartment
+1226639.0,Los Angeles,FL,6,2,2489,2613,1967,7,Apartment
+499972.0,San Francisco,NY,3,3,3586,4806,1965,89,Multi-Family
+199906.0,Fresno,CA,2,2,1066,8918,1993,20,Single Family
+1223865.0,San Francisco,IL,6,1,2668,8563,1975,16,Townhouse
+378465.0,Los Angeles,FL,1,1,807,3442,2005,1,Condo
+1170279.0,Sacramento,FL,6,1,788,7694,1989,21,Multi-Family
+1456218.0,Sacramento,CA,6,2,715,7185,2002,111,Single Family
+592771.0,Sacramento,FL,4,1,1122,2469,1995,79,Single Family
+449429.0,Sacramento,NY,4,4,1792,7630,1975,49,Single Family
+1200867.0,San Francisco,TX,4,3,2006,1334,1985,31,Townhouse
+147111.0,San Francisco,CA,6,2,2255,8997,2006,70,Townhouse
+847617.0,San Francisco,FL,2,4,2503,2131,2021,5,Condo
+526045.0,Sacramento,IL,4,3,3095,6874,1956,105,Condo
+1361056.0,Los Angeles,NY,4,4,965,6245,2022,82,Apartment
+782095.0,San Diego,TX,4,2,1395,9537,2013,63,Townhouse
+1103146.0,San Diego,FL,5,3,1589,6894,2019,50,Townhouse
+634220.0,Fresno,NY,3,3,3033,7036,1964,80,Single Family
+268004.0,Los Angeles,IL,5,2,2575,5928,1993,47,Condo
+1421337.0,Sacramento,TX,1,1,1618,2535,1992,103,Multi-Family
+977475.0,Sacramento,IL,2,2,3783,8122,1973,4,Condo
+406192.0,Sacramento,IL,1,2,3998,3973,1955,51,Townhouse
+145136.0,San Diego,CA,6,4,2018,1269,1990,59,Apartment
+1169326.0,Los Angeles,NY,1,4,1110,9592,1982,78,Condo
+851439.0,San Diego,CA,4,1,3879,2466,1992,109,Apartment
+493384.0,Sacramento,FL,3,2,3951,2394,2019,29,Multi-Family
+702616.0,San Diego,CA,6,3,1704,6514,1968,34,Multi-Family
+1444049.0,Sacramento,IL,2,3,2531,6783,1964,86,Single Family
+691610.0,San Francisco,FL,5,4,2969,3934,1996,23,Townhouse
+1016112.0,Fresno,TX,1,4,1962,5447,1982,56,Apartment
+462828.0,San Diego,TX,3,4,721,8803,2013,7,Townhouse
+813988.0,Sacramento,TX,2,4,3737,6961,1969,109,Apartment
+1442853.0,San Diego,IL,6,4,840,9605,1983,63,Condo
+1131018.0,San Diego,FL,5,1,2762,7418,1950,19,Apartment
+1407385.0,Fresno,NY,6,4,1424,2029,2015,102,Townhouse
+419698.0,San Diego,CA,1,1,3250,5601,1963,13,Condo
+903859.0,Fresno,CA,3,1,3054,2959,1976,33,Townhouse
+398506.0,Fresno,FL,1,2,2822,3325,1969,11,Apartment
+378449.0,Los Angeles,CA,6,4,1800,2208,2001,13,Townhouse
+495312.0,Sacramento,NY,2,3,2124,9831,2005,33,Townhouse
+662727.0,San Diego,FL,1,1,3453,2386,2005,95,Multi-Family
+353584.0,San Francisco,CA,3,2,883,2507,2015,116,Multi-Family
+1442996.0,Los Angeles,TX,5,1,3708,7568,2022,25,Multi-Family
+557640.0,Sacramento,CA,1,1,1487,7422,2006,62,Multi-Family
+643639.0,San Francisco,NY,4,1,1925,6548,2010,111,Apartment
+229145.0,Los Angeles,FL,5,1,1184,4411,1982,4,Condo
+1219813.0,Sacramento,TX,4,3,2612,1105,1978,88,Condo
+940081.0,San Diego,IL,6,1,1360,8848,2019,42,Condo
+435007.0,San Diego,NY,1,3,1992,9030,2012,108,Multi-Family
+435821.0,San Diego,IL,4,4,3076,2553,1993,19,Apartment
+1105789.0,San Francisco,FL,6,4,2084,6688,2000,52,Multi-Family
+1456728.0,San Francisco,NY,4,1,3658,7861,1964,29,Single Family
+330624.0,Los Angeles,IL,2,3,3649,2142,1996,20,Single Family
+537103.0,San Diego,NY,4,1,2670,4676,1958,69,Multi-Family
+330544.0,San Diego,FL,3,4,3596,8005,1977,20,Apartment
+339064.0,Los Angeles,NY,4,1,1465,9439,1994,74,Multi-Family
+903893.0,Sacramento,IL,6,1,1017,6096,2016,76,Condo
+1292907.0,Fresno,CA,6,2,2201,1491,1954,25,Single Family
+1301461.0,Los Angeles,IL,1,2,1032,8275,2011,97,Multi-Family
+697001.0,Los Angeles,IL,6,2,2611,6027,2001,16,Townhouse
+1015024.0,Sacramento,IL,3,3,1983,2730,1998,81,Apartment
+1469651.0,San Diego,IL,2,1,1760,5578,1977,42,Single Family
+1449947.0,Los Angeles,NY,2,1,828,7868,2006,41,Townhouse
+1368349.0,Sacramento,TX,4,3,2888,5532,1975,16,Multi-Family
+403326.0,Sacramento,CA,5,3,3987,8329,2001,112,Townhouse
+703004.0,San Diego,TX,4,2,2838,8692,1986,93,Condo
+1077979.0,Los Angeles,CA,3,4,1067,8832,2009,2,Townhouse
+1377628.0,San Francisco,NY,2,2,3499,8593,1988,23,Multi-Family
+979483.0,San Francisco,CA,4,3,3181,4774,2016,77,Townhouse
+607071.0,Fresno,CA,6,4,3202,6081,2010,76,Multi-Family
+1112794.0,Los Angeles,IL,4,4,3285,5456,1997,110,Single Family
+1012826.0,Los Angeles,NY,4,1,3308,8436,1961,42,Multi-Family
+572355.0,San Diego,NY,2,3,2115,4347,1992,19,Single Family
+336640.0,Sacramento,NY,2,2,641,4291,1956,95,Apartment
+577795.0,San Diego,CA,2,2,1264,2490,1971,49,Multi-Family
+1455708.0,Los Angeles,NY,1,2,778,8051,2009,63,Multi-Family
+1225749.0,Sacramento,CA,3,3,2850,5113,2018,87,Multi-Family
+576495.0,San Diego,TX,1,1,2330,2624,1986,54,Condo
+654485.0,Los Angeles,TX,3,3,2771,9800,2002,63,Multi-Family
+1102154.0,San Francisco,CA,6,3,3837,2415,2002,65,Townhouse
+870466.0,Los Angeles,CA,1,3,3713,6362,2010,32,Townhouse
+273995.0,San Francisco,NY,2,1,1488,4956,1971,37,Multi-Family
+967316.0,Fresno,FL,2,2,2802,8955,2005,63,Condo
+392020.0,San Diego,NY,5,1,3496,7087,2017,68,Townhouse
+191377.0,Fresno,NY,3,4,2946,1428,1960,35,Multi-Family
+1410174.0,Sacramento,FL,5,1,944,8266,1974,28,Apartment
+935900.0,San Diego,TX,1,1,2817,2411,2007,99,Single Family
+792207.0,Sacramento,IL,5,1,2567,1291,2001,93,Apartment
+1034308.0,Los Angeles,CA,3,1,3895,9438,2001,49,Apartment
+1031274.0,Fresno,TX,3,2,799,8672,1973,79,Condo
+1225062.0,Los Angeles,CA,6,2,1398,3942,2019,112,Single Family
+1280322.0,Fresno,TX,1,3,2306,5211,1968,71,Townhouse
+1342910.0,Fresno,IL,2,2,1992,3949,1973,76,Townhouse
+580380.0,Fresno,NY,5,3,3656,7186,1955,44,Townhouse
+975397.0,San Francisco,IL,4,2,3359,2155,2003,81,Condo
+179425.0,San Diego,TX,3,2,2410,7419,2017,2,Condo
+1306875.0,Fresno,FL,3,1,1853,4005,2009,80,Apartment
+1077300.0,San Francisco,NY,3,2,3725,4599,1969,40,Multi-Family
+682633.0,Fresno,NY,4,3,1693,4140,2003,7,Single Family
+610670.0,Fresno,FL,5,3,2221,8274,1971,96,Single Family
+292506.0,Los Angeles,CA,5,2,675,4885,2014,53,Townhouse
+1334871.0,San Francisco,IL,4,3,1795,4696,1993,26,Townhouse
+1359613.0,San Francisco,TX,5,4,3881,1630,1975,84,Condo
+1061821.0,Sacramento,CA,6,4,3101,8967,1990,92,Single Family
+630286.0,Sacramento,NY,2,1,1326,5711,1975,18,Apartment
+1472857.0,Fresno,FL,6,3,1347,2615,2001,95,Apartment
+605221.0,Sacramento,NY,1,1,1737,5672,1956,17,Apartment
+446674.0,Los Angeles,TX,3,3,2460,9623,1974,4,Single Family
+993686.0,San Francisco,TX,6,1,2622,6419,1952,101,Single Family
+226693.0,Sacramento,TX,6,3,1711,7598,1963,104,Single Family
+1319712.0,San Francisco,FL,4,4,3909,3685,1979,3,Condo
+1288890.0,Los Angeles,TX,6,2,1395,8559,1956,74,Townhouse
+956034.0,San Diego,CA,1,4,674,6448,1993,87,Multi-Family
+520950.0,San Francisco,CA,1,2,2231,3274,1973,36,Multi-Family
+142594.0,San Diego,CA,2,2,1449,4605,1995,80,Condo
+686609.0,Fresno,IL,1,2,1656,4660,1954,58,Townhouse
+1065686.0,Fresno,CA,4,2,3292,7374,1961,74,Condo
+410142.0,Los Angeles,NY,1,1,2881,3846,1965,108,Apartment
+634856.0,Sacramento,CA,4,4,1051,2605,2011,62,Townhouse
+736810.0,San Francisco,FL,6,2,705,4337,1993,53,Apartment
+802318.0,San Francisco,CA,4,1,3854,1766,2008,111,Multi-Family
+475065.0,Los Angeles,IL,2,2,3341,3049,2006,114,Condo
+851420.0,Sacramento,NY,3,2,967,5888,1955,47,Townhouse
+200218.0,Fresno,NY,6,3,1860,8438,1982,20,Townhouse
+848974.0,Fresno,TX,3,1,2384,7314,2008,20,Townhouse
+550731.0,San Diego,NY,5,2,826,2258,2021,46,Single Family
+751038.0,Fresno,TX,3,1,2787,1504,1980,83,Condo
+1385988.0,Los Angeles,TX,5,2,2575,6403,1982,34,Condo
+1490235.0,San Diego,TX,6,3,3743,9326,1983,88,Apartment
+270055.0,Sacramento,NY,6,1,2804,3166,1974,41,Apartment
+550460.0,San Francisco,TX,4,2,2405,2752,1987,22,Multi-Family
+464626.0,Sacramento,TX,3,4,1178,2464,1951,16,Multi-Family
+564774.0,Sacramento,CA,3,1,3140,6463,2023,5,Single Family
+1046694.0,Fresno,CA,3,3,655,8495,2015,32,Condo
+438301.0,San Francisco,TX,2,3,2678,9618,2020,93,Condo
+1058552.0,Sacramento,IL,5,1,2881,3431,2001,73,Condo
+1274693.0,San Diego,IL,3,3,968,5001,1988,16,Single Family
+591413.0,Sacramento,NY,4,2,3141,9189,1964,69,Condo
+202048.0,San Francisco,NY,4,3,2906,6784,2009,118,Townhouse
+484824.0,Sacramento,NY,3,3,3375,6800,1959,99,Multi-Family
+975639.0,San Francisco,FL,1,3,1294,5757,2003,12,Townhouse
+375868.0,San Diego,NY,3,3,828,7406,2009,29,Multi-Family
+1382800.0,San Diego,IL,4,3,3690,4485,1978,29,Condo
+926788.0,Sacramento,CA,2,3,2755,1797,2015,52,Single Family
+822548.0,Fresno,FL,3,4,1225,6527,2008,73,Condo
+571568.0,San Diego,FL,5,3,1816,9386,1967,41,Single Family
+310835.0,Sacramento,TX,2,4,3212,6244,2005,58,Condo
+508171.0,San Francisco,TX,1,3,3282,4028,1972,95,Condo
+493637.0,San Diego,IL,3,2,2852,8461,1953,67,Apartment
+125582.0,San Francisco,CA,2,3,1747,8884,1971,4,Condo
+358855.0,San Francisco,IL,4,4,3973,9351,2018,22,Condo
+333088.0,Los Angeles,FL,2,4,2471,3616,1958,79,Condo
+723940.0,Fresno,NY,2,2,1417,2272,1967,16,Townhouse
+841326.0,Los Angeles,FL,5,1,1165,2075,1980,81,Multi-Family
+128867.0,San Francisco,IL,4,4,2837,8979,1968,82,Condo
+748777.0,Sacramento,IL,2,1,2886,6378,1975,9,Apartment
+221782.0,Sacramento,TX,5,1,2769,8859,1980,83,Single Family
+678686.0,Los Angeles,IL,6,4,1822,3650,2017,109,Townhouse
+1029713.0,Los Angeles,TX,4,1,2219,1682,1993,104,Apartment
+780079.0,Fresno,TX,3,2,1946,5418,2015,87,Townhouse
+285725.0,Fresno,IL,4,1,1148,6767,2004,2,Multi-Family
+925095.0,Sacramento,IL,2,3,929,5271,1961,16,Condo
+581161.0,Los Angeles,TX,5,2,2144,1888,2022,19,Apartment
+815451.0,Fresno,CA,4,2,1178,6036,1952,65,Condo
+1269682.0,Fresno,CA,2,3,1618,1231,2006,40,Condo
+457327.0,San Diego,FL,2,1,3941,1476,1989,85,Townhouse
+146019.0,San Francisco,IL,2,1,1212,2369,2009,78,Multi-Family
+1282414.0,San Diego,IL,4,2,1064,7253,2015,41,Condo
+570292.0,Los Angeles,CA,2,1,3160,9374,1968,84,Apartment
+1424084.0,Fresno,FL,2,1,1349,1884,1976,83,Condo
+728684.0,Sacramento,NY,4,1,3038,1481,2001,60,Multi-Family
+1404704.0,Los Angeles,IL,1,3,814,9595,2015,47,Multi-Family
+837702.0,Sacramento,IL,5,1,3669,2090,1967,119,Multi-Family
+976667.0,Fresno,TX,2,3,2172,7021,1966,104,Townhouse
+380705.0,Sacramento,CA,5,3,3255,9208,2022,96,Multi-Family
+1444268.0,San Francisco,NY,4,4,2767,7204,1958,64,Townhouse
+102028.0,Fresno,CA,1,2,1824,8908,1975,42,Townhouse
+804005.0,Sacramento,CA,4,4,3360,3890,2017,74,Condo
+711326.0,Los Angeles,FL,2,2,666,9673,1971,110,Multi-Family
+1115403.0,Fresno,IL,5,4,1457,7949,2004,64,Townhouse
+1195807.0,San Diego,IL,2,2,1004,6358,1979,5,Condo
+577577.0,San Francisco,CA,3,2,2728,9079,2019,113,Condo
+891336.0,Los Angeles,CA,5,2,3149,6784,1962,88,Single Family
+841531.0,San Diego,TX,3,4,2720,3716,1967,118,Condo
+1237879.0,San Diego,IL,1,3,3633,3402,1989,44,Condo
+464902.0,San Francisco,NY,5,3,2383,4232,1961,80,Single Family
+978336.0,San Francisco,TX,5,4,3276,2421,2012,104,Apartment
+1009011.0,San Francisco,CA,6,3,634,6288,2020,104,Multi-Family
+248621.0,Sacramento,NY,1,3,2714,7865,1987,91,Condo
+1037281.0,San Francisco,FL,4,1,3807,3790,1959,45,Townhouse
+533084.0,Fresno,FL,3,1,826,3948,2018,55,Single Family
+1132804.0,San Diego,NY,3,1,1682,4028,2015,39,Condo
+459734.0,San Francisco,FL,5,1,3855,2341,2023,71,Townhouse
+796312.0,San Diego,NY,3,1,1691,5223,2021,52,Single Family
+1340648.0,Sacramento,NY,5,1,726,7912,2007,56,Apartment
+188953.0,Sacramento,FL,2,4,3922,7984,1971,82,Single Family
+1164352.0,San Diego,NY,6,4,3865,2589,1964,86,Apartment
+129652.0,San Francisco,FL,4,4,1440,1097,1962,7,Condo
+1176035.0,Los Angeles,FL,4,4,3190,5838,2018,62,Apartment
+135966.0,Los Angeles,CA,6,4,3868,6366,2010,13,Townhouse
+714070.0,San Francisco,CA,5,2,677,9114,1954,26,Townhouse
+1023977.0,San Francisco,TX,3,1,1682,7916,1981,34,Townhouse
+407981.0,Los Angeles,NY,1,1,3261,7785,2008,100,Townhouse
+447706.0,San Francisco,IL,3,2,1006,8212,2010,83,Single Family
+1102017.0,Fresno,NY,2,1,3078,4530,2004,30,Single Family
+637069.0,San Francisco,CA,2,2,1374,2835,1995,120,Multi-Family
+1481833.0,Sacramento,NY,2,1,3416,8818,1954,77,Townhouse
+1312514.0,San Diego,FL,6,3,3965,3209,2010,31,Multi-Family
+1498990.0,Fresno,NY,4,1,1600,9159,1990,16,Apartment
+628075.0,Fresno,IL,6,1,3141,8542,1992,117,Condo
+1000752.0,San Francisco,IL,6,3,660,1460,2006,58,Single Family
+613429.0,Fresno,CA,1,1,3420,2949,1992,22,Condo
+649507.0,Fresno,NY,3,4,717,4739,1964,58,Single Family
+1011604.0,Fresno,IL,2,4,3941,6714,1955,72,Condo
+878588.0,San Francisco,FL,3,4,3428,9567,1969,36,Condo
+784628.0,Fresno,FL,1,1,3511,6981,1964,48,Apartment
+903226.0,San Francisco,NY,4,2,2535,2648,2017,55,Townhouse
+1433590.0,San Diego,TX,4,3,1590,4330,1985,3,Single Family
+1244267.0,Los Angeles,FL,3,4,2492,5586,1957,38,Apartment
+437137.0,Fresno,CA,1,2,1575,5478,2011,10,Multi-Family
+776904.0,San Diego,CA,3,2,1505,2807,1973,39,Apartment
+1076130.0,San Diego,IL,3,2,3405,1435,1995,70,Multi-Family
+883773.0,Los Angeles,NY,4,3,1840,6776,1986,99,Condo
+629929.0,Los Angeles,TX,1,2,3090,1342,2011,30,Multi-Family
+1364814.0,San Diego,NY,4,1,3991,6495,1957,95,Apartment
+1389794.0,San Francisco,CA,2,2,3487,6375,1993,24,Condo
+1380632.0,Sacramento,TX,3,3,2386,1172,1960,103,Multi-Family
+621685.0,San Francisco,NY,2,1,2017,4873,2010,105,Condo
+932923.0,Los Angeles,IL,2,1,2757,5327,1997,19,Multi-Family
+849363.0,Los Angeles,IL,6,3,3490,9862,1951,15,Multi-Family
+478395.0,Fresno,IL,2,4,2583,2427,1953,80,Multi-Family
+836243.0,San Diego,FL,1,1,746,2428,2017,54,Apartment
+1038877.0,Sacramento,CA,6,3,3673,8567,1968,19,Townhouse
+138456.0,Los Angeles,IL,6,4,1286,4898,1996,48,Apartment
+1285395.0,Los Angeles,FL,5,1,2085,4530,1974,7,Townhouse
+725098.0,Los Angeles,FL,3,1,2440,3622,1976,14,Apartment
+1212791.0,San Diego,TX,1,3,3007,9694,1982,103,Townhouse
+1263891.0,Fresno,IL,1,4,1834,4014,1964,73,Condo
+611900.0,Sacramento,TX,2,1,3503,1584,2015,80,Apartment
+1088823.0,Sacramento,NY,5,3,1291,4423,1982,119,Condo
+214432.0,San Francisco,CA,5,1,1460,1207,1976,6,Condo
+1424797.0,Fresno,CA,5,4,1814,2565,2009,116,Apartment
+858249.0,Fresno,TX,1,1,607,9634,2007,39,Single Family
+1191472.0,Fresno,FL,4,1,1322,9721,1955,33,Townhouse
+803014.0,Los Angeles,TX,1,1,3037,9904,1979,5,Multi-Family
+253568.0,San Francisco,IL,5,3,3689,5680,1951,9,Apartment
+964648.0,Los Angeles,IL,1,2,2443,1147,1999,98,Townhouse
+694525.0,Fresno,NY,2,4,1407,4179,2010,33,Townhouse
+283646.0,Los Angeles,TX,4,4,3608,2584,1998,118,Single Family
+1387108.0,Los Angeles,FL,3,4,2139,4203,1976,46,Single Family
+1268317.0,Fresno,TX,4,4,1077,5731,1980,77,Multi-Family
+500875.0,Fresno,IL,6,1,1507,1997,1975,2,Condo
+386515.0,Fresno,IL,2,1,2829,6434,1994,117,Multi-Family
+858707.0,Los Angeles,NY,1,2,3405,2632,1989,116,Condo
+554405.0,San Francisco,NY,1,4,2317,3509,1961,24,Single Family
+1038423.0,San Diego,CA,5,4,3642,1073,1978,32,Townhouse
+103682.0,Fresno,NY,3,4,1451,4606,2001,99,Single Family
+970897.0,Sacramento,NY,3,2,1723,5182,1956,98,Single Family
+778419.0,Los Angeles,FL,1,4,3881,6166,1955,15,Single Family
+1074024.0,Fresno,NY,4,1,3719,9663,1981,4,Townhouse
+100283.0,Los Angeles,FL,3,3,3166,5976,2021,80,Multi-Family
+1091920.0,Sacramento,FL,2,2,2445,7181,1970,82,Single Family
+699748.0,Sacramento,CA,1,2,1637,9782,1987,115,Multi-Family
+1446602.0,Sacramento,FL,6,3,2776,9705,1972,83,Townhouse
+936502.0,San Francisco,NY,6,2,1671,5294,1971,26,Condo
+1419776.0,Los Angeles,NY,4,2,1873,8384,2016,56,Townhouse
+865923.0,San Francisco,FL,6,2,1797,9019,1964,116,Condo
+556136.0,Sacramento,CA,4,2,2050,5927,1965,3,Single Family
+506109.0,Fresno,TX,4,3,1410,7928,1981,88,Townhouse
+329125.0,San Diego,CA,1,4,3571,2151,1958,26,Townhouse
+1191840.0,Fresno,IL,4,3,1355,6414,2017,19,Townhouse
+520617.0,Sacramento,NY,4,3,1525,6307,1980,64,Condo
+1477906.0,Fresno,FL,2,3,2283,2136,2009,43,Multi-Family
+1417093.0,San Francisco,IL,4,3,1675,5038,1983,2,Single Family
+483245.0,San Francisco,NY,4,2,1687,1953,1998,114,Condo
+431030.0,Los Angeles,NY,2,2,2948,2138,1992,6,Multi-Family
+769259.0,San Francisco,CA,1,4,975,9552,1992,57,Single Family
+508789.0,San Francisco,TX,4,2,886,2488,1974,78,Apartment
+593887.0,Los Angeles,TX,3,2,3468,4987,1989,118,Apartment
+497316.0,San Francisco,FL,1,1,3511,2623,2023,21,Single Family
+1215321.0,San Francisco,CA,1,4,1345,5463,1962,63,Multi-Family
+1492700.0,Sacramento,CA,5,3,2371,4426,1963,29,Multi-Family
+110859.0,San Francisco,TX,4,3,3652,7553,1953,32,Apartment
+1410792.0,Sacramento,TX,1,3,2449,5802,2005,85,Apartment
+1362844.0,San Francisco,IL,4,4,1645,7159,2014,7,Apartment
+680842.0,San Diego,NY,3,1,1680,5624,2006,76,Single Family
+1476212.0,Los Angeles,CA,2,3,1476,1486,1979,71,Condo
+1329052.0,San Diego,IL,6,2,723,2244,1977,5,Apartment
+1148383.0,San Francisco,TX,3,1,3437,3735,1957,70,Townhouse
+140103.0,Los Angeles,CA,3,2,1754,7511,1999,26,Condo
+981879.0,San Diego,TX,2,4,1914,4991,2021,27,Single Family
+104321.0,Sacramento,IL,1,1,1951,4375,1985,42,Condo
+247370.0,Fresno,TX,2,1,2229,6047,1978,18,Apartment
+857857.0,Fresno,NY,5,4,3126,2569,1965,116,Townhouse
+680402.0,Fresno,FL,1,4,2565,7622,1998,54,Townhouse
+531098.0,Fresno,IL,1,3,3332,3979,1958,9,Single Family
+1203558.0,San Francisco,CA,5,1,1617,1674,2007,70,Apartment
+1053481.0,San Francisco,FL,1,2,3142,5889,1973,40,Condo
+1116330.0,San Diego,NY,3,2,3025,4857,1976,27,Single Family
+649561.0,Sacramento,NY,2,2,2982,2343,2000,99,Townhouse
+1313935.0,San Diego,TX,4,4,1988,3095,2007,41,Townhouse
+1435866.0,Sacramento,IL,2,1,3074,6108,2011,78,Apartment
+523054.0,San Diego,FL,1,4,3112,8342,2022,103,Multi-Family
+1136478.0,Sacramento,FL,6,4,1190,9794,2000,49,Apartment
+591497.0,San Francisco,IL,2,1,2752,8277,1968,16,Apartment
+1042458.0,Fresno,IL,4,1,1527,1259,1997,110,Apartment
+817052.0,San Diego,NY,5,4,724,6714,2009,47,Single Family
+167620.0,San Francisco,FL,1,2,3184,3386,2007,117,Single Family
+286587.0,San Francisco,NY,1,1,692,4845,1993,98,Apartment
+237088.0,Fresno,IL,6,3,3111,7802,1996,105,Single Family
+162524.0,San Diego,CA,4,3,2737,8829,2018,8,Condo
+1359466.0,San Diego,FL,1,2,3167,4021,1950,77,Apartment
+181093.0,San Diego,IL,2,4,1517,7456,1967,55,Condo
+781451.0,Los Angeles,NY,1,4,1625,8067,2013,34,Apartment
+111428.0,Los Angeles,CA,4,2,2117,8508,1980,111,Single Family
+704899.0,Los Angeles,TX,1,3,3370,5055,1964,103,Apartment
+1311994.0,San Diego,NY,1,1,3602,7421,2019,1,Townhouse
+933573.0,Sacramento,NY,2,1,1143,9636,2019,98,Condo
+576335.0,Los Angeles,CA,2,1,1898,9644,1992,55,Apartment
+509205.0,Fresno,TX,4,2,892,8183,1966,68,Apartment
+915201.0,San Francisco,FL,4,1,3886,6667,1996,9,Apartment
+1207235.0,Fresno,IL,4,2,1745,2778,1958,9,Townhouse
+663384.0,Los Angeles,FL,5,1,3985,1184,2005,107,Townhouse
+223910.0,Fresno,TX,2,3,1806,4921,1990,79,Multi-Family
+1081583.0,Los Angeles,TX,4,2,931,1462,1990,51,Apartment
+147047.0,San Francisco,TX,1,4,1404,6978,1969,12,Apartment
+868546.0,Fresno,NY,4,3,1069,5588,1999,78,Townhouse
+764186.0,San Francisco,TX,3,2,2695,6672,1995,95,Single Family
+453512.0,San Francisco,FL,3,4,3991,6335,2014,86,Townhouse
+827388.0,Sacramento,NY,6,3,3785,8693,2006,53,Single Family
+1310763.0,Los Angeles,IL,5,3,966,3173,1964,86,Apartment
+668647.0,San Francisco,CA,6,3,2843,6095,2008,100,Apartment
+292045.0,Fresno,TX,2,3,1577,4047,1989,103,Single Family
+584306.0,Los Angeles,FL,4,4,2670,3530,1991,38,Townhouse
+1418754.0,Sacramento,NY,6,1,3467,4404,2012,88,Townhouse
+618573.0,Los Angeles,TX,6,4,3191,8450,1981,54,Townhouse
+890281.0,Los Angeles,CA,3,2,2578,8444,2016,54,Apartment
+1496209.0,Los Angeles,NY,1,3,1857,5751,1990,83,Multi-Family
+352485.0,Sacramento,CA,3,3,3911,8802,1996,46,Apartment
+742169.0,San Diego,FL,3,3,3232,1687,1967,115,Townhouse
+541666.0,San Francisco,NY,5,4,3556,1530,2022,17,Townhouse
+839325.0,San Francisco,IL,5,2,3763,9075,1985,12,Single Family
+1075708.0,Los Angeles,FL,1,4,1764,9718,2019,55,Multi-Family
+931701.0,Los Angeles,FL,4,4,3349,8588,2001,86,Condo
+1095371.0,Los Angeles,NY,2,2,1446,2301,1982,31,Apartment
+1194017.0,Fresno,NY,2,2,3553,4917,1970,90,Single Family
+288123.0,San Diego,FL,2,1,1788,2741,1963,1,Condo
+1227874.0,Los Angeles,FL,3,4,2170,2529,2018,38,Single Family
+868262.0,San Diego,FL,3,3,1369,3948,1996,37,Apartment
+1339463.0,Los Angeles,NY,4,2,1202,1886,1958,54,Multi-Family
+989357.0,San Diego,IL,1,1,1720,6518,1991,102,Apartment
+903149.0,Los Angeles,IL,2,2,1433,9193,1998,102,Condo
+630234.0,Los Angeles,TX,6,3,1255,1888,2001,120,Single Family
+1252974.0,San Diego,TX,2,3,2204,3430,2002,49,Apartment
+365076.0,San Diego,NY,3,4,3810,6155,2012,3,Townhouse
+1190951.0,Los Angeles,IL,3,3,2768,2127,2009,93,Apartment
+977697.0,Sacramento,FL,4,2,1574,1106,2022,19,Townhouse
+410666.0,Fresno,FL,2,2,2306,1159,1950,2,Townhouse
+1404171.0,Sacramento,NY,2,3,3403,2352,1996,11,Apartment
+1362472.0,San Diego,TX,4,2,3147,6466,1959,26,Condo
+994591.0,Fresno,IL,6,1,1351,4370,1969,1,Multi-Family
+1361614.0,San Francisco,FL,1,3,3988,8950,1960,84,Single Family
+1022305.0,Sacramento,CA,2,2,2241,9780,1967,32,Apartment
+262341.0,Los Angeles,CA,6,2,2299,1931,1987,67,Apartment
+1239263.0,San Francisco,CA,4,4,3253,7189,1984,60,Townhouse
+542776.0,Los Angeles,CA,1,2,2821,1026,1952,18,Condo
+426337.0,San Francisco,CA,3,1,3861,7662,1968,115,Single Family
+1438956.0,Los Angeles,CA,3,2,3353,4696,1970,48,Multi-Family
+429828.0,Sacramento,TX,6,4,1005,4662,1974,114,Apartment
+357213.0,San Francisco,CA,6,3,3756,5274,1959,116,Condo
+814836.0,Fresno,FL,6,4,782,5929,2003,45,Apartment
+873714.0,San Francisco,FL,1,2,2896,8577,1991,101,Single Family
+631293.0,San Francisco,NY,4,4,2404,3942,1955,102,Condo
+697793.0,Fresno,TX,6,2,1336,6701,2017,25,Apartment
+1188237.0,Los Angeles,FL,2,2,1067,7604,2012,15,Apartment
+944393.0,San Francisco,IL,6,2,2246,7016,1991,95,Single Family
+1153210.0,Los Angeles,CA,5,2,2514,8087,1980,118,Single Family
+1364608.0,San Francisco,IL,1,1,3304,3087,1989,83,Apartment
+993011.0,San Francisco,NY,5,1,1979,5449,1960,106,Multi-Family
+1455317.0,Sacramento,IL,1,2,1022,9197,1984,40,Condo
+582180.0,Los Angeles,IL,1,4,1819,6913,1993,13,Multi-Family
+1394289.0,Los Angeles,CA,2,1,2730,9045,1977,111,Single Family
+174251.0,Fresno,FL,4,3,2037,3781,1982,62,Townhouse
+788063.0,Sacramento,IL,2,3,2405,9872,1973,106,Townhouse
+1390208.0,Fresno,TX,2,4,884,5210,2000,74,Apartment
+289224.0,San Diego,IL,5,2,3508,3751,1974,113,Condo
+304268.0,Los Angeles,CA,3,1,3016,4168,1973,41,Condo
+286355.0,San Diego,TX,5,4,1746,6370,2008,87,Single Family
+469172.0,Fresno,IL,6,4,903,5156,1995,80,Condo
+1242314.0,Sacramento,CA,6,1,935,7687,1966,9,Apartment
+607785.0,Sacramento,TX,3,4,3065,8330,2004,15,Townhouse
+1334512.0,San Diego,FL,5,3,2277,7930,1981,57,Single Family
+589344.0,Sacramento,CA,1,3,3101,7313,2008,44,Condo
+695004.0,Sacramento,CA,5,1,1176,5984,1995,69,Single Family
+880609.0,San Francisco,TX,2,4,2508,1625,1980,4,Multi-Family
+765589.0,Sacramento,CA,6,3,3381,4621,2019,27,Single Family
+173195.0,Sacramento,CA,5,2,2841,8162,1987,83,Multi-Family
+139505.0,Fresno,TX,5,4,2310,4096,1974,116,Townhouse
+490836.0,San Francisco,IL,6,1,681,2821,2015,49,Single Family
+1372278.0,San Diego,CA,3,1,1681,8477,1984,76,Townhouse
+1173967.0,Fresno,IL,5,3,1760,4882,1959,90,Single Family
+735605.0,San Diego,TX,2,2,1625,8321,2000,93,Condo
+514584.0,San Diego,CA,2,3,3377,4297,1975,54,Townhouse
+1458769.0,San Francisco,FL,4,1,3387,8326,1970,91,Condo
+911593.0,Sacramento,IL,5,2,1996,6494,1986,60,Multi-Family
+882369.0,San Francisco,TX,4,2,1027,8698,1970,6,Single Family
+523704.0,San Diego,IL,5,3,2220,5105,2012,102,Townhouse
+1156785.0,Los Angeles,TX,2,1,1427,2122,1963,27,Single Family
+1426040.0,Los Angeles,NY,1,1,1144,7089,1992,21,Townhouse
+328266.0,Fresno,FL,3,1,849,9306,1963,50,Apartment
+585085.0,Fresno,FL,5,4,1404,3613,1972,81,Apartment
+1210031.0,Fresno,NY,2,4,919,5625,1994,54,Townhouse
+1063326.0,Sacramento,CA,3,1,618,5582,1987,99,Condo
+892349.0,San Francisco,CA,3,1,1934,7011,1970,118,Multi-Family
+966864.0,San Francisco,IL,2,3,1546,9987,2006,5,Townhouse
+1225786.0,Fresno,FL,1,4,751,7400,2021,1,Apartment
+510491.0,Sacramento,CA,4,4,2115,5527,1980,7,Condo
+571121.0,Fresno,FL,4,3,3598,6671,1992,76,Single Family
+340762.0,San Diego,CA,4,1,953,6249,2015,90,Multi-Family
+1423184.0,San Francisco,FL,1,3,3371,2475,1960,118,Single Family
+404252.0,Los Angeles,TX,5,2,1920,3215,1961,63,Single Family
+1019191.0,Fresno,CA,5,2,1139,5942,1982,11,Condo
+1293478.0,Fresno,NY,2,1,2299,6752,2009,66,Single Family
+484981.0,Fresno,IL,6,2,3122,3886,2002,108,Condo
+203604.0,Fresno,FL,1,3,1990,7829,1992,47,Apartment
+634518.0,San Diego,CA,2,1,621,5600,2022,6,Multi-Family
+1384056.0,Fresno,CA,1,1,1903,4803,1951,55,Condo
+476564.0,Fresno,NY,3,3,731,7083,1992,67,Multi-Family
+942562.0,Fresno,FL,2,4,3339,3566,1976,118,Condo
+991924.0,Los Angeles,CA,6,2,1850,1959,1975,25,Multi-Family
+1334500.0,Fresno,FL,2,2,848,7441,1969,90,Apartment
+472624.0,Sacramento,NY,4,3,1455,2776,2021,19,Condo
+779212.0,San Diego,CA,4,2,826,2188,1981,99,Multi-Family
+1464464.0,San Diego,CA,4,1,3890,1016,2014,69,Townhouse
+455746.0,San Diego,TX,3,1,869,2109,2006,117,Apartment
+1267990.0,Los Angeles,NY,2,2,1636,9803,1994,36,Apartment
+942400.0,Sacramento,IL,3,1,1748,6213,1995,88,Single Family
+948826.0,San Francisco,FL,5,3,1382,2005,1982,15,Single Family
+323148.0,San Diego,TX,4,4,2206,1872,1981,46,Multi-Family
+385824.0,San Francisco,FL,4,1,2132,1110,1952,2,Condo
+451523.0,San Diego,TX,4,4,1188,7036,1969,104,Single Family
+290051.0,San Diego,FL,2,2,1802,8381,1983,33,Apartment
+964260.0,Los Angeles,CA,4,3,3898,4407,2004,8,Condo
+969325.0,Fresno,FL,3,1,3227,8308,1955,12,Condo
+278862.0,Fresno,TX,2,4,3250,6051,1969,62,Townhouse
+1233537.0,Los Angeles,TX,4,4,2420,5481,2005,109,Condo
+127143.0,Sacramento,IL,3,1,1796,3596,2007,84,Townhouse
+935219.0,Los Angeles,CA,2,1,3013,3985,1992,116,Apartment
+1173683.0,San Diego,IL,3,1,1578,2603,2014,25,Townhouse
+1266532.0,San Francisco,CA,4,4,1475,9331,1987,43,Townhouse
+924794.0,San Francisco,NY,6,3,3579,4662,1995,98,Townhouse
+402250.0,San Francisco,FL,3,1,3450,2632,1962,93,Condo
+889745.0,Sacramento,TX,2,1,1616,8257,1994,91,Multi-Family
+1450914.0,San Diego,FL,2,3,3565,1910,1979,89,Townhouse
+879570.0,Fresno,IL,6,4,3123,6375,2008,11,Apartment
+1276754.0,Los Angeles,CA,5,2,1281,5710,2012,100,Apartment
+632140.0,Fresno,NY,1,4,3864,9789,2007,96,Multi-Family
+829817.0,San Francisco,TX,1,2,3812,1453,1963,120,Apartment
+250343.0,San Francisco,CA,5,2,1886,8226,2004,32,Condo
+993426.0,San Diego,CA,1,2,1988,2237,1999,83,Apartment
+992809.0,Sacramento,IL,1,2,2551,2042,1951,25,Condo
+633814.0,San Francisco,TX,5,1,1999,4541,1991,36,Single Family
+1174412.0,Los Angeles,CA,2,4,2364,4964,1971,106,Apartment
+977721.0,Fresno,FL,4,4,2991,8023,1984,31,Apartment
+1109257.0,Sacramento,IL,1,2,3227,1628,1973,67,Townhouse
+423729.0,San Francisco,IL,2,1,802,5047,1988,48,Condo
+424673.0,Sacramento,CA,4,2,2464,5074,1956,20,Apartment
+1192506.0,San Francisco,IL,6,1,2359,3646,1987,113,Multi-Family
+1099602.0,Sacramento,NY,6,1,1457,8626,2014,18,Apartment
+206508.0,Sacramento,IL,5,3,1385,8648,2017,96,Apartment
+692345.0,Fresno,CA,2,3,1062,1226,2022,84,Condo
+1232947.0,San Diego,FL,5,4,2484,7894,1970,83,Townhouse
+1430971.0,Fresno,FL,5,1,643,1361,1992,2,Townhouse
+901849.0,San Francisco,FL,2,1,3687,4499,1969,108,Townhouse
+1117002.0,Fresno,IL,6,4,1080,7567,2015,15,Condo
+1462110.0,Los Angeles,NY,2,4,3838,4678,2018,49,Apartment
+443507.0,Fresno,FL,2,1,3517,1384,1952,111,Condo
+786855.0,Sacramento,FL,2,4,1173,8666,2000,18,Condo
+222555.0,Los Angeles,CA,2,2,2242,2758,2002,85,Townhouse
+772844.0,Fresno,NY,4,1,2290,6616,1981,93,Townhouse
+781461.0,Sacramento,IL,2,1,1230,7208,1989,74,Single Family
+672743.0,Sacramento,NY,3,1,3979,2797,1967,94,Condo
+1183386.0,Los Angeles,TX,1,4,2270,4520,1957,71,Multi-Family
+1440454.0,Fresno,CA,3,4,788,8387,1962,59,Condo
+1249372.0,Los Angeles,CA,1,2,2646,4065,1994,72,Townhouse
+1491915.0,Sacramento,NY,6,4,1101,2980,1990,54,Condo
+841296.0,Sacramento,CA,6,4,1640,6607,1951,36,Apartment
+1363186.0,Fresno,CA,1,1,1055,8615,2022,22,Apartment
+1458415.0,Fresno,FL,2,4,3754,5717,1958,107,Condo
+908122.0,San Francisco,TX,4,1,3122,9721,1975,79,Multi-Family
+127390.0,San Francisco,NY,4,2,3213,1109,1957,89,Multi-Family
+1039105.0,San Diego,FL,4,2,1775,4168,1989,51,Townhouse
+831403.0,Los Angeles,NY,5,3,632,7673,2010,89,Apartment
+716358.0,Sacramento,NY,3,4,3973,3348,2018,101,Multi-Family
+651627.0,Los Angeles,CA,5,1,2412,7316,1999,117,Townhouse
+981826.0,San Diego,NY,6,4,1004,7193,1952,66,Townhouse
+712624.0,Los Angeles,TX,5,2,812,9195,1983,103,Multi-Family
+801696.0,Fresno,NY,6,3,3949,8129,2008,70,Condo
+717467.0,San Francisco,FL,3,3,3444,2183,1969,120,Apartment
+273905.0,Sacramento,NY,3,4,1394,5162,2018,8,Apartment
+330016.0,Sacramento,FL,3,4,2660,8584,1990,68,Apartment
+1020669.0,San Diego,IL,1,2,3057,2530,1952,78,Single Family
+824375.0,San Diego,IL,5,3,2280,4091,1979,27,Townhouse
+311629.0,Sacramento,TX,3,1,1924,5435,2021,55,Apartment
+867206.0,Los Angeles,TX,5,2,2862,9384,1987,62,Condo
+796329.0,San Francisco,TX,3,4,1939,4173,1964,84,Single Family
+856876.0,Fresno,NY,1,1,3127,2587,1962,50,Single Family
+1420675.0,Sacramento,FL,3,1,2402,3542,1971,33,Single Family
+617620.0,San Francisco,TX,3,4,2906,3840,2021,112,Multi-Family
+414754.0,Fresno,CA,5,2,1932,3415,1984,110,Single Family
+1470699.0,San Diego,CA,2,4,2266,6534,2011,95,Multi-Family
+1254861.0,San Francisco,CA,3,2,1929,5887,1977,12,Multi-Family
+199191.0,San Francisco,IL,4,2,682,9103,1990,85,Townhouse
+177022.0,Fresno,CA,6,3,1385,7713,2005,39,Townhouse
+1022640.0,Los Angeles,IL,4,1,3109,5757,1985,46,Multi-Family
+271192.0,San Francisco,FL,2,4,3869,8315,2012,67,Single Family
+338004.0,Fresno,FL,4,4,3871,7018,1981,81,Multi-Family
+732123.0,San Francisco,FL,5,2,1657,5304,1998,27,Condo
+885498.0,Los Angeles,FL,6,1,2755,4268,2013,110,Multi-Family
+778574.0,Sacramento,NY,1,1,2113,9966,1988,2,Multi-Family
+1491852.0,San Diego,IL,6,2,3182,4947,1969,36,Townhouse
+1340655.0,Fresno,FL,2,4,3275,8269,1994,57,Apartment
+1157118.0,San Diego,CA,3,3,2900,2311,2016,112,Townhouse
+624172.0,Fresno,CA,6,3,1607,6024,2022,26,Condo
+1318586.0,Fresno,CA,3,1,3154,4410,1952,37,Townhouse
+958904.0,San Diego,CA,4,3,1083,7167,1970,97,Townhouse
+1213198.0,San Diego,TX,3,1,1022,9130,1989,52,Single Family
+1429416.0,San Diego,NY,4,2,1869,6115,1979,66,Single Family
+1160505.0,Los Angeles,NY,6,3,3033,3484,1966,38,Condo
+734444.0,San Francisco,NY,4,1,1753,9075,1968,63,Townhouse
+606184.0,Fresno,IL,6,2,2192,9466,1998,65,Condo
+1043199.0,Fresno,IL,4,3,2729,4190,1965,99,Single Family
+287475.0,Sacramento,CA,5,4,849,7517,2022,97,Multi-Family
+262684.0,San Francisco,CA,2,1,2851,4284,2010,3,Apartment
+1496345.0,San Diego,FL,3,2,2570,8129,1978,107,Townhouse
+1322012.0,San Francisco,FL,1,4,815,1114,2016,26,Apartment
+450980.0,Sacramento,NY,3,1,3967,9785,2021,53,Single Family
+1041999.0,Los Angeles,CA,5,1,2052,8704,1976,9,Apartment
+193541.0,San Diego,IL,1,1,1094,6376,1962,67,Single Family
+816755.0,Los Angeles,FL,3,4,1218,2965,1962,62,Apartment
+347514.0,San Francisco,IL,3,2,1510,6197,2001,77,Single Family
+112180.0,Sacramento,NY,4,1,1148,9249,2017,59,Single Family
+1184343.0,San Diego,IL,2,4,3886,1489,1957,90,Condo
+1279191.0,Sacramento,CA,5,2,3070,7268,1957,11,Townhouse
+349997.0,San Diego,CA,3,2,1961,9625,1969,45,Multi-Family
+911746.0,San Francisco,IL,3,4,815,7925,2017,39,Apartment
+816254.0,San Francisco,FL,5,1,1655,1278,1950,45,Single Family
+838822.0,Sacramento,TX,6,1,745,3375,1979,65,Condo
+393230.0,Sacramento,IL,5,3,3177,5099,1995,24,Apartment
+225327.0,San Francisco,TX,6,4,2722,1438,2015,25,Townhouse
+118489.0,San Diego,CA,3,4,3097,3307,2013,14,Condo
+565668.0,Sacramento,CA,1,4,2731,3353,1968,88,Multi-Family
+980511.0,San Diego,FL,3,1,2913,5963,1967,32,Condo
+938654.0,San Diego,NY,1,3,1083,6836,2000,74,Apartment
+512474.0,Fresno,TX,5,3,1228,1347,2004,69,Single Family
+1413904.0,San Diego,TX,6,1,1532,3781,1992,4,Multi-Family
+1228673.0,Fresno,CA,3,2,3216,4235,2009,20,Condo
+254946.0,Sacramento,FL,5,1,2870,6069,2008,118,Single Family
+563319.0,San Diego,IL,1,1,1753,4728,1954,2,Multi-Family
+766154.0,Fresno,NY,2,1,884,4582,1953,12,Townhouse
+770630.0,Fresno,IL,6,2,3143,1460,2017,56,Apartment
+1417864.0,San Francisco,NY,2,4,2400,8907,2013,107,Townhouse
+835837.0,Fresno,IL,6,1,3140,5712,1958,104,Multi-Family
+479296.0,San Francisco,CA,1,1,3716,1379,2003,117,Apartment
+304055.0,Fresno,CA,4,3,1244,3586,2022,72,Apartment
+333354.0,San Diego,IL,6,3,3079,5682,2005,41,Apartment
+462942.0,Los Angeles,FL,6,1,1380,5869,1996,31,Townhouse
+100359.0,Sacramento,FL,4,3,3154,8288,1999,118,Condo
+861114.0,San Francisco,FL,5,2,2370,7058,2010,59,Multi-Family
+781259.0,Los Angeles,FL,3,4,3946,4938,2010,88,Condo
+260105.0,San Diego,FL,1,3,3188,1006,1990,91,Condo
+1304257.0,Fresno,CA,4,3,1608,2413,1975,88,Apartment
+934181.0,Los Angeles,FL,6,1,3887,1045,1976,100,Apartment
+830727.0,San Francisco,FL,3,4,811,9209,1956,97,Single Family
+1387365.0,Fresno,FL,6,4,1828,5916,1974,71,Apartment
+1198238.0,Sacramento,CA,2,2,3554,1189,1971,28,Multi-Family
+1087111.0,Los Angeles,FL,1,3,3575,6578,1963,5,Multi-Family
+438591.0,Sacramento,CA,1,2,2724,5688,1971,110,Condo
+180214.0,Los Angeles,TX,5,2,2579,3469,1979,108,Single Family
+1140983.0,San Francisco,IL,2,3,1615,2997,1971,29,Apartment
+831489.0,Los Angeles,CA,2,3,2454,9981,1992,3,Condo
+137256.0,San Diego,IL,5,3,2807,2721,1955,73,Multi-Family
+919464.0,Sacramento,NY,4,2,3063,1184,1981,66,Townhouse
+232686.0,Fresno,NY,3,3,1144,6726,1964,104,Condo
+1376734.0,San Diego,NY,4,1,1414,7638,1983,11,Apartment
+888753.0,San Francisco,CA,4,2,3862,4850,2009,16,Townhouse
+307504.0,San Francisco,FL,5,2,661,3863,2019,84,Apartment
+592036.0,Los Angeles,CA,4,2,1323,3600,1952,62,Multi-Family
+669294.0,Sacramento,CA,3,1,1800,2305,2005,18,Condo
+1185896.0,Sacramento,FL,6,3,667,6216,1977,90,Apartment
+728521.0,San Diego,IL,1,1,3960,8959,1967,48,Condo
+609946.0,Los Angeles,IL,5,1,3452,3588,1980,92,Single Family
+311291.0,Sacramento,NY,2,1,2840,8445,1994,109,Multi-Family
+669489.0,San Francisco,CA,6,4,2555,5225,2003,36,Townhouse
+906981.0,San Diego,FL,5,1,3282,9275,1986,48,Multi-Family
+512415.0,Los Angeles,NY,5,4,2444,2773,1991,112,Apartment
+362598.0,Los Angeles,CA,2,4,635,4053,1971,68,Apartment
+636492.0,Sacramento,IL,4,2,2221,2772,1980,98,Multi-Family
+140316.0,Sacramento,NY,1,4,1566,7650,1956,19,Multi-Family
+547648.0,San Diego,IL,4,3,977,7248,1993,23,Single Family
+889625.0,Sacramento,NY,3,3,1827,9471,2005,14,Apartment
+1432283.0,San Diego,NY,1,3,3063,3574,1987,98,Single Family
+1017089.0,San Diego,NY,1,4,3510,7635,2012,116,Multi-Family
+945919.0,San Diego,IL,4,3,3461,8702,1988,95,Multi-Family
+1312269.0,San Francisco,CA,6,1,2571,7284,2011,69,Single Family
+1052897.0,Fresno,NY,1,2,3832,9081,1964,14,Apartment
+1270604.0,Fresno,NY,5,3,1201,1993,1963,86,Single Family
+959885.0,Los Angeles,CA,5,1,1809,4278,1988,116,Condo
+1155502.0,Los Angeles,NY,3,2,1452,4743,2011,61,Single Family
+572120.0,Fresno,IL,1,4,3185,3030,1987,51,Condo
+279494.0,San Diego,IL,2,2,2357,5185,1957,25,Apartment
+165820.0,Sacramento,FL,1,3,2934,1484,2001,4,Townhouse
+761374.0,Sacramento,IL,6,1,2681,3662,2013,115,Townhouse
+922569.0,San Diego,FL,5,2,3202,1468,1992,66,Condo
+968119.0,San Diego,IL,3,2,1908,3178,1970,64,Apartment
+1136535.0,Fresno,IL,3,3,3716,1646,1967,47,Condo
+1285850.0,Fresno,TX,5,3,1151,5402,2016,56,Apartment
+409046.0,Los Angeles,NY,2,2,1655,8013,1995,92,Condo
+444640.0,San Diego,CA,6,2,1714,2999,1962,107,Single Family
+1104138.0,Los Angeles,CA,2,2,2236,7897,2005,39,Townhouse
+963007.0,Fresno,IL,4,1,1174,7019,1976,114,Multi-Family
+1335972.0,Sacramento,NY,6,4,2936,5090,1970,38,Multi-Family
+1262355.0,Fresno,NY,2,2,2387,4993,1974,13,Apartment
+892712.0,Sacramento,NY,6,2,1370,4487,1974,11,Townhouse
+1407692.0,San Diego,TX,3,4,3929,9053,2004,67,Apartment
+1207592.0,San Francisco,CA,1,2,1078,7511,2021,82,Single Family
+457764.0,Los Angeles,FL,6,1,610,2830,2012,18,Condo
+1465859.0,Sacramento,TX,6,4,1401,8075,1978,10,Multi-Family
+579088.0,Sacramento,IL,2,1,771,1654,2005,2,Apartment
+824024.0,Sacramento,TX,5,4,3118,5948,1992,48,Single Family
+886354.0,Sacramento,CA,4,4,698,7266,2004,48,Single Family
+357599.0,San Francisco,TX,2,1,852,5560,1950,75,Apartment
+1110404.0,Los Angeles,TX,3,2,1433,1541,1968,76,Single Family
+1146308.0,Fresno,IL,2,4,856,6238,1952,102,Multi-Family
+1209445.0,Sacramento,NY,1,1,2888,6119,1950,79,Townhouse
+469613.0,San Diego,FL,6,4,1299,5533,2009,84,Condo
+1482350.0,Los Angeles,TX,6,3,3928,8181,2009,86,Single Family
+590041.0,Los Angeles,IL,3,1,3236,2657,1953,17,Apartment
+1259240.0,San Diego,CA,6,2,894,8876,1974,68,Single Family
+622890.0,Sacramento,FL,3,2,944,3051,1977,29,Townhouse
+1012943.0,Sacramento,CA,1,3,2126,6335,2017,18,Single Family
+679034.0,Sacramento,IL,1,3,2862,8852,2016,69,Apartment
+916544.0,Sacramento,IL,5,4,3739,8398,1997,52,Townhouse
+999564.0,Sacramento,TX,2,2,2055,6683,1984,104,Apartment
+969242.0,San Francisco,IL,6,4,2176,1436,1970,32,Townhouse
+1364134.0,San Francisco,FL,2,3,1663,7361,2015,75,Apartment
+887213.0,Los Angeles,FL,4,3,3458,2761,1982,3,Apartment
+1284963.0,Los Angeles,IL,1,3,2467,5508,1971,42,Condo
+391248.0,Los Angeles,NY,6,1,1326,9805,2010,72,Townhouse
+1288078.0,San Diego,CA,5,3,2055,7958,1970,25,Single Family
+968615.0,Fresno,TX,6,4,1516,2170,2006,81,Apartment
+1218958.0,Sacramento,CA,4,1,3699,1187,2020,119,Townhouse
+1492072.0,San Diego,TX,3,4,1590,4301,1950,116,Single Family
+583720.0,San Francisco,TX,2,3,1791,3104,1993,79,Townhouse
+627152.0,Sacramento,NY,5,4,1988,3003,1996,64,Single Family
+1060065.0,San Diego,TX,5,1,1533,4105,1994,83,Multi-Family
+781564.0,Sacramento,TX,6,3,2593,5638,1986,117,Apartment
+1164379.0,San Francisco,IL,5,2,2720,7791,1964,44,Multi-Family
+891896.0,San Francisco,CA,6,1,998,9749,1970,87,Condo
+866451.0,San Francisco,CA,2,4,1471,5605,1994,118,Townhouse
+946285.0,Fresno,IL,5,4,3392,1371,2017,77,Apartment
+913221.0,Los Angeles,CA,5,1,2480,6351,1956,13,Condo
+981044.0,Fresno,CA,4,3,3512,4318,2007,27,Single Family
+1411056.0,San Francisco,NY,6,3,1648,6405,1990,65,Multi-Family
+1460281.0,San Diego,NY,5,2,2900,7671,1993,72,Condo
+215543.0,San Diego,IL,6,4,2894,8414,1959,30,Single Family
+522250.0,San Diego,CA,4,4,2878,1563,1983,68,Townhouse
+1360547.0,Sacramento,IL,5,2,607,8745,1997,86,Condo
+120368.0,San Francisco,IL,6,1,3817,1554,1993,90,Single Family
+817577.0,San Francisco,TX,6,3,1422,9790,1958,67,Apartment
+501201.0,Los Angeles,NY,1,3,3036,8954,1967,78,Single Family
+136647.0,Los Angeles,FL,1,3,1506,4183,1979,28,Townhouse
+634979.0,San Francisco,IL,6,1,2399,5002,2002,31,Multi-Family
+1013184.0,San Diego,FL,6,3,2022,7868,1955,19,Multi-Family
+119460.0,Sacramento,NY,6,3,1615,2049,1989,106,Townhouse
+1424590.0,San Francisco,NY,3,1,3728,9614,1990,106,Condo
+1392483.0,San Francisco,TX,4,1,1118,1722,2012,57,Townhouse
+1063342.0,Sacramento,FL,1,4,1355,2015,1992,32,Multi-Family
+800635.0,San Diego,IL,6,4,824,3403,1987,55,Single Family
+795509.0,Fresno,IL,4,1,3704,7253,1986,23,Multi-Family
+589404.0,San Diego,IL,6,4,3082,9611,1991,40,Multi-Family
+422841.0,San Diego,NY,3,4,1502,8891,2002,72,Apartment
+301837.0,San Diego,NY,1,4,2617,3030,2015,106,Single Family
+190609.0,San Francisco,NY,6,3,3228,9175,2004,13,Single Family
+1294331.0,Los Angeles,CA,1,2,3753,4999,2003,118,Apartment
+992302.0,San Francisco,CA,5,3,3379,8722,1982,32,Townhouse
+109684.0,Los Angeles,CA,3,3,778,2076,1956,26,Townhouse
+1202188.0,San Diego,CA,1,1,965,2591,2019,107,Single Family
+1445626.0,Fresno,NY,2,1,957,9039,1999,107,Apartment
+454587.0,San Francisco,TX,5,4,2976,8446,1980,63,Single Family
+793154.0,San Diego,FL,6,2,2842,1409,1964,105,Townhouse
+1389237.0,Sacramento,NY,4,4,3554,8879,1969,77,Single Family
+1223253.0,San Francisco,TX,1,1,809,5686,1997,99,Apartment
+1483606.0,Fresno,FL,4,4,3433,8275,1991,114,Single Family
+964953.0,Los Angeles,IL,1,2,1400,1089,1974,61,Condo
+481357.0,San Francisco,IL,3,2,627,9930,2006,8,Apartment
+517860.0,Fresno,TX,5,1,1768,4280,1997,111,Condo
+1147016.0,San Francisco,CA,4,1,2843,8340,1991,84,Townhouse
+474697.0,Sacramento,NY,6,3,1098,4948,1974,65,Multi-Family
+673167.0,San Francisco,TX,2,2,1231,5771,1999,10,Multi-Family
+1177337.0,Sacramento,IL,2,4,3422,4496,1985,32,Multi-Family
+328206.0,San Francisco,CA,4,1,2224,3750,1974,105,Condo
+880890.0,Sacramento,NY,3,1,2790,6966,1986,43,Townhouse
+1403310.0,Los Angeles,FL,4,4,2690,2493,2009,44,Multi-Family
+869770.0,San Francisco,IL,5,1,2065,2677,1996,52,Townhouse
+552081.0,San Francisco,CA,3,3,3314,6129,1964,57,Apartment
+876517.0,Sacramento,NY,6,2,3789,3783,1977,54,Condo
+547912.0,Los Angeles,FL,3,4,3622,2452,1972,13,Apartment
+154706.0,San Francisco,TX,6,2,3297,8824,2009,50,Condo
+301157.0,Los Angeles,FL,1,4,3688,5933,2006,93,Townhouse
+378010.0,Sacramento,CA,1,3,3730,9083,2006,78,Single Family
+1292371.0,Fresno,TX,2,2,3450,2492,1968,110,Apartment
+917243.0,San Francisco,NY,5,2,2997,2622,1996,89,Multi-Family
+1417682.0,Sacramento,IL,4,4,628,9590,2018,5,Single Family
+575289.0,Fresno,IL,5,3,904,3576,1954,54,Multi-Family
+1175776.0,San Diego,NY,4,4,1572,5622,1995,65,Apartment
+784779.0,San Francisco,NY,2,3,3777,9177,2006,28,Townhouse
+163960.0,Los Angeles,CA,2,4,2765,8936,2021,67,Townhouse
+979634.0,Sacramento,FL,6,4,3494,4969,1977,41,Single Family
+366009.0,Fresno,CA,5,1,3019,6247,1971,115,Condo
+740412.0,San Diego,CA,1,1,1490,5205,1958,63,Single Family
+810968.0,Fresno,NY,3,2,3904,4219,1956,112,Apartment
+1291690.0,San Diego,FL,6,4,1351,5582,1961,88,Condo
+240229.0,Los Angeles,TX,6,3,1051,7416,1974,69,Townhouse
+991672.0,Sacramento,IL,1,3,602,9567,1977,45,Multi-Family
+1134606.0,San Francisco,FL,3,1,2236,3820,2016,88,Single Family
+124477.0,Fresno,FL,3,1,1495,2449,2004,111,Condo
+749601.0,Fresno,NY,4,4,2383,6304,1988,11,Condo
+1327823.0,Los Angeles,IL,4,1,1198,9580,1999,95,Single Family
+1246677.0,San Francisco,FL,3,3,766,6790,2014,69,Single Family
+380139.0,Fresno,NY,4,1,2114,6303,1995,72,Townhouse
+1107780.0,Los Angeles,FL,6,4,1147,3928,1992,92,Townhouse
+144023.0,San Diego,TX,6,4,2855,6831,1987,115,Apartment
+1387365.0,San Francisco,IL,6,4,1017,3635,2021,37,Townhouse
+1305625.0,San Francisco,NY,2,2,3604,2479,1992,9,Apartment
+270245.0,Los Angeles,NY,5,2,3727,6955,1951,55,Apartment
+1445658.0,Sacramento,IL,3,2,1424,1967,1962,63,Apartment
+341634.0,Los Angeles,CA,3,2,3472,1393,1984,47,Single Family
+1321533.0,San Francisco,FL,2,3,2908,4547,2022,43,Apartment
+377258.0,San Francisco,CA,6,2,3769,7471,1965,11,Townhouse
+581754.0,Sacramento,FL,3,2,2117,1249,1953,112,Condo
+1127603.0,Sacramento,TX,1,2,1817,5191,1990,39,Townhouse
+989898.0,San Francisco,IL,3,2,1567,1551,2011,118,Apartment
+1412041.0,Fresno,CA,4,3,3739,3026,2009,119,Apartment
+264357.0,Los Angeles,NY,2,1,941,6207,1984,60,Condo
+775233.0,San Diego,FL,2,1,2887,4616,2015,10,Multi-Family
+864731.0,Sacramento,CA,6,4,3706,1068,1963,103,Single Family
+233598.0,Sacramento,IL,4,2,1766,6977,1991,27,Apartment
+1063868.0,San Francisco,TX,5,3,3750,3199,1984,103,Condo
+688429.0,Fresno,TX,2,1,3916,9776,1988,83,Multi-Family
+998003.0,Fresno,IL,2,2,2480,9940,1954,31,Single Family
+900787.0,Sacramento,FL,5,3,3910,1805,1970,21,Apartment
+695115.0,Fresno,NY,5,3,2280,8446,1966,10,Townhouse
+572175.0,San Francisco,IL,6,2,3204,6527,2018,73,Townhouse
+517449.0,San Francisco,CA,3,3,2930,4969,1961,52,Apartment
+1486590.0,Fresno,IL,2,1,2058,2891,1999,72,Townhouse
+373305.0,Fresno,CA,5,3,3062,7555,1960,67,Townhouse
+748347.0,Sacramento,FL,3,3,2530,6060,1976,100,Apartment
+1492926.0,San Diego,TX,1,2,2575,3936,2022,115,Apartment
+1376673.0,Los Angeles,CA,6,1,2808,2102,1975,104,Apartment
+554163.0,Los Angeles,NY,6,1,3338,1279,2009,90,Single Family
+752210.0,Sacramento,NY,6,4,1950,3558,1990,80,Single Family
+1014846.0,Fresno,FL,5,2,3385,7762,2018,18,Multi-Family
+894259.0,Fresno,TX,3,1,3401,2796,1993,83,Townhouse
+850639.0,San Francisco,TX,2,4,2580,3554,1991,103,Townhouse
+446902.0,San Francisco,FL,4,4,1644,8549,2022,40,Condo
+957764.0,Los Angeles,CA,1,4,1526,8865,1979,45,Multi-Family
+1450619.0,Sacramento,NY,3,4,3104,5719,1980,82,Single Family
+556635.0,San Diego,CA,1,3,3984,6750,2008,62,Multi-Family
+925973.0,Sacramento,FL,4,3,1407,4888,1993,87,Single Family
+1347555.0,San Francisco,CA,4,3,3489,6783,1998,21,Multi-Family
+402637.0,San Francisco,IL,6,3,3647,1557,1976,108,Multi-Family
+1185143.0,Los Angeles,IL,1,4,2484,6400,1951,23,Single Family
+730231.0,Fresno,CA,3,4,3842,1098,1982,55,Apartment
+1257066.0,Los Angeles,IL,1,3,1389,3200,2009,110,Condo
+230868.0,Sacramento,NY,5,4,2402,6454,1996,92,Condo
+734091.0,San Diego,TX,4,1,3877,8330,1978,60,Apartment
+1144014.0,Los Angeles,IL,1,3,3340,2973,1989,82,Condo
+449307.0,Los Angeles,NY,3,3,2959,8347,2023,88,Multi-Family
+1379623.0,Fresno,IL,4,3,1047,2456,1989,55,Condo
+245230.0,San Diego,FL,3,2,3163,8284,1989,94,Multi-Family
+549210.0,San Diego,IL,2,3,1041,7976,1950,7,Multi-Family
+458215.0,San Diego,CA,2,1,1941,4142,2022,107,Townhouse
+567245.0,Los Angeles,TX,3,4,2194,5588,2006,33,Townhouse
+1342248.0,San Diego,IL,3,2,1668,7798,1963,12,Single Family
+1368329.0,San Francisco,IL,6,2,3127,1874,1986,85,Apartment
+963301.0,Sacramento,IL,3,2,3396,5199,1963,60,Single Family
+502165.0,Sacramento,CA,3,2,2169,1344,1957,36,Multi-Family
+792152.0,Fresno,NY,3,1,3023,4813,2010,116,Apartment
+1482167.0,San Francisco,TX,2,1,652,6031,1967,87,Townhouse
+683910.0,Sacramento,IL,2,3,747,8973,1995,107,Apartment
+992882.0,Fresno,IL,5,4,3628,6969,1984,118,Condo
+254470.0,San Diego,CA,3,2,2293,4954,1993,4,Condo
+1094698.0,Fresno,CA,4,4,1540,6068,2017,47,Single Family
+541873.0,San Francisco,IL,1,3,3224,1128,1965,100,Multi-Family
+1328262.0,San Diego,NY,2,4,925,1975,2013,69,Condo
+1380476.0,Sacramento,TX,4,4,1395,2554,1960,67,Townhouse
+1095716.0,Sacramento,CA,4,1,1476,9187,2000,22,Apartment
+998749.0,San Diego,NY,6,3,2905,7062,1964,66,Townhouse
+1102499.0,San Diego,IL,6,4,2538,4510,1984,35,Condo
+1064819.0,Los Angeles,FL,2,1,1335,4113,1982,71,Apartment
+173580.0,Fresno,IL,4,2,3603,5090,1974,109,Apartment
+507209.0,San Francisco,FL,4,2,1126,3093,1959,97,Townhouse
+664032.0,Los Angeles,NY,1,3,670,4921,1996,17,Townhouse
+824851.0,San Diego,IL,3,4,2566,4783,1968,59,Townhouse
+345717.0,San Francisco,TX,3,4,1243,6073,2008,36,Single Family
+1012634.0,Sacramento,CA,3,4,3224,4508,1952,22,Condo
+175100.0,Los Angeles,IL,3,2,1511,3608,1956,66,Single Family
+911898.0,San Diego,FL,2,3,920,4728,1989,12,Multi-Family
+507926.0,Sacramento,NY,5,3,815,2426,2006,50,Condo
+551347.0,Sacramento,NY,2,4,2567,5847,2002,42,Apartment
+1108587.0,San Francisco,TX,2,2,3297,6952,2020,84,Multi-Family
+1339653.0,San Diego,FL,5,3,1610,1096,1953,13,Condo
+698605.0,Los Angeles,IL,2,2,603,7069,1959,90,Townhouse
+153639.0,San Francisco,IL,5,2,1109,1425,1967,30,Single Family
+1252631.0,Fresno,TX,1,4,1560,8607,1989,62,Apartment
+799196.0,San Diego,TX,6,3,3769,1397,2007,73,Condo
+581762.0,Fresno,TX,3,1,916,6496,1971,120,Apartment
+868758.0,Fresno,IL,4,2,1770,2786,1988,88,Townhouse
+1477408.0,San Diego,TX,1,4,1737,7580,1980,110,Condo
+766178.0,Sacramento,CA,3,3,3053,7488,2018,9,Multi-Family
+959249.0,Los Angeles,CA,3,2,2122,6716,2008,8,Condo
+238077.0,San Diego,FL,1,2,3368,9679,1965,83,Townhouse
+1403108.0,San Francisco,NY,1,2,1706,2820,2016,90,Multi-Family
+794121.0,Fresno,CA,6,4,3102,8603,1953,114,Townhouse
+1465314.0,San Diego,IL,3,4,1093,3089,1970,42,Single Family
+493055.0,Los Angeles,NY,5,1,825,7352,1965,24,Condo
+1167277.0,Fresno,IL,3,4,2439,5763,1979,111,Single Family
+1010631.0,Los Angeles,NY,6,1,997,1478,2003,73,Townhouse
+639426.0,Sacramento,CA,3,1,2496,6790,2007,71,Apartment
+485523.0,Sacramento,TX,6,4,2857,2065,1999,54,Multi-Family
+1110522.0,Fresno,TX,5,3,3052,4381,2018,81,Single Family
+550158.0,Sacramento,FL,6,2,3444,2503,1954,106,Townhouse
+1050654.0,San Diego,FL,1,3,2429,4992,1971,64,Townhouse
+512547.0,Sacramento,FL,4,2,1297,3698,1956,113,Townhouse
+729920.0,Los Angeles,FL,6,3,2181,4515,2015,3,Condo
+1423548.0,Fresno,NY,4,4,1109,9449,2002,10,Townhouse
+888455.0,San Diego,IL,6,2,3898,2000,1955,16,Multi-Family
+867045.0,Los Angeles,FL,1,2,3257,7096,1998,39,Single Family
+388016.0,San Francisco,TX,2,4,3064,5829,2002,53,Townhouse
+277024.0,Sacramento,CA,3,2,1723,4001,2012,21,Condo
+643713.0,Los Angeles,CA,3,4,651,8974,1999,18,Condo
+1309159.0,Los Angeles,FL,3,3,3933,1000,1981,28,Multi-Family
+767118.0,San Francisco,IL,5,3,885,8073,1957,89,Single Family
+1077526.0,Fresno,FL,4,2,3264,5699,1990,87,Condo
+1443890.0,Fresno,TX,5,4,1836,2151,1988,39,Townhouse
+1157354.0,Fresno,CA,3,1,2179,9052,1979,100,Single Family
+402339.0,San Diego,CA,1,4,3585,6337,1977,56,Multi-Family
+635830.0,Fresno,CA,4,1,1484,1302,1950,73,Single Family
+561390.0,Sacramento,CA,1,4,3335,5930,1991,78,Townhouse
+1376066.0,Sacramento,NY,1,2,2856,3603,2005,25,Multi-Family
+154749.0,Los Angeles,NY,1,1,3967,5193,1962,100,Multi-Family
+600024.0,San Francisco,IL,4,2,2753,7661,2004,118,Single Family
+732661.0,Los Angeles,TX,6,1,3060,9324,1990,109,Multi-Family
+1242489.0,Los Angeles,FL,2,1,2271,9042,2001,115,Single Family
+992014.0,San Francisco,FL,4,2,1485,2501,1994,105,Multi-Family
+323406.0,Los Angeles,CA,6,3,642,7982,1974,109,Single Family
+902572.0,Fresno,FL,5,3,2708,7698,1987,102,Condo
+1488630.0,Los Angeles,FL,1,2,2507,6876,1960,2,Single Family
+1251747.0,San Diego,FL,4,1,3590,1269,2007,108,Single Family
+1330718.0,San Diego,CA,4,1,2280,7286,1956,119,Condo
+1022516.0,Los Angeles,NY,3,4,832,8827,1973,58,Single Family
+816399.0,Los Angeles,FL,3,3,2882,3887,1989,74,Apartment
+337139.0,Fresno,FL,6,3,1202,6481,1975,28,Condo
+1056968.0,San Diego,IL,4,2,1973,3867,1968,33,Single Family
+1474598.0,Fresno,CA,5,1,2302,2533,2016,66,Townhouse
+174311.0,San Diego,IL,3,4,1025,9244,1997,1,Single Family
+1164086.0,Sacramento,TX,2,3,2842,1614,1954,17,Multi-Family
+1328223.0,Fresno,TX,2,4,882,9978,2006,110,Single Family
+859477.0,Los Angeles,TX,5,1,1402,8264,1993,25,Condo
+581016.0,Sacramento,IL,3,3,3853,7652,1991,77,Condo
+207646.0,San Diego,CA,6,4,2675,3186,2018,65,Townhouse
+772904.0,San Francisco,TX,3,4,3443,6406,1959,71,Apartment
+835365.0,Fresno,IL,4,1,936,7113,1996,77,Condo
+664054.0,San Diego,NY,4,2,2984,3811,1955,105,Condo
+751994.0,San Diego,NY,4,4,1019,7710,2012,56,Condo
+1496434.0,San Francisco,IL,6,4,3189,8223,1966,108,Single Family
+801645.0,San Francisco,TX,1,1,2574,5978,2006,89,Townhouse
+263469.0,Fresno,IL,4,1,3003,1908,2014,118,Single Family
+952640.0,Fresno,FL,5,1,893,4226,1951,94,Apartment
+492639.0,Fresno,TX,6,2,3326,6511,2002,47,Multi-Family
+690617.0,San Francisco,TX,3,3,2754,2212,2004,84,Single Family
+740207.0,San Francisco,IL,6,3,3973,4380,1969,118,Townhouse
+1363873.0,Los Angeles,NY,4,1,2006,9486,1992,112,Condo
+812147.0,Los Angeles,FL,3,2,3975,5472,2000,102,Condo
+543914.0,Los Angeles,TX,6,3,1023,5966,1989,39,Condo
+502220.0,Sacramento,IL,2,4,3877,2422,2014,84,Condo
+145267.0,Sacramento,TX,5,2,600,8315,1964,63,Condo
+1425188.0,San Diego,TX,4,2,2935,3470,1967,98,Single Family
+1092255.0,San Diego,NY,6,1,1000,5090,2008,104,Multi-Family
+744075.0,Sacramento,FL,3,3,1866,9073,2002,116,Apartment
+643235.0,San Francisco,NY,3,4,1750,9129,2012,41,Apartment
+1449986.0,Los Angeles,IL,2,1,3213,5703,1962,119,Apartment
+792699.0,Sacramento,CA,3,3,2952,7959,1994,40,Multi-Family
+526692.0,Sacramento,FL,1,3,1372,1551,2009,23,Condo
+839428.0,San Diego,FL,4,4,1586,8177,1980,52,Townhouse
+223608.0,Los Angeles,FL,3,3,2726,9685,2012,72,Single Family
+734661.0,San Francisco,FL,2,3,1695,7194,1960,96,Apartment
+745278.0,Fresno,NY,5,2,1893,9315,1975,95,Single Family
+1381863.0,San Francisco,IL,1,4,2775,1100,1979,119,Multi-Family
+1378903.0,Fresno,CA,6,1,1784,3104,1985,110,Apartment
+679223.0,Los Angeles,NY,5,3,2933,9856,1958,14,Multi-Family
+299090.0,Los Angeles,CA,4,2,1266,6775,2020,115,Multi-Family
+147625.0,San Francisco,TX,3,1,3034,1184,1981,101,Apartment
+399361.0,San Diego,CA,6,2,1302,5463,1963,47,Multi-Family
+267346.0,Los Angeles,IL,4,3,946,4067,2003,60,Condo
+941522.0,Fresno,TX,4,2,917,1749,1963,61,Multi-Family
+762080.0,Los Angeles,CA,4,4,1581,8211,1997,9,Apartment
+812703.0,Sacramento,CA,6,3,2841,2988,1963,81,Apartment
+825032.0,San Francisco,FL,5,4,3838,1292,1983,43,Townhouse
+1289111.0,Fresno,FL,3,3,1096,4175,2006,109,Multi-Family
+153968.0,Fresno,NY,4,3,3420,7535,1973,50,Condo
+276658.0,Sacramento,CA,4,4,1117,7459,1968,112,Multi-Family
+678162.0,Sacramento,NY,2,2,897,3165,1992,102,Townhouse
+517208.0,San Diego,TX,1,3,1427,5638,2017,108,Multi-Family
+1495902.0,San Francisco,TX,5,3,915,9654,1973,56,Townhouse
+816304.0,San Diego,TX,4,1,2423,4676,1970,68,Condo
+847501.0,Los Angeles,IL,3,2,1470,2755,1952,27,Condo
+450515.0,San Diego,NY,3,4,3040,5352,1965,73,Townhouse
+625007.0,San Diego,IL,3,2,1959,2374,1958,33,Townhouse
+1348396.0,Los Angeles,TX,6,2,3736,4449,1957,107,Condo
+1195827.0,San Francisco,FL,2,3,2815,8689,2000,11,Single Family
+378020.0,Sacramento,FL,4,4,1318,7683,1987,66,Condo
+420770.0,San Diego,FL,5,2,2852,5892,1950,110,Condo
+472743.0,San Diego,IL,1,4,764,7932,1965,102,Condo
+687480.0,Sacramento,IL,1,2,1629,9192,2010,77,Townhouse
+761495.0,San Diego,TX,5,3,3719,7688,1959,52,Multi-Family
+665695.0,San Diego,IL,6,1,2447,2798,2020,66,Single Family
+589177.0,Sacramento,TX,4,3,610,5225,2019,57,Condo
+212757.0,Fresno,FL,5,3,830,7568,1983,91,Single Family
+886105.0,San Diego,NY,6,2,1773,6571,2014,115,Townhouse
+141534.0,Fresno,CA,1,3,3185,4105,2014,63,Townhouse
+1303490.0,Sacramento,NY,4,3,3497,8061,2015,109,Condo
+725022.0,Fresno,IL,3,4,1751,9808,2020,39,Townhouse
+749878.0,Sacramento,TX,6,4,1054,9111,1973,4,Single Family
+1145357.0,San Diego,TX,4,3,2680,8167,2021,117,Apartment
+1164190.0,Los Angeles,IL,2,3,2460,1358,2010,26,Single Family
+233884.0,San Francisco,FL,2,2,942,8026,2007,49,Townhouse
+229333.0,San Diego,TX,6,1,1443,1918,1951,99,Apartment
+374532.0,Sacramento,TX,3,4,2762,5940,1990,30,Condo
+1392019.0,San Diego,IL,3,1,715,4919,2018,68,Apartment
+1395917.0,San Francisco,CA,3,1,693,5724,1991,12,Single Family
+650733.0,San Diego,IL,3,1,2425,9622,1958,102,Single Family
+765584.0,San Diego,NY,5,4,909,5990,1953,70,Single Family
+792693.0,Los Angeles,NY,1,1,3868,2315,1989,5,Single Family
+628319.0,Sacramento,FL,6,1,2522,9661,1970,58,Single Family
+924682.0,Los Angeles,FL,2,4,3006,6315,1990,55,Townhouse
+1175183.0,Fresno,TX,5,4,3653,4837,2003,108,Condo
+543938.0,Fresno,TX,5,2,2421,1632,2012,106,Apartment
+1315724.0,San Diego,CA,4,4,3325,1493,2001,103,Townhouse
+833057.0,Fresno,TX,1,1,775,9593,1999,17,Multi-Family
+1239159.0,San Francisco,CA,4,1,3852,2748,1991,62,Apartment
+611479.0,San Diego,CA,6,3,2139,9931,1998,83,Apartment
+805633.0,Sacramento,TX,5,4,3224,6335,2023,7,Apartment
+131883.0,San Diego,TX,6,2,2454,7445,1971,26,Single Family
+263337.0,Fresno,CA,6,1,2240,9123,1956,82,Single Family
+609804.0,San Francisco,NY,5,1,2389,1362,1976,57,Multi-Family
+1224375.0,Sacramento,FL,4,1,2572,1621,2002,68,Single Family
+606489.0,San Diego,NY,3,1,2776,4498,1965,59,Multi-Family
+983296.0,San Diego,FL,2,4,3321,6287,1991,13,Apartment
+1120178.0,Los Angeles,CA,4,2,3094,3518,1995,86,Apartment
+637526.0,Los Angeles,TX,3,1,3228,2324,1954,96,Condo
+489344.0,Sacramento,TX,6,4,1280,5850,1976,39,Multi-Family
+1135740.0,San Francisco,IL,5,3,1229,8658,1997,9,Single Family
+947387.0,San Diego,TX,6,1,3855,9872,2014,35,Condo
+943840.0,Los Angeles,NY,3,1,2965,1422,1955,9,Condo
+599922.0,San Francisco,IL,6,3,1557,1265,1980,20,Apartment
+765935.0,Los Angeles,TX,2,2,3527,7278,2013,56,Townhouse
+702190.0,Los Angeles,IL,2,2,1083,3160,2007,65,Single Family
+442330.0,San Francisco,TX,5,2,2237,9194,2016,50,Multi-Family
+249161.0,San Francisco,FL,4,4,1605,6754,1973,17,Apartment
+1233217.0,Los Angeles,CA,1,4,2416,4111,2018,4,Apartment
+232222.0,San Diego,TX,6,1,788,2149,2005,108,Apartment
+1216422.0,Sacramento,CA,5,2,1412,8249,1983,73,Townhouse
+1367331.0,San Diego,NY,5,1,3456,2115,1960,69,Single Family
+463948.0,Sacramento,CA,3,1,2632,1613,1995,35,Condo
+383121.0,Fresno,IL,4,2,1099,4286,2015,88,Multi-Family
+1110300.0,Sacramento,NY,6,2,2674,5344,2011,44,Condo
+936790.0,Los Angeles,NY,2,3,3077,4217,2007,26,Condo
+168943.0,Sacramento,CA,4,1,1441,9793,1993,9,Single Family
+1485781.0,San Francisco,CA,5,2,3969,5832,1956,9,Multi-Family
+256040.0,San Diego,CA,2,4,3039,5444,1981,109,Apartment
+1193957.0,Sacramento,FL,5,1,1665,3519,1983,41,Condo
+1064784.0,Los Angeles,NY,6,4,1694,8847,2009,98,Townhouse
+1207523.0,Fresno,NY,1,4,2863,3998,1958,15,Multi-Family
+937423.0,Los Angeles,FL,3,1,2825,6422,2018,10,Condo
+744974.0,Fresno,CA,5,2,1130,6871,2018,77,Single Family
+221570.0,Los Angeles,IL,4,4,1801,8114,1957,102,Apartment
+739335.0,Los Angeles,CA,5,4,2768,1054,2003,9,Townhouse
+1065109.0,Fresno,CA,4,1,3972,5149,1977,58,Single Family
+611694.0,Fresno,TX,4,1,3813,1470,1999,27,Multi-Family
+287042.0,Sacramento,CA,3,1,2100,7081,1995,77,Multi-Family
+1318906.0,San Francisco,CA,4,2,1809,1985,2015,90,Condo
+770157.0,Fresno,TX,4,4,2923,3343,2011,68,Single Family
+418426.0,San Diego,CA,2,1,1217,7906,1969,73,Townhouse
+1330162.0,San Francisco,NY,6,1,1942,7187,2002,12,Single Family
+1202180.0,Fresno,NY,3,2,1606,8191,1970,38,Single Family
+1360197.0,Los Angeles,TX,2,4,2236,2697,1969,103,Townhouse
+585846.0,Sacramento,IL,4,3,1860,6006,2021,7,Multi-Family
+1264468.0,Fresno,TX,1,1,3332,2777,2017,96,Condo
+1378973.0,Los Angeles,CA,1,2,1933,5909,1977,45,Apartment
+121372.0,Sacramento,IL,4,1,1410,5158,1993,118,Apartment
+110130.0,Sacramento,NY,6,4,882,7084,1993,39,Condo
+1201650.0,Los Angeles,FL,6,4,1466,5493,1989,61,Townhouse
+1277550.0,Sacramento,IL,4,4,3797,4841,1962,89,Single Family
+321378.0,Fresno,CA,4,1,1462,3326,1951,78,Condo
+893945.0,Los Angeles,IL,5,2,1460,8369,1987,118,Multi-Family
+264387.0,San Francisco,NY,5,4,2552,4652,2006,49,Townhouse
+324554.0,Los Angeles,FL,2,4,3512,7003,1965,92,Condo
+1066882.0,Fresno,CA,1,2,2398,9644,2013,2,Single Family
+1418824.0,San Diego,TX,3,1,3578,9553,2011,13,Townhouse
+124837.0,Sacramento,CA,3,1,2183,5809,2020,65,Condo
+302039.0,Sacramento,CA,2,2,1392,8342,1958,59,Apartment
+493579.0,Sacramento,TX,3,1,1187,8603,1953,76,Single Family
+382647.0,San Francisco,TX,3,4,1848,4632,2012,3,Apartment
+745415.0,Fresno,FL,2,1,1195,4722,1955,48,Condo
+128786.0,San Francisco,FL,3,3,3828,4647,2019,65,Townhouse
+1186905.0,San Francisco,TX,4,3,2329,2596,2006,53,Townhouse
+1025387.0,San Francisco,CA,3,3,1254,1160,1964,72,Townhouse
+1209671.0,Sacramento,FL,4,3,3074,1832,2015,84,Multi-Family
+489480.0,Fresno,CA,4,2,3792,7066,2018,89,Single Family
+924197.0,Fresno,TX,6,1,2695,9472,1956,69,Single Family
+728894.0,Los Angeles,NY,5,1,1275,9678,1993,81,Multi-Family
+527252.0,Los Angeles,NY,3,1,932,9842,1966,47,Single Family
+760732.0,Sacramento,NY,1,4,1703,9188,1986,10,Single Family
+912491.0,Fresno,NY,3,3,2353,5835,1967,54,Apartment
+1143189.0,Fresno,NY,6,3,1883,4819,1998,44,Single Family
+1386972.0,Sacramento,NY,4,3,2042,1284,2010,45,Multi-Family
+631500.0,Los Angeles,IL,2,3,3672,7279,1951,86,Apartment
+1482609.0,Los Angeles,FL,6,2,1993,7426,1952,83,Condo
+949364.0,Sacramento,IL,1,4,2731,2153,2017,104,Single Family
+1396812.0,Sacramento,TX,2,3,2146,9709,2013,36,Single Family
+727860.0,Sacramento,IL,1,3,2724,4041,1968,49,Multi-Family
+1186246.0,Los Angeles,CA,6,1,2508,9105,1978,41,Condo
+1053954.0,Los Angeles,NY,6,2,1612,2858,2003,100,Multi-Family
+216445.0,Fresno,FL,3,2,2645,8445,2013,114,Condo
+125978.0,Sacramento,CA,2,3,3898,2020,2014,31,Apartment
+916065.0,Sacramento,IL,2,1,997,6985,1988,24,Multi-Family
+156731.0,Los Angeles,NY,2,2,1872,9203,1980,32,Apartment
+765124.0,Fresno,TX,6,4,2286,2669,1962,67,Condo
+522443.0,Los Angeles,FL,4,2,752,9155,2007,39,Multi-Family
+773068.0,San Francisco,CA,4,3,913,8805,1965,117,Single Family
+662328.0,Fresno,NY,4,1,3299,7676,1997,20,Single Family
+1255210.0,San Diego,CA,2,3,850,8047,1956,99,Condo
+176979.0,San Francisco,TX,3,4,1825,5394,2012,32,Apartment
+570510.0,San Diego,IL,5,2,843,3451,2010,96,Townhouse
+638912.0,Los Angeles,FL,1,1,1930,2188,1993,74,Condo
+677587.0,Fresno,TX,6,1,2291,6478,1996,22,Single Family
+355436.0,Los Angeles,CA,4,3,2816,8981,2008,79,Townhouse
+745981.0,San Francisco,FL,4,2,735,4447,1992,69,Apartment
+1309732.0,San Francisco,FL,6,1,3541,3253,1959,11,Multi-Family
+316268.0,San Francisco,NY,1,2,3228,8158,1987,4,Apartment
+1044769.0,Sacramento,CA,4,4,3046,2281,2018,38,Single Family
+846683.0,Fresno,FL,4,2,3893,5673,1977,100,Apartment
+1107286.0,San Francisco,IL,4,1,921,4769,2014,92,Multi-Family
+1002939.0,Fresno,CA,3,3,3991,9816,1987,102,Multi-Family
+1465412.0,Fresno,NY,3,3,1803,3453,1965,70,Apartment
+1193022.0,Sacramento,TX,1,4,1482,2746,1950,12,Single Family
+173956.0,Sacramento,CA,4,2,2086,5795,1990,98,Condo
+1263035.0,Fresno,FL,3,2,3158,2927,1970,116,Single Family
+391792.0,Los Angeles,TX,1,1,1817,9868,2001,104,Single Family
+249625.0,Los Angeles,TX,5,1,1415,5897,2000,89,Multi-Family
+1120001.0,San Francisco,FL,3,2,2727,4914,1997,49,Condo
+996851.0,Los Angeles,NY,3,1,2866,1004,2017,1,Single Family
+1039764.0,Los Angeles,IL,1,2,3894,8616,2000,97,Single Family
+722724.0,Sacramento,TX,1,2,1567,9813,1975,44,Apartment
+387750.0,Los Angeles,CA,4,4,2628,1738,1958,87,Multi-Family
+369280.0,San Francisco,CA,2,2,3815,6795,1966,9,Townhouse
+783550.0,Fresno,CA,4,3,1555,8426,2023,57,Condo
+1431844.0,Los Angeles,FL,1,4,3280,8832,2012,62,Apartment
+961677.0,Sacramento,NY,5,3,1988,6701,1987,79,Townhouse
+1159314.0,San Francisco,FL,2,1,3872,1960,2005,97,Multi-Family
+1130200.0,San Francisco,CA,4,1,2546,2645,1975,46,Multi-Family
+183053.0,Los Angeles,CA,5,2,3663,6570,2015,38,Townhouse
+910544.0,Los Angeles,FL,1,4,3522,4583,2011,45,Apartment
+421366.0,San Diego,TX,3,4,698,8122,1992,99,Townhouse
+159757.0,San Diego,TX,6,1,2078,7945,2001,1,Apartment
+216289.0,Sacramento,TX,5,2,3650,2092,1970,11,Condo
+322412.0,Sacramento,IL,5,4,3753,8524,2004,3,Townhouse
+210952.0,Los Angeles,FL,5,1,959,9348,1969,62,Multi-Family
+1247795.0,Los Angeles,CA,1,4,2538,6282,1968,28,Condo
+513312.0,Fresno,NY,1,3,1689,8669,1974,65,Townhouse
+1082966.0,Sacramento,NY,1,2,2435,4973,1967,18,Condo
+1164095.0,San Diego,FL,6,3,1430,9425,1993,112,Apartment
+169640.0,San Diego,IL,2,2,3305,8199,1972,119,Condo
+617862.0,Los Angeles,CA,1,3,3136,7264,1987,98,Townhouse
+1066163.0,Los Angeles,CA,5,2,1243,2670,2005,110,Multi-Family
+509660.0,Fresno,FL,5,2,1663,1517,2009,94,Condo
+865568.0,Fresno,FL,1,4,3471,7008,1990,3,Townhouse
+292070.0,Los Angeles,CA,6,2,2155,9159,2008,62,Multi-Family
+1001321.0,Los Angeles,FL,6,4,1874,1458,1993,88,Single Family
+602545.0,Fresno,IL,6,1,1005,6375,1992,70,Condo
+476404.0,San Diego,IL,2,3,1444,9707,2009,83,Multi-Family
+1260866.0,Los Angeles,CA,4,2,736,1647,1979,6,Condo
+646379.0,Fresno,CA,4,4,2049,1722,1988,118,Condo
+581471.0,Los Angeles,TX,6,3,1508,1660,1963,30,Multi-Family
+413748.0,Los Angeles,NY,4,4,1770,7185,1983,75,Multi-Family
+341523.0,Los Angeles,NY,6,4,3968,6777,2019,50,Multi-Family
+395473.0,Fresno,IL,5,1,2054,6068,1990,45,Single Family
+808953.0,Sacramento,IL,5,3,2672,2777,1982,104,Apartment
+780267.0,Los Angeles,TX,6,3,2441,3137,1990,120,Apartment
+1083676.0,San Francisco,CA,4,4,1413,4633,1982,35,Condo
+982214.0,San Francisco,NY,5,2,2597,7103,1960,13,Townhouse
+1226738.0,Los Angeles,FL,5,3,2974,8712,1996,120,Condo
+1048224.0,Los Angeles,TX,2,1,2399,2256,1985,70,Townhouse
+1357543.0,Sacramento,TX,5,2,1965,3349,2010,76,Apartment
+501380.0,San Francisco,TX,1,4,1630,5717,2023,89,Single Family
+154069.0,San Diego,NY,4,1,2261,1673,2022,19,Apartment
+591776.0,San Diego,TX,6,2,1289,3845,1976,19,Townhouse
+971991.0,Fresno,TX,4,3,2502,1715,1998,10,Single Family
+632379.0,Los Angeles,FL,1,1,1222,9288,2004,39,Single Family
+1277609.0,San Diego,IL,4,4,3952,9538,1994,84,Townhouse
+580491.0,Fresno,NY,6,1,707,2993,2000,102,Single Family
+692880.0,San Francisco,IL,5,1,3246,9897,1958,65,Single Family
+251432.0,San Diego,CA,6,1,2136,9116,2014,66,Apartment
+752795.0,Fresno,NY,1,1,2425,4746,2010,41,Single Family
+319210.0,San Diego,NY,4,3,656,4490,1993,86,Multi-Family
+693672.0,San Diego,FL,4,2,2033,4505,1963,49,Single Family
+549690.0,Los Angeles,TX,1,4,3947,9510,1991,13,Multi-Family
+172363.0,Fresno,CA,2,1,1842,9218,2019,57,Condo
+1275120.0,San Francisco,CA,6,2,1564,4303,1976,85,Condo
+802518.0,Sacramento,CA,3,1,2761,3226,1994,98,Single Family
+627255.0,Fresno,FL,5,2,3902,7085,1972,59,Condo
+988161.0,Fresno,NY,6,4,1066,5289,2005,105,Condo
+103832.0,San Francisco,TX,2,2,1977,7338,1959,52,Townhouse
+768400.0,Los Angeles,NY,4,3,2583,7414,1988,105,Single Family
+1365874.0,San Francisco,TX,5,3,1476,4790,2011,45,Multi-Family
+530558.0,San Francisco,IL,2,4,1097,1263,1964,82,Multi-Family
+1344907.0,Fresno,IL,3,4,3473,6168,2014,65,Single Family
+721359.0,Fresno,FL,1,2,985,8716,2019,11,Single Family
+444483.0,Fresno,IL,2,2,1337,8033,1953,64,Condo
+1178273.0,Los Angeles,CA,2,1,2769,1747,1967,55,Condo
+703641.0,Sacramento,FL,6,2,2835,1428,1956,92,Apartment
+645850.0,San Francisco,CA,4,2,1016,7438,1981,72,Apartment
+101833.0,Fresno,NY,3,2,2943,5547,2017,55,Single Family
+492299.0,San Diego,TX,5,2,3933,7939,1975,39,Townhouse
+791989.0,San Diego,IL,3,2,1121,4308,2023,59,Multi-Family
+450700.0,Los Angeles,FL,2,2,1119,7345,2013,76,Townhouse
+1467813.0,Los Angeles,CA,4,4,1188,6887,1993,66,Condo
+854844.0,Los Angeles,CA,5,1,2346,4873,2012,112,Multi-Family
+214822.0,San Diego,TX,2,2,3039,2982,1976,33,Apartment
+1177942.0,Fresno,CA,1,4,3781,5150,2016,48,Condo
+1253916.0,Los Angeles,IL,6,1,1484,4177,1979,16,Townhouse
+698501.0,San Francisco,TX,2,4,2136,1853,1972,103,Single Family
+1131190.0,Los Angeles,NY,4,2,2213,1267,1963,46,Multi-Family
+729432.0,San Diego,TX,4,4,2716,3353,2008,65,Apartment
+1365836.0,San Diego,NY,2,3,2978,3399,1961,42,Single Family
+910254.0,Fresno,FL,1,4,1701,3039,1955,6,Single Family
+101178.0,San Francisco,FL,6,3,1484,6821,2006,73,Single Family
+699524.0,Los Angeles,FL,5,4,2495,8665,2021,102,Multi-Family
+516185.0,Sacramento,NY,6,3,2717,5323,2022,31,Condo
+422789.0,Fresno,FL,6,3,3026,8560,1971,107,Condo
+1093528.0,San Diego,FL,2,3,1540,4802,1960,38,Multi-Family
+742610.0,Los Angeles,TX,3,2,2774,6268,1978,78,Townhouse
+765764.0,Sacramento,FL,4,2,2851,9947,1988,109,Single Family
+631826.0,San Diego,FL,5,2,1168,2426,1952,36,Condo
+992311.0,San Diego,IL,6,2,2507,9515,2008,27,Multi-Family
+1265734.0,Fresno,TX,5,3,3752,5990,2023,45,Apartment
+1208739.0,Sacramento,CA,4,4,1993,4801,2007,105,Apartment
+503321.0,San Francisco,CA,2,4,3364,3901,2017,26,Apartment
+1460786.0,San Francisco,TX,2,3,728,9200,1953,81,Apartment
+1499473.0,Fresno,TX,5,4,1815,2687,1961,9,Condo
+1247702.0,Fresno,IL,1,1,1142,9094,1971,31,Apartment
+104351.0,Fresno,FL,5,4,3663,8122,1989,68,Apartment
+187796.0,Fresno,CA,4,1,2547,9437,2015,119,Single Family
+309482.0,Sacramento,TX,4,1,2380,9666,1987,67,Condo
+1189135.0,San Francisco,NY,6,2,1036,1340,2017,9,Multi-Family
+118498.0,Los Angeles,NY,3,4,771,6596,1990,67,Condo
+971671.0,Sacramento,NY,2,2,2734,1591,1990,108,Apartment
+207700.0,Sacramento,FL,3,2,2321,5966,1957,27,Townhouse
+1106000.0,San Diego,TX,2,4,1892,9135,1960,20,Multi-Family
+133923.0,San Francisco,IL,6,4,1531,6926,1961,12,Condo
+1362246.0,Sacramento,FL,1,2,1791,5764,1959,100,Townhouse
+895568.0,Sacramento,NY,5,1,1051,8100,1966,49,Single Family
+387441.0,San Francisco,CA,4,3,3458,3731,2004,14,Townhouse
+632396.0,Los Angeles,FL,5,1,2489,2406,1960,19,Apartment
+892897.0,Sacramento,TX,3,3,877,7507,1980,83,Multi-Family
+1406069.0,Sacramento,FL,6,2,2951,9590,1996,1,Single Family
+1215590.0,Sacramento,IL,1,3,792,9053,1964,49,Multi-Family
+944158.0,Sacramento,FL,2,3,1051,3048,2009,24,Condo
+336063.0,San Diego,TX,3,2,3548,7516,1972,20,Townhouse
+603958.0,Los Angeles,CA,3,1,3414,8605,1952,100,Single Family
+130251.0,San Francisco,NY,2,4,3821,7525,2019,24,Townhouse
+1262766.0,Sacramento,TX,4,3,3424,3819,1977,90,Apartment
+1306410.0,Los Angeles,CA,2,2,1204,4851,2003,23,Multi-Family
+517845.0,Los Angeles,CA,6,3,1340,8639,1954,120,Apartment
+288812.0,San Diego,CA,5,3,3150,8665,1996,74,Single Family
+996105.0,San Francisco,FL,1,4,939,5223,1982,55,Townhouse
+837572.0,Sacramento,IL,2,2,2241,6036,1986,41,Townhouse
+1008190.0,Sacramento,IL,5,4,3179,4822,1976,18,Single Family
+1028164.0,San Francisco,FL,1,2,3647,2658,2008,61,Townhouse
+533002.0,San Francisco,TX,6,4,3339,2091,1995,9,Townhouse
+472692.0,Sacramento,FL,4,1,1255,5859,2018,26,Single Family
+284033.0,Sacramento,NY,5,2,2012,6508,2000,65,Townhouse
+861987.0,Sacramento,FL,5,4,1899,8581,2012,5,Townhouse
+1431603.0,San Francisco,CA,6,2,2313,8668,1966,120,Single Family
+1383766.0,Fresno,CA,3,2,2472,9961,1997,53,Townhouse
+1197928.0,Los Angeles,FL,5,1,2717,3335,1985,96,Multi-Family
+1432269.0,Los Angeles,FL,1,4,640,8485,1960,29,Single Family
+1123182.0,Los Angeles,CA,5,4,2559,4137,1984,29,Apartment
+1496721.0,Sacramento,IL,2,1,1074,8697,1993,23,Condo
+1258147.0,Sacramento,TX,5,3,1146,9817,2006,115,Apartment
+1439743.0,San Francisco,TX,6,1,2400,3558,2003,30,Townhouse
+1395131.0,Los Angeles,NY,2,2,3201,5870,2022,1,Townhouse
+207246.0,Fresno,CA,5,2,877,5619,1981,42,Condo
+1076673.0,San Francisco,FL,6,1,3795,1401,1977,90,Multi-Family
+716140.0,Fresno,IL,3,2,3940,7101,1950,58,Multi-Family
+1153736.0,Fresno,FL,6,2,913,7685,2005,65,Condo
+342663.0,San Diego,NY,4,4,3499,8456,1985,86,Multi-Family
+913054.0,San Francisco,TX,1,1,1445,6017,1972,62,Multi-Family
+1430943.0,San Diego,CA,2,2,838,8886,1974,33,Single Family
+1197039.0,Los Angeles,TX,6,2,2680,9331,1951,99,Single Family
+325009.0,San Francisco,IL,4,4,3812,4888,2021,84,Single Family
+935650.0,San Francisco,CA,1,3,2725,8055,1996,16,Condo
+1106308.0,Fresno,FL,5,3,2527,8377,1973,32,Single Family
+225216.0,San Francisco,NY,1,3,1767,7923,1988,34,Townhouse
+640648.0,San Diego,CA,1,4,3603,7329,2008,7,Single Family
+708703.0,Sacramento,IL,3,2,2087,6203,2023,108,Townhouse
+957576.0,San Francisco,CA,1,3,3449,1752,1968,78,Townhouse
+999232.0,San Diego,FL,4,2,677,2720,1963,51,Apartment
+1048735.0,San Francisco,NY,3,2,2976,3492,2005,107,Multi-Family
+462296.0,San Diego,CA,6,3,1597,2002,1994,79,Multi-Family
+1177290.0,San Francisco,IL,1,3,1465,2488,2023,77,Condo
+742621.0,San Diego,TX,2,1,1787,3019,1988,18,Condo
+923487.0,Sacramento,TX,5,2,1085,9452,2017,100,Townhouse
+1233616.0,Fresno,FL,1,3,1686,2945,1984,85,Townhouse
+1159949.0,Sacramento,FL,3,2,797,4774,1953,49,Townhouse
+663332.0,Fresno,FL,4,1,3198,6731,2016,83,Townhouse
+1368821.0,Fresno,TX,6,2,3923,7174,1985,29,Apartment
+1020354.0,San Francisco,NY,5,1,3480,8203,1969,47,Condo
+326480.0,Fresno,TX,1,3,1885,4141,2021,19,Apartment
+1486948.0,Fresno,FL,6,4,2171,1619,2020,82,Townhouse
+788193.0,San Diego,CA,6,2,3954,4382,2012,27,Condo
+265192.0,San Francisco,TX,2,1,1839,3256,1953,82,Apartment
+870993.0,Los Angeles,CA,5,1,1588,5042,1953,63,Single Family
+330783.0,San Diego,IL,4,2,1421,9537,1989,114,Townhouse
+756025.0,Fresno,TX,3,4,1824,2391,1970,14,Apartment
+1333193.0,San Francisco,TX,6,3,1991,8115,1982,54,Single Family
+441126.0,Fresno,IL,3,4,3737,9711,1968,109,Townhouse
+843829.0,Los Angeles,IL,4,3,3388,4205,2007,3,Apartment
+1111836.0,Los Angeles,CA,4,1,1847,6979,2011,119,Single Family
+819446.0,San Diego,TX,5,2,2940,6911,1995,98,Single Family
+603712.0,Los Angeles,TX,6,3,1130,3933,1987,83,Townhouse
+1246098.0,San Francisco,NY,6,2,2057,4026,1955,35,Single Family
+1128439.0,San Diego,IL,6,3,2376,1194,1984,113,Single Family
+222752.0,Fresno,TX,4,3,1262,6808,1979,75,Condo
+1230304.0,San Diego,TX,6,2,2302,3464,1957,110,Apartment
+145438.0,San Diego,TX,5,3,3263,8629,2018,32,Multi-Family
+831611.0,Los Angeles,NY,5,1,3449,6190,1981,94,Townhouse
+628980.0,San Diego,IL,1,1,2174,6229,1993,8,Townhouse
+1085745.0,San Diego,TX,4,3,3197,7649,2012,97,Multi-Family
+1474934.0,Los Angeles,CA,4,3,3657,7506,2012,21,Multi-Family
+1266256.0,San Francisco,FL,5,2,3773,2548,1986,99,Multi-Family
+939995.0,Fresno,CA,6,1,3662,9461,2012,68,Townhouse
+1429390.0,San Francisco,IL,5,2,2461,9880,2008,40,Apartment
+380154.0,Sacramento,CA,3,3,2873,6540,2021,41,Townhouse
+993237.0,Fresno,CA,2,4,3869,5985,1966,89,Condo
+1117722.0,Los Angeles,FL,6,2,3406,4753,1950,116,Apartment
+1332809.0,Fresno,TX,2,1,1273,9310,2011,90,Single Family
+1063005.0,San Diego,IL,1,3,3075,7324,1956,95,Single Family
+584963.0,San Francisco,NY,3,1,3346,2712,1991,106,Multi-Family
+201039.0,Los Angeles,NY,6,4,1479,5654,1995,36,Condo
+294028.0,San Diego,IL,2,4,1705,3387,1956,98,Single Family
+1105081.0,San Francisco,TX,3,4,3839,8863,2015,29,Condo
+157925.0,Los Angeles,IL,6,1,3358,9952,1991,39,Apartment
+1172082.0,Fresno,FL,5,4,2449,9375,1984,36,Townhouse
+560442.0,Fresno,FL,4,2,915,5399,2023,105,Apartment
+523011.0,San Diego,CA,1,4,1587,8030,1956,27,Multi-Family
+700635.0,Los Angeles,CA,2,3,1051,4519,1966,82,Townhouse
+1288394.0,San Francisco,IL,1,2,3025,2461,1988,61,Townhouse
+723160.0,San Francisco,NY,2,2,869,3791,2000,75,Townhouse
+552626.0,Los Angeles,TX,4,2,2971,2391,1981,18,Condo
+771277.0,Fresno,IL,3,4,2942,1991,1972,63,Apartment
+220065.0,San Francisco,FL,3,4,2123,2056,1960,4,Condo
+547385.0,Fresno,NY,1,3,1792,3712,1951,41,Multi-Family
+1047425.0,San Diego,TX,5,2,881,4456,1953,94,Condo
+752214.0,Sacramento,NY,1,1,1921,1584,1956,5,Townhouse
+1448184.0,San Francisco,FL,2,1,1931,1209,2004,59,Multi-Family
+444950.0,San Diego,TX,6,3,640,3424,1958,114,Condo
+1316335.0,Fresno,CA,5,1,3952,7159,2004,15,Apartment
+855500.0,Sacramento,FL,3,2,2504,4982,1972,18,Condo
+683327.0,Los Angeles,NY,2,4,1396,2237,2021,21,Townhouse
+1216780.0,San Francisco,CA,6,4,1325,5265,1978,9,Townhouse
+692477.0,San Diego,NY,3,1,3353,5888,1991,116,Single Family
+1126190.0,Fresno,IL,5,2,2069,1317,1976,74,Condo
+687101.0,San Diego,FL,3,3,3231,9006,1980,46,Townhouse
+118223.0,Los Angeles,IL,6,2,3678,8659,2019,48,Apartment
+1243844.0,San Diego,IL,4,3,1353,4933,2020,79,Single Family
+886391.0,Sacramento,TX,4,2,3224,9777,2005,118,Multi-Family
+1490566.0,San Francisco,IL,2,2,2648,7956,1958,68,Townhouse
+737325.0,Sacramento,IL,1,4,1512,4251,1990,6,Townhouse
+969176.0,San Diego,CA,1,1,1200,1804,1991,56,Multi-Family
+688285.0,Fresno,CA,4,1,653,3243,1976,29,Multi-Family
+434210.0,Sacramento,NY,1,4,2421,1738,1959,16,Apartment
+491406.0,San Francisco,FL,5,2,3489,3663,1973,40,Multi-Family
+1311387.0,San Diego,NY,6,1,828,3281,1982,80,Apartment
+1199146.0,Sacramento,TX,4,2,824,4458,1981,105,Single Family
+561221.0,Sacramento,CA,1,4,3753,8564,1979,25,Apartment
+410437.0,Sacramento,CA,6,2,2586,9932,2008,9,Apartment
+556797.0,Sacramento,NY,1,4,917,3505,1959,67,Townhouse
+546196.0,Los Angeles,TX,2,3,873,5439,1984,5,Condo
+454064.0,Los Angeles,IL,1,1,3630,5094,2005,117,Townhouse
+667653.0,San Francisco,NY,6,4,612,3259,1977,18,Apartment
+1273467.0,San Diego,IL,1,4,3607,4500,1959,81,Apartment
+918155.0,San Diego,FL,3,2,3379,1263,1992,102,Single Family
+454285.0,Los Angeles,NY,2,4,1664,8392,1993,104,Single Family
+926781.0,Los Angeles,NY,2,3,688,2415,2017,92,Single Family
+372979.0,Fresno,FL,1,1,716,1882,1967,113,Townhouse
+1063935.0,Fresno,NY,3,1,1387,4226,1998,30,Apartment
+864386.0,San Diego,FL,2,1,1540,6242,2019,67,Apartment
+989896.0,San Francisco,NY,3,4,3276,6338,1998,78,Apartment
+566147.0,Fresno,FL,5,1,2049,9210,1969,67,Townhouse
+943663.0,Los Angeles,IL,1,1,3240,9748,1971,55,Single Family
+125165.0,Los Angeles,CA,5,4,2501,4493,1958,115,Townhouse
+176303.0,San Francisco,NY,1,1,3194,3870,1950,69,Multi-Family
+541910.0,San Diego,FL,6,2,3117,9659,2015,24,Condo
+398709.0,Los Angeles,CA,2,1,3063,5881,2005,22,Townhouse
+898766.0,Sacramento,IL,4,3,719,1166,2023,115,Condo
+1369287.0,Los Angeles,FL,5,4,3530,3648,1996,63,Multi-Family
+1295690.0,Los Angeles,NY,2,1,1976,6619,1966,102,Townhouse
+204223.0,Los Angeles,NY,1,4,3255,7762,1964,117,Multi-Family
+306767.0,San Diego,IL,4,2,847,6174,1952,61,Condo
+624411.0,San Diego,TX,3,1,3393,6673,1978,86,Apartment
+1402993.0,Los Angeles,NY,4,1,3498,2168,1959,74,Multi-Family
+1030559.0,Fresno,CA,6,1,1575,3011,1989,85,Single Family
+510476.0,San Francisco,TX,1,2,2012,8095,2022,9,Townhouse
+737510.0,Fresno,TX,2,4,3577,6712,2022,17,Apartment
+579709.0,San Diego,NY,1,3,1121,8337,1982,30,Single Family
+397855.0,Sacramento,IL,3,3,2855,3028,1987,6,Condo
+445276.0,San Diego,NY,2,3,2775,4426,1958,89,Townhouse
+1475870.0,San Diego,NY,3,2,1634,7935,2001,109,Townhouse
+1191596.0,Los Angeles,IL,4,2,1576,9384,1981,60,Apartment
+1050628.0,Los Angeles,NY,1,3,3150,2541,1979,96,Apartment
+1421824.0,San Diego,CA,6,3,3373,4274,1964,83,Condo
+510550.0,Sacramento,NY,3,2,1109,2075,1989,39,Condo
+1325023.0,Los Angeles,IL,2,4,1027,7976,2013,16,Single Family
+1270993.0,Sacramento,TX,1,3,2017,3216,2022,59,Apartment
+664075.0,San Diego,IL,5,4,1863,3313,1965,15,Single Family
+736337.0,San Francisco,FL,5,2,2312,7156,1987,39,Apartment
+1042856.0,San Diego,FL,2,1,1628,6833,1957,22,Townhouse
+365717.0,San Francisco,TX,1,4,672,7427,2017,16,Condo
+149578.0,San Francisco,IL,3,3,1611,9895,1954,120,Single Family
+658686.0,San Diego,NY,1,1,1045,9187,1979,81,Townhouse
+1108409.0,San Diego,CA,6,1,3662,8587,1956,12,Townhouse
+198284.0,San Francisco,TX,5,3,2540,4722,2017,108,Multi-Family
+1065786.0,Los Angeles,CA,5,4,2232,1212,1995,89,Multi-Family
+1315096.0,San Diego,NY,1,4,3035,7988,1987,42,Apartment
+578056.0,Sacramento,TX,3,2,2423,6174,2004,98,Townhouse
+1167412.0,San Francisco,TX,1,1,1424,2429,2012,9,Apartment
+1137640.0,San Diego,TX,4,3,819,6327,1959,112,Condo
+1219561.0,Fresno,CA,4,4,2361,4893,1999,49,Townhouse
+798149.0,San Diego,TX,5,2,1008,8619,1972,109,Apartment
+957203.0,Los Angeles,NY,5,1,2704,8023,2019,63,Single Family
+1376960.0,Los Angeles,IL,3,2,2962,1933,1992,67,Townhouse
+355812.0,Fresno,NY,2,4,1119,6335,2015,32,Single Family
+1484582.0,San Francisco,NY,1,4,3429,9457,1984,14,Townhouse
+552789.0,San Diego,CA,6,1,3838,6060,2018,56,Townhouse
+406699.0,Sacramento,TX,2,2,871,8988,1951,11,Single Family
+1024477.0,Fresno,TX,2,2,2162,1508,1977,13,Condo
+641930.0,Los Angeles,NY,6,3,2774,1509,1996,93,Townhouse
+388647.0,San Francisco,IL,1,2,2768,7807,2009,59,Multi-Family
+776027.0,San Francisco,TX,6,4,3119,9710,1980,114,Multi-Family
+833490.0,Sacramento,CA,5,1,2734,6166,1998,82,Single Family
+333231.0,San Francisco,TX,3,3,3703,9009,1989,38,Multi-Family
+225038.0,San Francisco,NY,1,1,1191,3303,1964,62,Multi-Family
+1258915.0,Fresno,CA,4,2,3952,3347,1973,114,Apartment
+843419.0,Fresno,NY,3,3,1065,3506,2012,87,Apartment
+1363733.0,Sacramento,TX,1,3,2960,3374,1983,9,Apartment
+429291.0,Fresno,FL,3,3,1513,6424,2007,77,Condo
+544557.0,Los Angeles,CA,3,4,3948,7934,1976,113,Multi-Family
+806408.0,San Francisco,IL,5,3,2641,1819,1957,93,Townhouse
+564752.0,Fresno,FL,1,4,3205,6265,1980,9,Single Family
+817524.0,Los Angeles,CA,3,3,1423,6959,1963,97,Townhouse
+938238.0,Los Angeles,TX,6,4,3696,8469,2002,45,Condo
+1260045.0,Fresno,IL,6,4,3037,2133,2017,68,Multi-Family
+296545.0,San Diego,FL,4,3,2294,7350,1997,63,Townhouse
+870333.0,Fresno,TX,2,1,906,5583,2009,47,Single Family
+244460.0,San Diego,CA,2,4,3492,5946,2013,95,Townhouse
+1252831.0,Los Angeles,TX,6,2,1145,3277,1965,20,Townhouse
+382125.0,San Diego,FL,5,1,3522,3877,1966,80,Multi-Family
+324306.0,Sacramento,IL,2,3,3732,2633,1995,50,Condo
+1357731.0,Fresno,CA,4,1,1211,6121,1987,44,Townhouse
+1196873.0,San Francisco,NY,6,1,2509,8388,1978,95,Single Family
+299990.0,Los Angeles,FL,4,3,3886,6631,1956,82,Apartment
+1308064.0,Fresno,FL,4,3,765,4564,1995,99,Condo
+725164.0,Sacramento,NY,6,3,1194,4600,2002,80,Townhouse
+372641.0,San Diego,TX,3,3,3803,2400,1961,80,Condo
+1333747.0,Sacramento,TX,6,3,1457,8827,2021,100,Townhouse
+268166.0,San Diego,TX,2,4,3301,1765,1982,10,Condo
+1091840.0,Fresno,FL,6,1,3244,1799,2011,14,Apartment
+1305797.0,Sacramento,TX,5,2,2756,4120,1950,113,Apartment
+395512.0,San Francisco,FL,4,3,837,7562,1981,51,Condo
+1194453.0,San Francisco,FL,2,1,3922,4908,2016,82,Multi-Family
+274635.0,Sacramento,TX,6,3,2307,7884,2009,27,Condo
+1018590.0,Sacramento,CA,2,2,3898,1976,1987,88,Apartment
+542852.0,Fresno,CA,3,1,1430,4574,1988,71,Apartment
+1086904.0,Sacramento,FL,6,2,2700,5098,2008,68,Apartment
+485409.0,Fresno,CA,1,1,3327,1193,1953,57,Townhouse
+636359.0,Sacramento,IL,3,4,1662,3036,1975,79,Condo
+1314092.0,Sacramento,IL,3,2,2399,1112,2023,58,Townhouse
+749627.0,Sacramento,IL,1,4,3535,4995,1971,108,Multi-Family
+731423.0,San Diego,IL,2,4,2165,8779,1991,21,Multi-Family
+500477.0,San Francisco,FL,2,2,2794,1406,2015,101,Multi-Family
+140023.0,Los Angeles,CA,1,4,1450,8677,2018,16,Multi-Family
+854226.0,Fresno,FL,4,4,3730,4614,1970,35,Condo
+1084043.0,Fresno,FL,5,4,2978,3300,2012,28,Condo
+1113059.0,Sacramento,TX,2,4,3132,3907,1978,40,Single Family
+296387.0,Fresno,NY,5,4,973,6116,1958,109,Multi-Family
+1286329.0,Los Angeles,CA,1,2,2546,1344,2020,93,Condo
+1217332.0,Sacramento,FL,6,4,1498,4967,1973,71,Multi-Family
+1329326.0,Sacramento,TX,1,2,3149,1929,1958,46,Townhouse
+1389856.0,Fresno,NY,2,2,1057,7504,1967,14,Single Family
+1494324.0,San Diego,NY,6,2,2380,6565,1959,109,Townhouse
+1275867.0,Sacramento,CA,2,2,912,1134,1977,103,Apartment
+416409.0,San Diego,FL,5,2,1971,4952,1977,71,Apartment
+199214.0,San Francisco,FL,6,4,1278,5222,1975,92,Condo
+1154031.0,Sacramento,NY,6,4,2894,5902,1962,62,Apartment
+1383914.0,Fresno,CA,2,4,731,2456,1992,25,Single Family
+214127.0,Fresno,FL,6,4,2762,4177,1952,69,Multi-Family
+898194.0,San Francisco,CA,6,1,1602,5089,2003,69,Single Family
+761218.0,Los Angeles,TX,5,2,1231,9555,1953,110,Townhouse
+1123280.0,Los Angeles,NY,1,1,648,8581,1968,105,Townhouse
+1097241.0,Los Angeles,CA,3,1,1966,8982,1970,15,Multi-Family
+326219.0,San Diego,NY,5,4,2476,8031,1975,117,Townhouse
+497194.0,San Diego,NY,3,2,1415,7959,1997,1,Townhouse
+467982.0,San Francisco,TX,3,4,1570,6802,1978,69,Townhouse
+310809.0,San Francisco,IL,6,3,1324,4687,1971,37,Condo
+905495.0,San Francisco,NY,5,1,3357,4463,2006,2,Townhouse
+1168371.0,San Diego,CA,3,1,3745,8422,1969,114,Townhouse
+497042.0,Sacramento,NY,1,1,2184,4604,1964,95,Apartment
+814719.0,Los Angeles,TX,3,3,3214,4862,1966,30,Single Family
+842595.0,Los Angeles,FL,1,3,2759,8828,1981,80,Apartment
+1167635.0,San Diego,TX,1,3,2563,4314,1991,66,Townhouse
+1417416.0,Los Angeles,CA,2,1,1316,7936,2015,115,Apartment
+846925.0,Los Angeles,NY,1,3,3915,2511,2004,75,Apartment
+524335.0,Sacramento,CA,6,3,1903,8722,1954,73,Townhouse
+161115.0,San Diego,CA,2,4,3778,7161,2022,113,Condo
+1029390.0,Sacramento,TX,1,3,929,4554,2006,73,Multi-Family
+621411.0,Sacramento,TX,1,3,1886,7607,2011,94,Townhouse
+1174887.0,Sacramento,FL,6,2,3030,9270,1971,32,Condo
+1190241.0,Fresno,NY,5,1,2273,2504,1997,72,Apartment
+356873.0,Los Angeles,TX,3,1,2438,1003,2022,87,Townhouse
+818587.0,San Francisco,FL,1,4,1489,3854,2019,67,Single Family
+1241620.0,Los Angeles,FL,6,3,2498,9715,2011,13,Townhouse
+1431093.0,Los Angeles,NY,1,1,3552,7808,1950,24,Multi-Family
+1374709.0,San Francisco,FL,4,3,653,4376,2015,86,Townhouse
+674018.0,San Francisco,FL,6,2,1805,5575,2023,63,Multi-Family
+234244.0,Los Angeles,TX,2,2,748,3418,1998,78,Multi-Family
+1212405.0,Sacramento,CA,3,2,1997,2291,1977,30,Condo
+340904.0,Los Angeles,TX,2,3,3663,7056,1971,102,Apartment
+1008405.0,San Diego,FL,5,3,3818,6788,1961,32,Single Family
+1404881.0,Fresno,TX,3,1,1610,7773,1987,48,Single Family
+685831.0,Los Angeles,CA,2,2,2354,9645,2004,113,Single Family
+622655.0,San Diego,CA,4,4,2291,4271,1984,8,Apartment
+401040.0,San Francisco,IL,1,4,2802,1380,1993,61,Condo
+608037.0,San Francisco,FL,1,4,2915,2728,1975,89,Condo
+1327006.0,San Diego,IL,2,3,2303,7264,1984,70,Townhouse
+1026807.0,San Francisco,NY,5,2,2559,9214,2002,89,Condo
+934997.0,San Francisco,IL,6,3,2545,5465,1982,93,Townhouse
+960338.0,Sacramento,CA,6,4,3589,6202,1997,36,Apartment
+830496.0,Fresno,FL,4,3,2001,9314,1977,96,Apartment
+123625.0,Los Angeles,FL,1,2,2139,4299,1951,75,Townhouse
+1407105.0,San Diego,IL,6,4,1833,1996,2017,101,Townhouse
+563185.0,San Francisco,NY,5,4,3659,1881,1980,52,Single Family
+654339.0,Fresno,CA,3,1,1113,2754,1985,1,Single Family
+757274.0,Fresno,TX,2,4,3579,1482,1956,23,Townhouse
+1151819.0,Fresno,TX,5,4,1032,2944,1985,28,Townhouse
+739866.0,San Diego,CA,6,4,1417,6766,1955,15,Single Family
+496342.0,Fresno,NY,3,1,1491,2788,2002,83,Multi-Family
+339553.0,Los Angeles,CA,1,1,2788,1361,2011,52,Condo
+1358356.0,Sacramento,TX,4,4,1001,7225,1955,107,Apartment
+218899.0,Los Angeles,TX,2,2,3485,6770,2011,8,Condo
+243386.0,San Francisco,NY,5,3,1624,3643,1985,20,Single Family
+401177.0,Sacramento,TX,6,4,2150,1450,1978,62,Single Family
+685130.0,San Francisco,IL,2,4,955,6243,1977,29,Single Family
+1440863.0,Fresno,TX,1,2,3079,8874,1955,24,Apartment
+679086.0,San Francisco,CA,1,1,3172,9941,2021,14,Multi-Family
+1021565.0,San Francisco,TX,1,2,1038,9001,1999,23,Condo
+818796.0,San Diego,CA,3,1,2136,5229,1988,67,Single Family
+416436.0,Los Angeles,TX,6,4,1292,1069,1959,7,Townhouse
+1093419.0,Los Angeles,CA,4,2,917,4029,1952,49,Townhouse
+624263.0,San Diego,NY,1,1,3845,7564,2006,15,Apartment
+553467.0,Sacramento,IL,1,3,3755,3401,1984,102,Townhouse
+1253807.0,San Francisco,FL,2,1,3188,7430,1998,44,Single Family
+970091.0,San Diego,FL,3,4,1115,9921,1972,67,Condo
+730723.0,San Diego,CA,2,3,1835,2233,1970,71,Multi-Family
+985816.0,Los Angeles,TX,5,3,3324,2601,1968,15,Townhouse
+270319.0,Los Angeles,NY,3,1,3083,6575,1999,83,Townhouse
+210895.0,San Diego,CA,5,2,1302,1173,1954,14,Apartment
+446490.0,San Diego,NY,1,4,2056,9979,2022,98,Townhouse
+680646.0,San Diego,NY,4,2,2692,9380,1999,37,Condo
+1447420.0,Fresno,CA,5,2,2346,9430,1996,107,Multi-Family
+376794.0,San Diego,FL,2,1,3903,8605,1977,113,Multi-Family
+823602.0,Los Angeles,NY,2,1,1977,9297,1995,35,Single Family
+1432147.0,San Francisco,CA,6,4,2980,3292,2019,105,Townhouse
+1357686.0,Los Angeles,NY,2,4,3043,3616,2001,70,Single Family
+1216553.0,San Diego,FL,3,3,1378,4150,1956,9,Condo
+460323.0,San Francisco,FL,6,3,1151,3606,1963,62,Apartment
+574526.0,Fresno,NY,3,4,972,8792,1966,5,Apartment
+266322.0,San Diego,CA,6,4,2426,6075,2002,107,Townhouse
+1456112.0,Los Angeles,NY,6,1,1225,4086,1973,10,Townhouse
+977845.0,Sacramento,CA,1,1,3310,1149,1973,116,Townhouse
+602097.0,San Francisco,CA,4,3,3818,7129,2006,16,Multi-Family
+798661.0,Sacramento,NY,4,3,2182,7246,2003,80,Multi-Family
+1086792.0,Fresno,FL,1,3,2484,1315,1994,88,Multi-Family
+1061282.0,San Diego,CA,3,2,3797,7167,2016,96,Townhouse
+1434978.0,Fresno,CA,3,4,1880,2901,1954,27,Multi-Family
+974309.0,San Diego,CA,5,3,2835,2079,1980,113,Condo
+1425236.0,Los Angeles,IL,4,1,718,5677,1968,8,Apartment
+1411570.0,Los Angeles,FL,5,4,2082,6165,1972,112,Single Family
+1197615.0,San Diego,NY,1,3,1647,2024,1991,91,Townhouse
+1433992.0,Fresno,CA,2,3,3023,3471,1956,47,Apartment
+1068257.0,San Diego,CA,2,3,2524,4086,1964,61,Multi-Family
+1273089.0,San Diego,FL,4,2,2512,8836,1994,117,Apartment
+193458.0,Sacramento,FL,2,3,959,1951,1999,24,Condo
+451925.0,Fresno,CA,1,4,1570,5425,1974,69,Townhouse
+338237.0,Fresno,NY,5,2,775,8537,1951,65,Townhouse
+923832.0,Sacramento,IL,1,4,2924,9257,1955,85,Condo
+326717.0,San Diego,NY,2,1,2931,1413,1987,104,Condo
+1350914.0,Los Angeles,NY,1,3,2492,7676,1972,43,Townhouse
+1461070.0,San Diego,TX,5,2,2870,6714,2014,31,Single Family
+717552.0,San Diego,CA,2,4,2229,7397,1978,93,Townhouse
+1228076.0,San Francisco,CA,5,4,1915,3261,2016,5,Condo
+995222.0,Sacramento,CA,5,1,2802,3713,1959,70,Single Family
+424766.0,San Diego,CA,5,3,1842,4963,1972,106,Townhouse
+950988.0,San Diego,NY,6,1,1974,2012,1955,53,Multi-Family
+143167.0,Los Angeles,TX,2,1,3109,8090,1959,50,Townhouse
+138278.0,San Francisco,IL,6,1,3455,4838,2020,19,Multi-Family
+340199.0,Sacramento,CA,2,4,3355,2997,2018,43,Multi-Family
+1402468.0,Sacramento,NY,6,3,3734,4083,1978,22,Apartment
+1470553.0,San Diego,FL,5,2,2221,4196,1982,25,Multi-Family
+1099863.0,Fresno,FL,5,1,2219,5893,2001,106,Apartment
+999110.0,Fresno,CA,3,2,3588,6433,2008,64,Single Family
+322944.0,Fresno,TX,3,3,2897,4271,1953,7,Multi-Family
+425156.0,San Francisco,TX,2,3,2594,4987,1980,11,Townhouse
+1093748.0,Los Angeles,NY,5,1,3700,4457,1965,8,Condo
+321468.0,San Diego,IL,5,3,1731,4797,1996,24,Single Family
+1470886.0,San Diego,NY,1,3,2655,1827,2014,113,Multi-Family
+850616.0,Sacramento,NY,6,4,2393,3233,2000,93,Condo
+1177500.0,Los Angeles,FL,1,3,3431,2225,1975,26,Apartment
+259450.0,Fresno,TX,2,3,1184,8726,2000,14,Townhouse
+123916.0,San Francisco,TX,5,2,3567,3625,2016,1,Apartment
+655234.0,Fresno,FL,4,4,3012,3101,1983,110,Multi-Family
+1043450.0,San Diego,CA,1,3,2089,2049,1960,70,Apartment
+423673.0,San Diego,FL,1,1,2855,8809,1971,54,Condo
+156591.0,Sacramento,CA,6,4,2022,9339,1965,22,Apartment
+433833.0,Los Angeles,FL,2,2,2258,8248,1994,32,Single Family
+1471135.0,San Diego,IL,1,4,3455,6805,1982,3,Apartment
+398826.0,San Francisco,TX,5,1,1635,9017,1965,7,Single Family
+741530.0,Fresno,TX,5,2,1116,2424,2015,83,Single Family
+589018.0,Fresno,IL,2,1,3426,9940,1961,7,Single Family
+1325428.0,San Francisco,NY,4,1,2932,4861,2021,7,Multi-Family
+1330743.0,San Diego,FL,3,2,2826,2731,1975,114,Single Family
+1200171.0,Fresno,IL,4,1,2705,3351,1958,8,Apartment
+580318.0,Los Angeles,FL,1,4,3522,6318,1969,84,Apartment
+211740.0,Fresno,TX,2,4,3367,2926,2011,52,Single Family
+330377.0,Fresno,IL,3,2,2452,8527,1972,103,Condo
+942211.0,San Francisco,CA,2,2,1135,8012,2014,6,Single Family
+1172234.0,Los Angeles,FL,4,2,1476,3722,1960,3,Single Family
+1102666.0,San Francisco,NY,3,2,1572,5857,1979,71,Apartment
+815809.0,San Diego,IL,3,4,1124,9929,1962,88,Apartment
+657892.0,San Diego,FL,6,4,1415,6959,1985,56,Apartment
+175195.0,Los Angeles,CA,6,1,3266,7354,1970,109,Condo
+1190257.0,Los Angeles,CA,5,3,1972,8443,1993,62,Townhouse
+1297513.0,Fresno,CA,6,1,1943,5780,2015,31,Single Family
+927642.0,Sacramento,NY,3,3,1441,4729,2011,96,Condo
+1380179.0,Fresno,NY,6,1,1906,2834,2014,73,Apartment
+978038.0,Sacramento,IL,5,3,1415,7349,2012,16,Apartment
+699502.0,San Diego,CA,5,4,1947,7088,2000,1,Apartment
+703104.0,Sacramento,IL,2,4,3525,5416,1983,99,Townhouse
+496299.0,Los Angeles,TX,3,1,2955,7611,1954,115,Apartment
+1101382.0,Fresno,IL,3,3,2388,6640,1981,46,Apartment
+1049061.0,Los Angeles,CA,3,4,1252,8032,1985,15,Apartment
+1170490.0,San Francisco,IL,2,4,3725,1153,1957,39,Condo
+972358.0,Sacramento,NY,2,3,1228,2275,2012,54,Townhouse
+518811.0,Fresno,NY,3,4,2819,7024,1988,12,Condo
+794201.0,Los Angeles,IL,1,4,1551,7915,2022,113,Single Family
+1153651.0,Sacramento,FL,5,1,1232,8084,2009,73,Apartment
+311336.0,Los Angeles,IL,4,3,2247,2375,2005,118,Single Family
+1222243.0,Sacramento,TX,5,2,1439,3680,2010,69,Condo
+1275945.0,San Diego,CA,6,3,2771,6322,1973,106,Townhouse
+617079.0,Sacramento,CA,2,4,2151,2613,2020,82,Single Family
+1143302.0,San Diego,FL,6,3,3213,6152,1975,67,Condo
+506080.0,San Diego,NY,6,2,1764,5757,2001,95,Townhouse
+444833.0,Sacramento,TX,2,4,2840,9188,1997,51,Single Family
+228472.0,Sacramento,NY,6,1,2199,5067,1955,84,Townhouse
+1159353.0,San Diego,FL,3,3,1349,1096,1954,109,Townhouse
+159743.0,San Francisco,NY,4,3,2557,5121,1963,11,Single Family
+1456442.0,Fresno,FL,1,1,1977,6017,2020,68,Townhouse
+987535.0,San Diego,FL,6,3,2237,2793,1987,105,Condo
+216447.0,San Diego,CA,5,4,2659,3485,2005,73,Single Family
+281436.0,Sacramento,TX,1,4,732,8385,2023,38,Single Family
+651450.0,Fresno,FL,2,3,1037,6562,1994,55,Single Family
+1479856.0,Los Angeles,NY,2,2,648,8381,2010,106,Condo
+190824.0,San Francisco,CA,4,3,2702,4615,2023,7,Multi-Family
+1403737.0,Fresno,TX,3,2,2704,1267,1983,85,Apartment
+389653.0,Fresno,TX,2,4,1176,3948,1968,12,Condo
+1446565.0,San Diego,TX,1,3,1093,7597,1975,36,Multi-Family
+116376.0,San Diego,FL,3,1,1296,2978,1968,55,Condo
+604616.0,San Diego,CA,2,3,608,8301,1991,76,Multi-Family
+895042.0,Sacramento,TX,5,1,2015,4797,2000,116,Single Family
+1405348.0,Sacramento,IL,6,2,2902,2112,1955,13,Townhouse
+1028996.0,Sacramento,TX,6,2,1827,1105,1965,66,Condo
+105815.0,Sacramento,NY,1,3,2472,3698,1999,106,Condo
+324648.0,San Francisco,FL,3,3,2815,2298,1974,6,Single Family
+564670.0,Fresno,FL,1,4,3713,4531,2017,76,Apartment
+1422607.0,Los Angeles,TX,2,2,2000,1047,2019,88,Townhouse
+1466346.0,Sacramento,CA,6,4,2942,9750,2019,90,Apartment
+160897.0,Fresno,NY,5,2,3935,2887,1980,119,Multi-Family
+436022.0,Los Angeles,TX,5,3,1419,3083,2008,109,Apartment
+945774.0,Sacramento,FL,1,3,2696,2581,2000,53,Single Family
+510098.0,San Francisco,FL,5,1,2729,7204,1977,84,Multi-Family
+461841.0,San Francisco,NY,6,1,3455,9429,1990,110,Condo
+576151.0,San Francisco,NY,1,3,2095,5672,1982,58,Condo
+158429.0,Fresno,FL,3,3,3000,3035,1950,84,Apartment
+852100.0,Fresno,CA,1,1,3449,8631,1979,90,Multi-Family
+1253720.0,San Diego,TX,6,4,1223,8807,2005,66,Multi-Family
+465743.0,San Francisco,NY,3,2,2826,8121,1962,106,Apartment
+324975.0,Sacramento,NY,5,3,2677,6781,1964,19,Single Family
+574029.0,Los Angeles,TX,6,2,2086,2264,1997,63,Townhouse
+1432839.0,Fresno,TX,5,4,1879,7859,2012,12,Condo
+1233794.0,San Diego,IL,3,3,1952,7526,1974,84,Multi-Family
+1322594.0,San Francisco,TX,5,4,2471,1915,1984,66,Townhouse
+1460985.0,Fresno,FL,6,2,1122,1406,2011,62,Single Family
+1324558.0,Fresno,IL,2,4,937,4818,1953,49,Townhouse
+867826.0,Sacramento,TX,4,3,2211,8363,2017,45,Townhouse
+1035884.0,Los Angeles,IL,2,3,2011,6213,1969,86,Townhouse
+334465.0,San Francisco,CA,2,4,3861,5073,2023,119,Townhouse
+983059.0,San Francisco,CA,6,2,1765,7387,1974,12,Townhouse
+883696.0,Fresno,IL,5,3,2003,5049,1952,21,Single Family
+671605.0,San Francisco,IL,1,3,3095,4763,2017,45,Apartment
+853376.0,Los Angeles,TX,5,4,944,7667,1995,64,Townhouse
+770472.0,San Diego,FL,2,1,3059,1551,1969,99,Single Family
+388184.0,San Diego,TX,4,1,1321,9824,1958,4,Multi-Family
+885549.0,Sacramento,NY,3,4,2967,6454,2009,74,Single Family
+625188.0,San Diego,IL,4,4,2050,9573,1957,73,Multi-Family
+1461196.0,Los Angeles,IL,6,4,2379,5800,1994,113,Condo
+1052043.0,Los Angeles,IL,3,1,1846,7220,1957,117,Townhouse
+135403.0,Los Angeles,TX,3,2,2961,3830,1970,76,Condo
+999822.0,Los Angeles,NY,2,1,2610,9730,1959,18,Townhouse
+635574.0,Fresno,CA,4,4,3429,7503,2023,51,Multi-Family
+658161.0,San Francisco,NY,1,3,3452,6175,1954,2,Townhouse
+453812.0,Los Angeles,IL,6,4,1237,7144,1986,45,Condo
+735476.0,San Diego,IL,1,3,1861,6552,1983,71,Multi-Family
+1035174.0,Sacramento,IL,1,4,1152,9537,1998,20,Townhouse
+1003613.0,Sacramento,CA,6,1,1047,1757,1954,60,Condo
+858649.0,Fresno,CA,2,3,3915,1747,1982,20,Single Family
+580183.0,San Francisco,NY,5,1,1743,2671,2019,21,Townhouse
+1377244.0,Fresno,IL,2,3,2079,5705,2020,23,Single Family
+1238285.0,Fresno,CA,2,4,3303,2373,1963,97,Apartment
+1151470.0,San Diego,IL,5,1,3688,6659,1993,81,Multi-Family
+643240.0,San Diego,TX,3,1,3608,8941,1959,56,Condo
+709999.0,San Francisco,TX,5,2,2338,7359,1980,38,Single Family
+1167986.0,Sacramento,FL,6,1,1226,2485,1972,62,Townhouse
+1342049.0,San Diego,NY,5,2,3552,4359,1970,19,Condo
+1065578.0,Fresno,FL,2,4,3062,1885,2005,109,Single Family
+738309.0,Los Angeles,NY,5,4,1862,9985,2021,87,Apartment
+1036105.0,Sacramento,CA,5,1,3270,8752,1973,63,Single Family
+193808.0,San Diego,IL,4,1,2396,4180,1972,105,Single Family
+195265.0,San Diego,IL,3,2,3884,7053,2013,39,Multi-Family
+1158742.0,Sacramento,IL,2,1,2241,5947,1950,33,Apartment
+801824.0,San Diego,TX,3,4,3318,6745,2022,61,Multi-Family
+843703.0,Sacramento,CA,6,2,900,8046,2012,64,Multi-Family
+743513.0,Fresno,TX,4,3,2921,2041,2005,48,Multi-Family
+211664.0,San Diego,TX,2,4,701,1344,2017,117,Single Family
+712029.0,Los Angeles,NY,4,3,2967,8071,1985,32,Condo
