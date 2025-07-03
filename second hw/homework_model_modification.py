@@ -182,10 +182,10 @@ class EarlyStopper:
                 'w': param[0].clone().detach(),
                 'b': param[1].clone().detach()
             }
-            print(f"Наименьший loss - {self.best_loss:.4f}")
+            # print(f"Наименьший loss - {self.best_loss:.4f}")
         else:
             self.counter += 1
-            print(f"До остановки - {self.counter}/{self.patience}")
+            # print(f"До остановки - {self.counter}/{self.patience}")
         
         if self.counter >= self.patience:
             return True

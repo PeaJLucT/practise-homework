@@ -53,7 +53,7 @@ class CustomCsvDataset(Dataset):
 
         self.X = torch.tensor(X_processed.values, dtype=torch.float32)
         self.y = torch.tensor((y.values), dtype=torch.float32).unsqueeze(1)
-        # для первого датасета
+        # для классификации
         # self.y = torch.tensor((y.values - 1), dtype=torch.long)
     def __len__(self):
         return len(self.X)

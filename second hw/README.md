@@ -471,9 +471,12 @@ if __name__ == '__main__':
 ```python
 # Проведите эксперименты с различными:
 # - Скоростями обучения (learning rate)
+![alt text](image-5.png)
 # - Размерами батчей
+![alt text](image-6.png)
 # - Оптимизаторами (SGD, Adam, RMSprop)
 # Визуализируйте результаты в виде графиков или таблиц
+![alt text](image-7.png)
 ```
 
 ### 3.2 Feature Engineering
