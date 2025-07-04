@@ -126,7 +126,7 @@ def train_model(model, train_loader, test_loader, epochs=10, lr=0.001, device='c
         print(f'Test Loss: {test_loss:.4f}, Test Acc: {test_acc:.4f}')
         print('-' * 50)
 
-        path=f'results/depth_experiment/{name}'
+        path=f'results/width_experiments/{name}'
         if test_acc > best_test_acc:
             best_test_acc = test_acc
             save_model(
